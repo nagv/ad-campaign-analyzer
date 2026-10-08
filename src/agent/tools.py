@@ -77,12 +77,14 @@ def trend_summary(df: pd.DataFrame, metric: str = "Conversions", freq: str = "We
         "metric": metric,
         "granularity": freq,
         "periods": int(len(ts)),
-        "first_period": fmt_metric(metric, first),
-        "last_period": fmt_metric(metric, last),
+        "first_period": f"{ts['Date'].iloc[0]:%Y-%m-%d}",
+        "first_value": fmt_metric(metric, first),
+        "last_period": f"{ts['Date'].iloc[-1]:%Y-%m-%d}",
+        "last_value": fmt_metric(metric, last),
         "change_first_to_last": None if change is None else f"{change * 100:+.1f}%",
         "peak_period": None if peak is None else f"{peak['Date']:%Y-%m-%d}",
         "peak_value": None if peak is None else fmt_metric(metric, peak[metric]),
-        "series": [{"period": f"{d:%Y-%m-%d}", metric: fmt_metric(metric, v)}
+        "recent_series_last_12_periods": [{"period": f"{d:%Y-%m-%d}", metric: fmt_metric(metric, v)}
                    for d, v in zip(ts["Date"].tail(12), values.tail(12))],
     }
 

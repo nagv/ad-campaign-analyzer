@@ -35,6 +35,8 @@ def test_trend_summary(df):
     assert out["periods"] == 4
     assert out["peak_period"] == "2026-01-03"
     assert out["change_first_to_last"] == "-50.0%"
+    assert (out["first_period"], out["first_value"]) == ("2026-01-01", "$100")
+    assert (out["last_period"], out["last_value"]) == ("2026-01-04", "$50.00")
 
 
 def test_anomalies_flags_spike(df):
