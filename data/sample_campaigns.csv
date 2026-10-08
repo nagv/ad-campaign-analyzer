@@ -1,0 +1,1731 @@
+Date,Campaign_ID,Campaign_Name,Channel,Target_Audience,Campaign_Goal,Spend,Impressions,Clicks,Conversions,Revenue
+2026-04-01,C1002,Facebook Back to School 2,Facebook,All Ages,Brand Awareness,99.04,11014,191,4,229.5
+2026-04-02,C1002,Facebook Back to School 2,Facebook,All Ages,Brand Awareness,66.11,7645,133,4,273.44
+2026-04-03,C1002,Facebook Back to School 2,Facebook,All Ages,Brand Awareness,85.9,8899,117,5,305.9
+2026-04-03,C1016,Pinterest Loyalty Push 4,Pinterest,Women 35-44,Brand Awareness,201.34,33773,282,6,543.02
+2026-04-03,C1019,Twitter Summer Sale 1,Twitter,Women 35-44,Brand Awareness,184.3,20750,228,1,55.23
+2026-04-04,C1002,Facebook Back to School 2,Facebook,All Ages,Brand Awareness,76.13,8243,112,3,174.32
+2026-04-04,C1016,Pinterest Loyalty Push 4,Pinterest,Women 35-44,Brand Awareness,191.99,28534,214,8,835.07
+2026-04-04,C1019,Twitter Summer Sale 1,Twitter,Women 35-44,Brand Awareness,154.47,17404,179,0,0.0
+2026-04-05,C1002,Facebook Back to School 2,Facebook,All Ages,Brand Awareness,103.6,11141,156,3,164.39
+2026-04-05,C1016,Pinterest Loyalty Push 4,Pinterest,Women 35-44,Brand Awareness,212.51,31706,241,3,250.89
+2026-04-05,C1019,Twitter Summer Sale 1,Twitter,Women 35-44,Brand Awareness,157.48,21080,183,1,59.69
+2026-04-06,C1002,Facebook Back to School 2,Facebook,All Ages,Brand Awareness,52.8,4993,79,4,257.82
+2026-04-06,C1016,Pinterest Loyalty Push 4,Pinterest,Women 35-44,Brand Awareness,163.07,28941,249,7,512.39
+2026-04-06,C1019,Twitter Summer Sale 1,Twitter,Women 35-44,Brand Awareness,130.0,15935,120,2,110.31
+2026-04-07,C1002,Facebook Back to School 2,Facebook,All Ages,Brand Awareness,109.28,11046,159,3,221.43
+2026-04-07,C1016,Pinterest Loyalty Push 4,Pinterest,Women 35-44,Brand Awareness,138.62,23120,218,5,404.7
+2026-04-07,C1017,Pinterest Flash Deal 5,Pinterest,Men 18-24,Brand Awareness,77.9,14450,113,4,316.67
+2026-04-07,C1019,Twitter Summer Sale 1,Twitter,Women 35-44,Brand Awareness,151.02,19918,197,4,219.94
+2026-04-08,C1002,Facebook Back to School 2,Facebook,All Ages,Brand Awareness,85.85,10877,171,10,576.15
+2026-04-08,C1016,Pinterest Loyalty Push 4,Pinterest,Women 35-44,Brand Awareness,160.34,23847,175,3,240.08
+2026-04-08,C1017,Pinterest Flash Deal 5,Pinterest,Men 18-24,Brand Awareness,118.68,17116,101,4,308.72
+2026-04-08,C1019,Twitter Summer Sale 1,Twitter,Women 35-44,Brand Awareness,142.71,17535,187,0,0.0
+2026-04-09,C1002,Facebook Back to School 2,Facebook,All Ages,Brand Awareness,100.18,10809,154,3,192.26
+2026-04-09,C1016,Pinterest Loyalty Push 4,Pinterest,Women 35-44,Brand Awareness,222.71,41285,331,6,558.76
+2026-04-09,C1017,Pinterest Flash Deal 5,Pinterest,Men 18-24,Brand Awareness,126.41,20876,168,4,335.6
+2026-04-09,C1019,Twitter Summer Sale 1,Twitter,Women 35-44,Brand Awareness,148.73,22436,264,4,225.96
+2026-04-10,C1002,Facebook Back to School 2,Facebook,All Ages,Brand Awareness,91.83,8622,148,8,461.6
+2026-04-10,C1016,Pinterest Loyalty Push 4,Pinterest,Women 35-44,Brand Awareness,199.8,36791,259,4,372.49
+2026-04-10,C1017,Pinterest Flash Deal 5,Pinterest,Men 18-24,Brand Awareness,111.39,17952,146,2,182.48
+2026-04-10,C1019,Twitter Summer Sale 1,Twitter,Women 35-44,Brand Awareness,152.25,20651,165,1,57.3
+2026-04-11,C1002,Facebook Back to School 2,Facebook,All Ages,Brand Awareness,112.78,11185,174,6,398.94
+2026-04-11,C1016,Pinterest Loyalty Push 4,Pinterest,Women 35-44,Brand Awareness,214.3,35297,253,7,627.94
+2026-04-11,C1017,Pinterest Flash Deal 5,Pinterest,Men 18-24,Brand Awareness,136.14,21726,143,3,218.91
+2026-04-11,C1019,Twitter Summer Sale 1,Twitter,Women 35-44,Brand Awareness,183.74,22818,216,3,183.7
+2026-04-12,C1002,Facebook Back to School 2,Facebook,All Ages,Brand Awareness,99.21,9355,112,6,380.39
+2026-04-12,C1016,Pinterest Loyalty Push 4,Pinterest,Women 35-44,Brand Awareness,219.85,36664,276,5,440.63
+2026-04-12,C1017,Pinterest Flash Deal 5,Pinterest,Men 18-24,Brand Awareness,119.55,23383,247,3,240.99
+2026-04-12,C1019,Twitter Summer Sale 1,Twitter,Women 35-44,Brand Awareness,189.15,27465,243,8,502.65
+2026-04-13,C1002,Facebook Back to School 2,Facebook,All Ages,Brand Awareness,99.86,10108,132,6,278.94
+2026-04-13,C1016,Pinterest Loyalty Push 4,Pinterest,Women 35-44,Brand Awareness,176.42,24250,150,2,161.84
+2026-04-13,C1017,Pinterest Flash Deal 5,Pinterest,Men 18-24,Brand Awareness,97.72,16487,119,0,0.0
+2026-04-13,C1019,Twitter Summer Sale 1,Twitter,Women 35-44,Brand Awareness,122.73,18211,218,3,152.75
+2026-04-14,C1002,Facebook Back to School 2,Facebook,All Ages,Brand Awareness,59.14,6133,88,5,289.04
+2026-04-14,C1016,Pinterest Loyalty Push 4,Pinterest,Women 35-44,Brand Awareness,179.14,32757,251,8,633.4
+2026-04-14,C1017,Pinterest Flash Deal 5,Pinterest,Men 18-24,Brand Awareness,91.52,15453,134,4,319.22
+2026-04-14,C1019,Twitter Summer Sale 1,Twitter,Women 35-44,Brand Awareness,170.85,22811,165,4,241.07
+2026-04-15,C1002,Facebook Back to School 2,Facebook,All Ages,Brand Awareness,72.06,8313,103,2,116.28
+2026-04-15,C1003,Facebook New Arrivals 3,Facebook,Women 25-34,Market Expansion,113.17,13455,109,5,285.27
+2026-04-15,C1016,Pinterest Loyalty Push 4,Pinterest,Women 35-44,Brand Awareness,222.28,37858,334,11,795.08
+2026-04-15,C1017,Pinterest Flash Deal 5,Pinterest,Men 18-24,Brand Awareness,147.34,25372,232,5,372.01
+2026-04-15,C1019,Twitter Summer Sale 1,Twitter,Women 35-44,Brand Awareness,141.65,18068,189,3,141.86
+2026-04-16,C1002,Facebook Back to School 2,Facebook,All Ages,Brand Awareness,116.94,12759,154,4,261.78
+2026-04-16,C1003,Facebook New Arrivals 3,Facebook,Women 25-34,Market Expansion,151.12,17380,126,7,423.02
+2026-04-16,C1016,Pinterest Loyalty Push 4,Pinterest,Women 35-44,Brand Awareness,123.75,17776,148,2,123.93
+2026-04-16,C1017,Pinterest Flash Deal 5,Pinterest,Men 18-24,Brand Awareness,122.55,19598,149,4,285.6
+2026-04-16,C1019,Twitter Summer Sale 1,Twitter,Women 35-44,Brand Awareness,122.08,16493,180,3,141.0
+2026-04-17,C1002,Facebook Back to School 2,Facebook,All Ages,Brand Awareness,75.75,9081,175,5,251.7
+2026-04-17,C1003,Facebook New Arrivals 3,Facebook,Women 25-34,Market Expansion,154.51,15393,150,7,416.19
+2026-04-17,C1016,Pinterest Loyalty Push 4,Pinterest,Women 35-44,Brand Awareness,167.04,28786,269,9,881.27
+2026-04-17,C1017,Pinterest Flash Deal 5,Pinterest,Men 18-24,Brand Awareness,130.21,24022,205,7,605.76
+2026-04-17,C1019,Twitter Summer Sale 1,Twitter,Women 35-44,Brand Awareness,146.34,17833,187,3,156.47
+2026-04-18,C1002,Facebook Back to School 2,Facebook,All Ages,Brand Awareness,92.49,9563,151,7,451.96
+2026-04-18,C1003,Facebook New Arrivals 3,Facebook,Women 25-34,Market Expansion,153.98,16592,189,3,165.04
+2026-04-18,C1016,Pinterest Loyalty Push 4,Pinterest,Women 35-44,Brand Awareness,241.17,41321,312,11,902.35
+2026-04-18,C1017,Pinterest Flash Deal 5,Pinterest,Men 18-24,Brand Awareness,152.55,26232,183,4,358.36
+2026-04-18,C1019,Twitter Summer Sale 1,Twitter,Women 35-44,Brand Awareness,129.19,20123,234,2,136.63
+2026-04-19,C1002,Facebook Back to School 2,Facebook,All Ages,Brand Awareness,94.0,10507,177,2,134.74
+2026-04-19,C1003,Facebook New Arrivals 3,Facebook,Women 25-34,Market Expansion,199.95,24430,217,7,446.64
+2026-04-19,C1016,Pinterest Loyalty Push 4,Pinterest,Women 35-44,Brand Awareness,232.14,41216,305,11,910.37
+2026-04-19,C1017,Pinterest Flash Deal 5,Pinterest,Men 18-24,Brand Awareness,138.22,23237,204,8,675.44
+2026-04-19,C1019,Twitter Summer Sale 1,Twitter,Women 35-44,Brand Awareness,161.35,22104,240,4,226.17
+2026-04-20,C1002,Facebook Back to School 2,Facebook,All Ages,Brand Awareness,88.55,10537,178,4,175.32
+2026-04-20,C1003,Facebook New Arrivals 3,Facebook,Women 25-34,Market Expansion,177.53,21660,130,2,139.48
+2026-04-20,C1016,Pinterest Loyalty Push 4,Pinterest,Women 35-44,Brand Awareness,188.58,32652,276,9,730.65
+2026-04-20,C1017,Pinterest Flash Deal 5,Pinterest,Men 18-24,Brand Awareness,108.2,21898,136,2,169.7
+2026-04-20,C1019,Twitter Summer Sale 1,Twitter,Women 35-44,Brand Awareness,170.83,21596,206,3,156.1
+2026-04-21,C1002,Facebook Back to School 2,Facebook,All Ages,Brand Awareness,91.18,7174,76,0,0.0
+2026-04-21,C1003,Facebook New Arrivals 3,Facebook,Women 25-34,Market Expansion,112.87,12878,96,5,328.68
+2026-04-21,C1016,Pinterest Loyalty Push 4,Pinterest,Women 35-44,Brand Awareness,174.55,26174,200,5,420.73
+2026-04-21,C1017,Pinterest Flash Deal 5,Pinterest,Men 18-24,Brand Awareness,97.09,17325,133,5,442.58
+2026-04-21,C1019,Twitter Summer Sale 1,Twitter,Women 35-44,Brand Awareness,141.46,19198,193,5,257.87
+2026-04-21,C1024,Twitter Holiday Preview 6,Twitter,Women 25-34,Market Expansion,109.76,16539,129,5,260.9
+2026-04-22,C1002,Facebook Back to School 2,Facebook,All Ages,Brand Awareness,106.35,11359,203,6,370.68
+2026-04-22,C1003,Facebook New Arrivals 3,Facebook,Women 25-34,Market Expansion,135.7,15772,119,1,58.4
+2026-04-22,C1016,Pinterest Loyalty Push 4,Pinterest,Women 35-44,Brand Awareness,201.68,30559,266,4,336.0
+2026-04-22,C1017,Pinterest Flash Deal 5,Pinterest,Men 18-24,Brand Awareness,102.47,15003,158,4,376.07
+2026-04-22,C1019,Twitter Summer Sale 1,Twitter,Women 35-44,Brand Awareness,136.27,19019,208,1,50.41
+2026-04-22,C1024,Twitter Holiday Preview 6,Twitter,Women 25-34,Market Expansion,146.43,19680,162,3,162.04
+2026-04-23,C1002,Facebook Back to School 2,Facebook,All Ages,Brand Awareness,64.35,7003,109,4,253.53
+2026-04-23,C1003,Facebook New Arrivals 3,Facebook,Women 25-34,Market Expansion,157.86,17898,145,4,209.12
+2026-04-23,C1015,Pinterest New Arrivals 3,Pinterest,Men 25-34,Increase Sales,367.7,59976,377,13,1139.76
+2026-04-23,C1016,Pinterest Loyalty Push 4,Pinterest,Women 35-44,Brand Awareness,140.23,26047,176,9,805.22
+2026-04-23,C1017,Pinterest Flash Deal 5,Pinterest,Men 18-24,Brand Awareness,129.2,22330,157,7,715.08
+2026-04-23,C1019,Twitter Summer Sale 1,Twitter,Women 35-44,Brand Awareness,114.86,14480,142,2,100.1
+2026-04-23,C1024,Twitter Holiday Preview 6,Twitter,Women 25-34,Market Expansion,169.07,22991,214,4,183.0
+2026-04-24,C1002,Facebook Back to School 2,Facebook,All Ages,Brand Awareness,94.78,9688,132,3,194.62
+2026-04-24,C1003,Facebook New Arrivals 3,Facebook,Women 25-34,Market Expansion,172.16,21221,162,4,242.61
+2026-04-24,C1015,Pinterest New Arrivals 3,Pinterest,Men 25-34,Increase Sales,278.9,48413,276,19,1634.76
+2026-04-24,C1016,Pinterest Loyalty Push 4,Pinterest,Women 35-44,Brand Awareness,113.79,17392,107,0,0.0
+2026-04-24,C1017,Pinterest Flash Deal 5,Pinterest,Men 18-24,Brand Awareness,98.9,16472,121,1,76.68
+2026-04-24,C1019,Twitter Summer Sale 1,Twitter,Women 35-44,Brand Awareness,146.44,19044,174,1,57.57
+2026-04-24,C1024,Twitter Holiday Preview 6,Twitter,Women 25-34,Market Expansion,164.64,25192,158,2,124.64
+2026-04-25,C1002,Facebook Back to School 2,Facebook,All Ages,Brand Awareness,71.07,8041,146,6,360.74
+2026-04-25,C1003,Facebook New Arrivals 3,Facebook,Women 25-34,Market Expansion,155.28,17791,191,4,241.28
+2026-04-25,C1006,Facebook Holiday Preview 6,Facebook,Women 25-34,Increase Sales,146.04,14904,118,6,370.98
+2026-04-25,C1014,Pinterest Back to School 2,Pinterest,Women 25-34,Market Expansion,319.5,52295,319,11,826.31
+2026-04-25,C1015,Pinterest New Arrivals 3,Pinterest,Men 25-34,Increase Sales,499.96,77947,532,11,984.42
+2026-04-25,C1016,Pinterest Loyalty Push 4,Pinterest,Women 35-44,Brand Awareness,257.97,47239,397,14,1053.41
+2026-04-25,C1017,Pinterest Flash Deal 5,Pinterest,Men 18-24,Brand Awareness,148.24,23158,185,4,291.28
+2026-04-25,C1019,Twitter Summer Sale 1,Twitter,Women 35-44,Brand Awareness,134.78,15586,120,3,142.25
+2026-04-25,C1024,Twitter Holiday Preview 6,Twitter,Women 25-34,Market Expansion,158.98,20350,214,6,286.06
+2026-04-26,C1002,Facebook Back to School 2,Facebook,All Ages,Brand Awareness,89.58,10646,187,6,400.53
+2026-04-26,C1003,Facebook New Arrivals 3,Facebook,Women 25-34,Market Expansion,134.38,13893,104,7,379.87
+2026-04-26,C1006,Facebook Holiday Preview 6,Facebook,Women 25-34,Increase Sales,249.69,26108,179,6,370.79
+2026-04-26,C1014,Pinterest Back to School 2,Pinterest,Women 25-34,Market Expansion,316.16,48879,399,19,1428.12
+2026-04-26,C1015,Pinterest New Arrivals 3,Pinterest,Men 25-34,Increase Sales,482.22,79447,409,11,862.54
+2026-04-26,C1016,Pinterest Loyalty Push 4,Pinterest,Women 35-44,Brand Awareness,238.59,38392,265,7,716.82
+2026-04-26,C1017,Pinterest Flash Deal 5,Pinterest,Men 18-24,Brand Awareness,104.64,15656,173,7,622.39
+2026-04-26,C1019,Twitter Summer Sale 1,Twitter,Women 35-44,Brand Awareness,148.26,23139,255,4,208.32
+2026-04-26,C1024,Twitter Holiday Preview 6,Twitter,Women 25-34,Market Expansion,168.34,22988,204,3,176.22
+2026-04-27,C1002,Facebook Back to School 2,Facebook,All Ages,Brand Awareness,87.17,9786,146,4,248.07
+2026-04-27,C1003,Facebook New Arrivals 3,Facebook,Women 25-34,Market Expansion,168.62,17739,177,2,152.84
+2026-04-27,C1006,Facebook Holiday Preview 6,Facebook,Women 25-34,Increase Sales,243.93,26987,172,8,429.31
+2026-04-27,C1014,Pinterest Back to School 2,Pinterest,Women 25-34,Market Expansion,377.9,68632,572,21,1416.19
+2026-04-27,C1015,Pinterest New Arrivals 3,Pinterest,Men 25-34,Increase Sales,430.56,64937,535,34,2862.2
+2026-04-27,C1016,Pinterest Loyalty Push 4,Pinterest,Women 35-44,Brand Awareness,176.59,32722,282,8,552.37
+2026-04-27,C1017,Pinterest Flash Deal 5,Pinterest,Men 18-24,Brand Awareness,108.63,21119,194,5,410.17
+2026-04-27,C1019,Twitter Summer Sale 1,Twitter,Women 35-44,Brand Awareness,117.31,13915,139,3,156.61
+2026-04-27,C1024,Twitter Holiday Preview 6,Twitter,Women 25-34,Market Expansion,142.36,18173,148,1,65.25
+2026-04-28,C1002,Facebook Back to School 2,Facebook,All Ages,Brand Awareness,90.53,10598,141,2,117.79
+2026-04-28,C1003,Facebook New Arrivals 3,Facebook,Women 25-34,Market Expansion,178.61,19358,138,5,355.48
+2026-04-28,C1006,Facebook Holiday Preview 6,Facebook,Women 25-34,Increase Sales,176.78,19445,125,7,445.25
+2026-04-28,C1014,Pinterest Back to School 2,Pinterest,Women 25-34,Market Expansion,288.27,54264,428,14,1174.69
+2026-04-28,C1015,Pinterest New Arrivals 3,Pinterest,Men 25-34,Increase Sales,268.4,50112,395,18,1674.6
+2026-04-28,C1016,Pinterest Loyalty Push 4,Pinterest,Women 35-44,Brand Awareness,194.93,32172,214,4,323.01
+2026-04-28,C1017,Pinterest Flash Deal 5,Pinterest,Men 18-24,Brand Awareness,148.17,25494,203,1,83.42
+2026-04-28,C1019,Twitter Summer Sale 1,Twitter,Women 35-44,Brand Awareness,145.53,16914,160,1,49.97
+2026-04-28,C1024,Twitter Holiday Preview 6,Twitter,Women 25-34,Market Expansion,172.61,24999,217,5,277.15
+2026-04-29,C1002,Facebook Back to School 2,Facebook,All Ages,Brand Awareness,59.89,6098,81,2,128.21
+2026-04-29,C1003,Facebook New Arrivals 3,Facebook,Women 25-34,Market Expansion,137.43,18078,155,9,510.36
+2026-04-29,C1006,Facebook Holiday Preview 6,Facebook,Women 25-34,Increase Sales,156.88,16807,130,6,432.54
+2026-04-29,C1014,Pinterest Back to School 2,Pinterest,Women 25-34,Market Expansion,253.5,38972,408,5,448.88
+2026-04-29,C1015,Pinterest New Arrivals 3,Pinterest,Men 25-34,Increase Sales,265.06,45190,267,7,452.94
+2026-04-29,C1016,Pinterest Loyalty Push 4,Pinterest,Women 35-44,Brand Awareness,175.09,26810,270,7,699.63
+2026-04-29,C1017,Pinterest Flash Deal 5,Pinterest,Men 18-24,Brand Awareness,85.56,13402,85,2,158.58
+2026-04-29,C1019,Twitter Summer Sale 1,Twitter,Women 35-44,Brand Awareness,164.32,19222,161,0,0.0
+2026-04-29,C1024,Twitter Holiday Preview 6,Twitter,Women 25-34,Market Expansion,174.19,20904,149,2,112.09
+2026-04-30,C1002,Facebook Back to School 2,Facebook,All Ages,Brand Awareness,90.16,10346,187,5,346.82
+2026-04-30,C1003,Facebook New Arrivals 3,Facebook,Women 25-34,Market Expansion,151.92,18215,148,2,123.83
+2026-04-30,C1006,Facebook Holiday Preview 6,Facebook,Women 25-34,Increase Sales,203.65,26954,201,10,599.28
+2026-04-30,C1014,Pinterest Back to School 2,Pinterest,Women 25-34,Market Expansion,273.0,47566,302,8,722.32
+2026-04-30,C1015,Pinterest New Arrivals 3,Pinterest,Men 25-34,Increase Sales,226.09,43102,383,16,1290.04
+2026-04-30,C1016,Pinterest Loyalty Push 4,Pinterest,Women 35-44,Brand Awareness,158.92,26108,215,4,370.26
+2026-04-30,C1017,Pinterest Flash Deal 5,Pinterest,Men 18-24,Brand Awareness,109.03,16276,117,2,169.28
+2026-04-30,C1019,Twitter Summer Sale 1,Twitter,Women 35-44,Brand Awareness,162.53,20687,221,4,233.86
+2026-04-30,C1024,Twitter Holiday Preview 6,Twitter,Women 25-34,Market Expansion,164.31,25153,212,2,109.81
+2026-05-01,C1002,Facebook Back to School 2,Facebook,All Ages,Brand Awareness,88.42,9431,147,6,401.97
+2026-05-01,C1003,Facebook New Arrivals 3,Facebook,Women 25-34,Market Expansion,83.22,9105,65,1,64.79
+2026-05-01,C1006,Facebook Holiday Preview 6,Facebook,Women 25-34,Increase Sales,252.12,29554,269,10,665.86
+2026-05-01,C1014,Pinterest Back to School 2,Pinterest,Women 25-34,Market Expansion,234.45,35419,280,11,933.76
+2026-05-01,C1015,Pinterest New Arrivals 3,Pinterest,Men 25-34,Increase Sales,388.52,64687,371,13,1257.93
+2026-05-01,C1016,Pinterest Loyalty Push 4,Pinterest,Women 35-44,Brand Awareness,218.88,36157,262,4,395.25
+2026-05-01,C1017,Pinterest Flash Deal 5,Pinterest,Men 18-24,Brand Awareness,117.24,18884,177,7,638.38
+2026-05-01,C1019,Twitter Summer Sale 1,Twitter,Women 35-44,Brand Awareness,170.58,22350,202,4,217.93
+2026-05-01,C1024,Twitter Holiday Preview 6,Twitter,Women 25-34,Market Expansion,209.43,28571,228,5,289.86
+2026-05-02,C1002,Facebook Back to School 2,Facebook,All Ages,Brand Awareness,110.06,11295,196,4,234.67
+2026-05-02,C1003,Facebook New Arrivals 3,Facebook,Women 25-34,Market Expansion,177.72,19927,169,5,320.18
+2026-05-02,C1006,Facebook Holiday Preview 6,Facebook,Women 25-34,Increase Sales,337.26,36414,252,8,548.44
+2026-05-02,C1014,Pinterest Back to School 2,Pinterest,Women 25-34,Market Expansion,371.58,60527,564,21,1870.52
+2026-05-02,C1015,Pinterest New Arrivals 3,Pinterest,Men 25-34,Increase Sales,415.5,74345,436,25,2104.56
+2026-05-02,C1016,Pinterest Loyalty Push 4,Pinterest,Women 35-44,Brand Awareness,210.94,37966,246,10,741.39
+2026-05-02,C1017,Pinterest Flash Deal 5,Pinterest,Men 18-24,Brand Awareness,131.4,18697,146,5,470.53
+2026-05-02,C1019,Twitter Summer Sale 1,Twitter,Women 35-44,Brand Awareness,171.71,21862,225,4,214.65
+2026-05-02,C1024,Twitter Holiday Preview 6,Twitter,Women 25-34,Market Expansion,177.64,24519,208,7,374.68
+2026-05-03,C1002,Facebook Back to School 2,Facebook,All Ages,Brand Awareness,107.68,11050,189,5,313.67
+2026-05-03,C1003,Facebook New Arrivals 3,Facebook,Women 25-34,Market Expansion,166.55,17593,156,4,256.01
+2026-05-03,C1006,Facebook Holiday Preview 6,Facebook,Women 25-34,Increase Sales,252.85,23498,165,4,248.33
+2026-05-03,C1007,Instagram Summer Sale 1,Instagram,Men 18-24,Market Expansion,448.03,43356,406,20,1255.89
+2026-05-03,C1014,Pinterest Back to School 2,Pinterest,Women 25-34,Market Expansion,441.62,73379,739,30,2412.18
+2026-05-03,C1015,Pinterest New Arrivals 3,Pinterest,Men 25-34,Increase Sales,540.82,84475,605,29,2376.26
+2026-05-03,C1016,Pinterest Loyalty Push 4,Pinterest,Women 35-44,Brand Awareness,222.85,40297,339,4,359.21
+2026-05-03,C1017,Pinterest Flash Deal 5,Pinterest,Men 18-24,Brand Awareness,106.59,14892,124,4,330.31
+2026-05-03,C1019,Twitter Summer Sale 1,Twitter,Women 35-44,Brand Awareness,190.03,24444,207,3,158.04
+2026-05-03,C1024,Twitter Holiday Preview 6,Twitter,Women 25-34,Market Expansion,245.23,34734,349,9,544.02
+2026-05-04,C1002,Facebook Back to School 2,Facebook,All Ages,Brand Awareness,92.13,10111,186,7,496.72
+2026-05-04,C1003,Facebook New Arrivals 3,Facebook,Women 25-34,Market Expansion,111.27,13066,107,2,121.37
+2026-05-04,C1006,Facebook Holiday Preview 6,Facebook,Women 25-34,Increase Sales,233.1,23085,144,4,260.07
+2026-05-04,C1007,Instagram Summer Sale 1,Instagram,Men 18-24,Market Expansion,344.6,30166,291,9,595.75
+2026-05-04,C1014,Pinterest Back to School 2,Pinterest,Women 25-34,Market Expansion,292.65,52907,471,15,1319.2
+2026-05-04,C1015,Pinterest New Arrivals 3,Pinterest,Men 25-34,Increase Sales,322.92,52848,319,11,828.06
+2026-05-04,C1016,Pinterest Loyalty Push 4,Pinterest,Women 35-44,Brand Awareness,196.95,35172,269,5,412.48
+2026-05-04,C1017,Pinterest Flash Deal 5,Pinterest,Men 18-24,Brand Awareness,110.85,18427,185,2,162.26
+2026-05-04,C1019,Twitter Summer Sale 1,Twitter,Women 35-44,Brand Awareness,125.33,15360,138,0,0.0
+2026-05-04,C1024,Twitter Holiday Preview 6,Twitter,Women 25-34,Market Expansion,173.21,26636,260,2,102.34
+2026-05-05,C1002,Facebook Back to School 2,Facebook,All Ages,Brand Awareness,84.12,9199,115,1,70.18
+2026-05-05,C1003,Facebook New Arrivals 3,Facebook,Women 25-34,Market Expansion,152.91,14125,126,3,202.66
+2026-05-05,C1006,Facebook Holiday Preview 6,Facebook,Women 25-34,Increase Sales,210.99,23263,142,3,176.84
+2026-05-05,C1007,Instagram Summer Sale 1,Instagram,Men 18-24,Market Expansion,407.47,35182,424,22,1590.37
+2026-05-05,C1014,Pinterest Back to School 2,Pinterest,Women 25-34,Market Expansion,320.7,52638,409,16,1311.75
+2026-05-05,C1015,Pinterest New Arrivals 3,Pinterest,Men 25-34,Increase Sales,424.26,68003,509,21,1917.79
+2026-05-05,C1016,Pinterest Loyalty Push 4,Pinterest,Women 35-44,Brand Awareness,155.33,27730,169,4,284.21
+2026-05-05,C1017,Pinterest Flash Deal 5,Pinterest,Men 18-24,Brand Awareness,56.21,9844,88,3,266.81
+2026-05-05,C1019,Twitter Summer Sale 1,Twitter,Women 35-44,Brand Awareness,143.16,20060,254,6,306.0
+2026-05-05,C1020,Twitter Back to School 2,Twitter,Women 35-44,Market Expansion,268.99,34401,333,9,499.8
+2026-05-05,C1024,Twitter Holiday Preview 6,Twitter,Women 25-34,Market Expansion,224.85,30586,233,3,152.61
+2026-05-06,C1002,Facebook Back to School 2,Facebook,All Ages,Brand Awareness,128.44,13601,241,7,438.79
+2026-05-06,C1003,Facebook New Arrivals 3,Facebook,Women 25-34,Market Expansion,89.86,8641,94,4,216.55
+2026-05-06,C1006,Facebook Holiday Preview 6,Facebook,Women 25-34,Increase Sales,213.28,22989,186,6,337.25
+2026-05-06,C1007,Instagram Summer Sale 1,Instagram,Men 18-24,Market Expansion,435.07,43318,504,18,1387.57
+2026-05-06,C1014,Pinterest Back to School 2,Pinterest,Women 25-34,Market Expansion,280.88,41008,329,11,851.0
+2026-05-06,C1015,Pinterest New Arrivals 3,Pinterest,Men 25-34,Increase Sales,379.96,54899,441,18,1390.04
+2026-05-06,C1016,Pinterest Loyalty Push 4,Pinterest,Women 35-44,Brand Awareness,220.52,40720,281,8,620.78
+2026-05-06,C1017,Pinterest Flash Deal 5,Pinterest,Men 18-24,Brand Awareness,127.74,20895,180,4,347.91
+2026-05-06,C1019,Twitter Summer Sale 1,Twitter,Women 35-44,Brand Awareness,127.91,18724,145,0,0.0
+2026-05-06,C1020,Twitter Back to School 2,Twitter,Women 35-44,Market Expansion,175.18,22919,196,6,299.17
+2026-05-06,C1024,Twitter Holiday Preview 6,Twitter,Women 25-34,Market Expansion,176.11,24216,181,6,348.19
+2026-05-07,C1002,Facebook Back to School 2,Facebook,All Ages,Brand Awareness,79.04,7799,94,3,200.79
+2026-05-07,C1003,Facebook New Arrivals 3,Facebook,Women 25-34,Market Expansion,70.87,7726,73,0,0.0
+2026-05-07,C1006,Facebook Holiday Preview 6,Facebook,Women 25-34,Increase Sales,172.36,19035,99,4,252.94
+2026-05-07,C1007,Instagram Summer Sale 1,Instagram,Men 18-24,Market Expansion,401.17,32542,287,11,718.6
+2026-05-07,C1014,Pinterest Back to School 2,Pinterest,Women 25-34,Market Expansion,385.41,59766,576,13,1200.0
+2026-05-07,C1015,Pinterest New Arrivals 3,Pinterest,Men 25-34,Increase Sales,416.54,67738,552,24,1963.7
+2026-05-07,C1016,Pinterest Loyalty Push 4,Pinterest,Women 35-44,Brand Awareness,233.31,31954,254,9,661.68
+2026-05-07,C1017,Pinterest Flash Deal 5,Pinterest,Men 18-24,Brand Awareness,82.76,12658,80,0,0.0
+2026-05-07,C1019,Twitter Summer Sale 1,Twitter,Women 35-44,Brand Awareness,130.81,18091,156,1,53.0
+2026-05-07,C1020,Twitter Back to School 2,Twitter,Women 35-44,Market Expansion,182.15,26391,259,7,442.66
+2026-05-07,C1024,Twitter Holiday Preview 6,Twitter,Women 25-34,Market Expansion,215.5,31024,351,2,115.55
+2026-05-08,C1002,Facebook Back to School 2,Facebook,All Ages,Brand Awareness,88.08,9272,149,5,345.03
+2026-05-08,C1003,Facebook New Arrivals 3,Facebook,Women 25-34,Market Expansion,86.4,10073,79,0,0.0
+2026-05-08,C1006,Facebook Holiday Preview 6,Facebook,Women 25-34,Increase Sales,297.42,33497,249,19,1078.42
+2026-05-08,C1007,Instagram Summer Sale 1,Instagram,Men 18-24,Market Expansion,479.43,43764,612,33,2191.75
+2026-05-08,C1009,Instagram New Arrivals 3,Instagram,All Ages,Increase Sales,101.49,10462,86,5,370.04
+2026-05-08,C1014,Pinterest Back to School 2,Pinterest,Women 25-34,Market Expansion,236.54,40659,334,10,910.77
+2026-05-08,C1015,Pinterest New Arrivals 3,Pinterest,Men 25-34,Increase Sales,388.17,70869,521,18,1713.86
+2026-05-08,C1016,Pinterest Loyalty Push 4,Pinterest,Women 35-44,Brand Awareness,204.91,35543,229,4,296.3
+2026-05-08,C1017,Pinterest Flash Deal 5,Pinterest,Men 18-24,Brand Awareness,163.06,28055,235,6,560.25
+2026-05-08,C1019,Twitter Summer Sale 1,Twitter,Women 35-44,Brand Awareness,128.43,16368,140,4,231.57
+2026-05-08,C1020,Twitter Back to School 2,Twitter,Women 35-44,Market Expansion,201.79,27989,319,3,151.72
+2026-05-08,C1024,Twitter Holiday Preview 6,Twitter,Women 25-34,Market Expansion,165.66,23330,203,4,232.54
+2026-05-09,C1002,Facebook Back to School 2,Facebook,All Ages,Brand Awareness,108.95,12684,199,7,490.57
+2026-05-09,C1003,Facebook New Arrivals 3,Facebook,Women 25-34,Market Expansion,133.49,15721,126,2,140.91
+2026-05-09,C1006,Facebook Holiday Preview 6,Facebook,Women 25-34,Increase Sales,273.32,30873,195,4,273.99
+2026-05-09,C1007,Instagram Summer Sale 1,Instagram,Men 18-24,Market Expansion,594.99,50165,633,23,1537.59
+2026-05-09,C1009,Instagram New Arrivals 3,Instagram,All Ages,Increase Sales,134.59,13306,102,6,331.04
+2026-05-09,C1014,Pinterest Back to School 2,Pinterest,Women 25-34,Market Expansion,312.0,40559,404,21,2068.36
+2026-05-09,C1015,Pinterest New Arrivals 3,Pinterest,Men 25-34,Increase Sales,434.6,73675,458,17,1284.71
+2026-05-09,C1016,Pinterest Loyalty Push 4,Pinterest,Women 35-44,Brand Awareness,196.34,33675,267,5,376.99
+2026-05-09,C1017,Pinterest Flash Deal 5,Pinterest,Men 18-24,Brand Awareness,156.08,22585,178,3,243.13
+2026-05-09,C1019,Twitter Summer Sale 1,Twitter,Women 35-44,Brand Awareness,143.24,15803,164,6,368.03
+2026-05-09,C1020,Twitter Back to School 2,Twitter,Women 35-44,Market Expansion,322.55,41526,429,11,575.32
+2026-05-09,C1024,Twitter Holiday Preview 6,Twitter,Women 25-34,Market Expansion,186.23,27049,195,5,311.95
+2026-05-10,C1001,Facebook Summer Sale 1,Facebook,Women 35-44,Brand Awareness,264.69,26346,360,8,534.58
+2026-05-10,C1002,Facebook Back to School 2,Facebook,All Ages,Brand Awareness,112.94,14041,203,10,690.29
+2026-05-10,C1003,Facebook New Arrivals 3,Facebook,Women 25-34,Market Expansion,154.48,14719,121,0,0.0
+2026-05-10,C1006,Facebook Holiday Preview 6,Facebook,Women 25-34,Increase Sales,216.84,21956,149,12,676.64
+2026-05-10,C1007,Instagram Summer Sale 1,Instagram,Men 18-24,Market Expansion,316.46,28790,313,24,1724.56
+2026-05-10,C1009,Instagram New Arrivals 3,Instagram,All Ages,Increase Sales,189.19,18328,163,6,376.54
+2026-05-10,C1014,Pinterest Back to School 2,Pinterest,Women 25-34,Market Expansion,284.59,47400,427,12,1236.46
+2026-05-10,C1015,Pinterest New Arrivals 3,Pinterest,Men 25-34,Increase Sales,503.82,83374,505,22,2013.51
+2026-05-10,C1016,Pinterest Loyalty Push 4,Pinterest,Women 35-44,Brand Awareness,215.83,32141,289,11,954.39
+2026-05-10,C1017,Pinterest Flash Deal 5,Pinterest,Men 18-24,Brand Awareness,121.88,21270,172,2,166.9
+2026-05-10,C1019,Twitter Summer Sale 1,Twitter,Women 35-44,Brand Awareness,171.15,24882,226,5,308.65
+2026-05-10,C1020,Twitter Back to School 2,Twitter,Women 35-44,Market Expansion,228.43,30902,239,5,287.71
+2026-05-10,C1024,Twitter Holiday Preview 6,Twitter,Women 25-34,Market Expansion,260.06,32933,332,4,241.47
+2026-05-11,C1001,Facebook Summer Sale 1,Facebook,Women 35-44,Brand Awareness,358.97,43482,616,19,1172.12
+2026-05-11,C1002,Facebook Back to School 2,Facebook,All Ages,Brand Awareness,79.76,9111,124,5,304.29
+2026-05-11,C1003,Facebook New Arrivals 3,Facebook,Women 25-34,Market Expansion,125.62,13549,93,4,244.38
+2026-05-11,C1006,Facebook Holiday Preview 6,Facebook,Women 25-34,Increase Sales,211.55,25328,200,3,164.91
+2026-05-11,C1007,Instagram Summer Sale 1,Instagram,Men 18-24,Market Expansion,250.9,20325,317,14,891.71
+2026-05-11,C1009,Instagram New Arrivals 3,Instagram,All Ages,Increase Sales,95.62,7910,67,2,154.66
+2026-05-11,C1014,Pinterest Back to School 2,Pinterest,Women 25-34,Market Expansion,321.5,55951,573,27,2243.02
+2026-05-11,C1015,Pinterest New Arrivals 3,Pinterest,Men 25-34,Increase Sales,466.19,82224,485,20,1785.82
+2026-05-11,C1016,Pinterest Loyalty Push 4,Pinterest,Women 35-44,Brand Awareness,113.16,17958,151,4,383.65
+2026-05-11,C1017,Pinterest Flash Deal 5,Pinterest,Men 18-24,Brand Awareness,140.77,23472,195,1,82.9
+2026-05-11,C1019,Twitter Summer Sale 1,Twitter,Women 35-44,Brand Awareness,123.45,16808,176,0,0.0
+2026-05-11,C1020,Twitter Back to School 2,Twitter,Women 35-44,Market Expansion,235.3,27211,239,7,340.92
+2026-05-11,C1024,Twitter Holiday Preview 6,Twitter,Women 25-34,Market Expansion,138.89,18417,137,1,46.06
+2026-05-12,C1001,Facebook Summer Sale 1,Facebook,Women 35-44,Brand Awareness,342.95,36029,556,14,905.4
+2026-05-12,C1002,Facebook Back to School 2,Facebook,All Ages,Brand Awareness,81.16,10295,141,4,230.99
+2026-05-12,C1003,Facebook New Arrivals 3,Facebook,Women 25-34,Market Expansion,130.41,14652,123,6,378.03
+2026-05-12,C1006,Facebook Holiday Preview 6,Facebook,Women 25-34,Increase Sales,255.06,26851,282,13,890.84
+2026-05-12,C1007,Instagram Summer Sale 1,Instagram,Men 18-24,Market Expansion,423.62,38932,448,30,1644.49
+2026-05-12,C1009,Instagram New Arrivals 3,Instagram,All Ages,Increase Sales,158.19,13174,118,3,189.09
+2026-05-12,C1014,Pinterest Back to School 2,Pinterest,Women 25-34,Market Expansion,306.57,41342,378,13,1148.7
+2026-05-12,C1015,Pinterest New Arrivals 3,Pinterest,Men 25-34,Increase Sales,353.92,60544,496,23,1983.56
+2026-05-12,C1016,Pinterest Loyalty Push 4,Pinterest,Women 35-44,Brand Awareness,156.45,21398,179,0,0.0
+2026-05-12,C1017,Pinterest Flash Deal 5,Pinterest,Men 18-24,Brand Awareness,133.58,18760,166,2,196.2
+2026-05-12,C1019,Twitter Summer Sale 1,Twitter,Women 35-44,Brand Awareness,94.15,10931,88,2,102.55
+2026-05-12,C1020,Twitter Back to School 2,Twitter,Women 35-44,Market Expansion,281.52,31634,275,4,253.65
+2026-05-12,C1024,Twitter Holiday Preview 6,Twitter,Women 25-34,Market Expansion,159.29,20327,194,3,180.41
+2026-05-13,C1001,Facebook Summer Sale 1,Facebook,Women 35-44,Brand Awareness,491.51,52836,682,20,1135.82
+2026-05-13,C1002,Facebook Back to School 2,Facebook,All Ages,Brand Awareness,106.52,11679,196,8,581.25
+2026-05-13,C1003,Facebook New Arrivals 3,Facebook,Women 25-34,Market Expansion,158.74,15398,129,0,0.0
+2026-05-13,C1006,Facebook Holiday Preview 6,Facebook,Women 25-34,Increase Sales,203.22,22660,182,2,139.07
+2026-05-13,C1007,Instagram Summer Sale 1,Instagram,Men 18-24,Market Expansion,293.16,29386,318,19,1285.48
+2026-05-13,C1009,Instagram New Arrivals 3,Instagram,All Ages,Increase Sales,136.82,12420,92,6,440.71
+2026-05-13,C1014,Pinterest Back to School 2,Pinterest,Women 25-34,Market Expansion,223.5,39009,353,9,708.22
+2026-05-13,C1015,Pinterest New Arrivals 3,Pinterest,Men 25-34,Increase Sales,282.49,46132,331,8,718.15
+2026-05-13,C1016,Pinterest Loyalty Push 4,Pinterest,Women 35-44,Brand Awareness,222.89,37170,318,9,772.9
+2026-05-13,C1017,Pinterest Flash Deal 5,Pinterest,Men 18-24,Brand Awareness,106.97,19732,141,3,253.48
+2026-05-13,C1019,Twitter Summer Sale 1,Twitter,Women 35-44,Brand Awareness,122.05,16115,179,2,107.19
+2026-05-13,C1020,Twitter Back to School 2,Twitter,Women 35-44,Market Expansion,180.39,24561,269,7,314.18
+2026-05-13,C1024,Twitter Holiday Preview 6,Twitter,Women 25-34,Market Expansion,192.29,25022,197,1,57.52
+2026-05-14,C1001,Facebook Summer Sale 1,Facebook,Women 35-44,Brand Awareness,302.1,35314,508,15,950.34
+2026-05-14,C1002,Facebook Back to School 2,Facebook,All Ages,Brand Awareness,49.69,4636,71,1,68.32
+2026-05-14,C1003,Facebook New Arrivals 3,Facebook,Women 25-34,Market Expansion,166.29,15204,133,2,122.52
+2026-05-14,C1006,Facebook Holiday Preview 6,Facebook,Women 25-34,Increase Sales,265.71,31364,249,9,488.32
+2026-05-14,C1007,Instagram Summer Sale 1,Instagram,Men 18-24,Market Expansion,322.99,27622,321,16,1072.55
+2026-05-14,C1009,Instagram New Arrivals 3,Instagram,All Ages,Increase Sales,112.15,10017,61,5,381.48
+2026-05-14,C1014,Pinterest Back to School 2,Pinterest,Women 25-34,Market Expansion,315.46,52633,460,18,1522.57
+2026-05-14,C1015,Pinterest New Arrivals 3,Pinterest,Men 25-34,Increase Sales,399.76,63896,418,15,1535.6
+2026-05-14,C1016,Pinterest Loyalty Push 4,Pinterest,Women 35-44,Brand Awareness,141.67,23802,189,3,190.39
+2026-05-14,C1017,Pinterest Flash Deal 5,Pinterest,Men 18-24,Brand Awareness,115.71,20071,165,4,337.19
+2026-05-14,C1019,Twitter Summer Sale 1,Twitter,Women 35-44,Brand Awareness,126.27,16662,161,2,125.73
+2026-05-14,C1020,Twitter Back to School 2,Twitter,Women 35-44,Market Expansion,252.97,32616,389,9,533.99
+2026-05-14,C1024,Twitter Holiday Preview 6,Twitter,Women 25-34,Market Expansion,179.21,23370,195,4,233.23
+2026-05-15,C1001,Facebook Summer Sale 1,Facebook,Women 35-44,Brand Awareness,410.4,46415,646,25,1500.45
+2026-05-15,C1002,Facebook Back to School 2,Facebook,All Ages,Brand Awareness,101.12,11401,182,6,372.05
+2026-05-15,C1003,Facebook New Arrivals 3,Facebook,Women 25-34,Market Expansion,99.37,8970,85,3,182.77
+2026-05-15,C1006,Facebook Holiday Preview 6,Facebook,Women 25-34,Increase Sales,218.2,24604,198,10,645.6
+2026-05-15,C1007,Instagram Summer Sale 1,Instagram,Men 18-24,Market Expansion,365.46,34474,469,18,1318.14
+2026-05-15,C1009,Instagram New Arrivals 3,Instagram,All Ages,Increase Sales,124.35,11260,120,6,410.85
+2026-05-15,C1011,Instagram Flash Deal 5,Instagram,Men 25-34,Brand Awareness,394.69,32719,182,6,380.02
+2026-05-15,C1014,Pinterest Back to School 2,Pinterest,Women 25-34,Market Expansion,296.85,46361,453,11,1001.59
+2026-05-15,C1015,Pinterest New Arrivals 3,Pinterest,Men 25-34,Increase Sales,286.25,47821,335,19,1821.28
+2026-05-15,C1016,Pinterest Loyalty Push 4,Pinterest,Women 35-44,Brand Awareness,123.59,23161,145,6,489.36
+2026-05-15,C1017,Pinterest Flash Deal 5,Pinterest,Men 18-24,Brand Awareness,147.44,23702,201,9,773.28
+2026-05-15,C1019,Twitter Summer Sale 1,Twitter,Women 35-44,Brand Awareness,95.99,14746,129,1,53.66
+2026-05-15,C1020,Twitter Back to School 2,Twitter,Women 35-44,Market Expansion,272.68,37730,270,6,353.31
+2026-05-15,C1024,Twitter Holiday Preview 6,Twitter,Women 25-34,Market Expansion,164.63,23515,251,4,211.55
+2026-05-16,C1001,Facebook Summer Sale 1,Facebook,Women 35-44,Brand Awareness,373.42,39370,498,19,1138.55
+2026-05-16,C1002,Facebook Back to School 2,Facebook,All Ages,Brand Awareness,124.11,11086,134,6,335.35
+2026-05-16,C1003,Facebook New Arrivals 3,Facebook,Women 25-34,Market Expansion,140.17,16045,140,6,369.96
+2026-05-16,C1006,Facebook Holiday Preview 6,Facebook,Women 25-34,Increase Sales,205.78,23540,206,4,220.1
+2026-05-16,C1007,Instagram Summer Sale 1,Instagram,Men 18-24,Market Expansion,477.88,45025,565,33,2555.24
+2026-05-16,C1009,Instagram New Arrivals 3,Instagram,All Ages,Increase Sales,180.35,15496,115,9,691.85
+2026-05-16,C1011,Instagram Flash Deal 5,Instagram,Men 25-34,Brand Awareness,442.9,36110,234,9,560.42
+2026-05-16,C1014,Pinterest Back to School 2,Pinterest,Women 25-34,Market Expansion,325.8,56552,434,10,979.28
+2026-05-16,C1015,Pinterest New Arrivals 3,Pinterest,Men 25-34,Increase Sales,419.4,67941,457,24,2180.1
+2026-05-16,C1016,Pinterest Loyalty Push 4,Pinterest,Women 35-44,Brand Awareness,206.61,32705,244,7,663.49
+2026-05-16,C1017,Pinterest Flash Deal 5,Pinterest,Men 18-24,Brand Awareness,154.41,27240,261,10,983.45
+2026-05-16,C1018,Pinterest Holiday Preview 6,Pinterest,Men 18-24,Market Expansion,253.94,40726,383,14,1136.8
+2026-05-16,C1019,Twitter Summer Sale 1,Twitter,Women 35-44,Brand Awareness,133.92,15890,177,7,337.08
+2026-05-16,C1020,Twitter Back to School 2,Twitter,Women 35-44,Market Expansion,238.53,26727,253,3,154.67
+2026-05-16,C1024,Twitter Holiday Preview 6,Twitter,Women 25-34,Market Expansion,177.56,24000,177,4,224.51
+2026-05-17,C1001,Facebook Summer Sale 1,Facebook,Women 35-44,Brand Awareness,419.92,48845,747,17,1033.84
+2026-05-17,C1002,Facebook Back to School 2,Facebook,All Ages,Brand Awareness,82.9,11022,204,5,306.38
+2026-05-17,C1003,Facebook New Arrivals 3,Facebook,Women 25-34,Market Expansion,194.26,23767,165,7,424.55
+2026-05-17,C1006,Facebook Holiday Preview 6,Facebook,Women 25-34,Increase Sales,290.65,35047,302,9,572.24
+2026-05-17,C1007,Instagram Summer Sale 1,Instagram,Men 18-24,Market Expansion,460.64,43994,569,24,1643.59
+2026-05-17,C1009,Instagram New Arrivals 3,Instagram,All Ages,Increase Sales,128.98,11037,88,5,339.96
+2026-05-17,C1011,Instagram Flash Deal 5,Instagram,Men 25-34,Brand Awareness,502.7,45539,289,12,830.25
+2026-05-17,C1014,Pinterest Back to School 2,Pinterest,Women 25-34,Market Expansion,278.76,40973,363,11,890.15
+2026-05-17,C1015,Pinterest New Arrivals 3,Pinterest,Men 25-34,Increase Sales,396.62,64810,504,21,1822.43
+2026-05-17,C1016,Pinterest Loyalty Push 4,Pinterest,Women 35-44,Brand Awareness,164.65,28593,209,4,388.55
+2026-05-17,C1017,Pinterest Flash Deal 5,Pinterest,Men 18-24,Brand Awareness,162.13,31226,314,11,954.78
+2026-05-17,C1018,Pinterest Holiday Preview 6,Pinterest,Men 18-24,Market Expansion,264.43,47884,297,9,726.77
+2026-05-17,C1019,Twitter Summer Sale 1,Twitter,Women 35-44,Brand Awareness,169.27,21902,205,3,154.55
+2026-05-17,C1020,Twitter Back to School 2,Twitter,Women 35-44,Market Expansion,344.17,48017,398,14,632.7
+2026-05-17,C1024,Twitter Holiday Preview 6,Twitter,Women 25-34,Market Expansion,215.07,31926,306,4,240.49
+2026-05-18,C1001,Facebook Summer Sale 1,Facebook,Women 35-44,Brand Awareness,273.29,27612,340,12,755.8
+2026-05-18,C1002,Facebook Back to School 2,Facebook,All Ages,Brand Awareness,69.98,7723,81,3,161.44
+2026-05-18,C1003,Facebook New Arrivals 3,Facebook,Women 25-34,Market Expansion,130.62,14847,130,3,240.2
+2026-05-18,C1006,Facebook Holiday Preview 6,Facebook,Women 25-34,Increase Sales,191.1,21866,165,3,183.51
+2026-05-18,C1007,Instagram Summer Sale 1,Instagram,Men 18-24,Market Expansion,353.83,30910,468,23,1296.81
+2026-05-18,C1009,Instagram New Arrivals 3,Instagram,All Ages,Increase Sales,148.53,13229,113,2,157.84
+2026-05-18,C1011,Instagram Flash Deal 5,Instagram,Men 25-34,Brand Awareness,353.05,38375,280,2,126.46
+2026-05-18,C1014,Pinterest Back to School 2,Pinterest,Women 25-34,Market Expansion,284.65,45175,467,17,1739.6
+2026-05-18,C1015,Pinterest New Arrivals 3,Pinterest,Men 25-34,Increase Sales,322.05,47456,266,2,164.59
+2026-05-18,C1016,Pinterest Loyalty Push 4,Pinterest,Women 35-44,Brand Awareness,214.96,38016,377,9,807.95
+2026-05-18,C1017,Pinterest Flash Deal 5,Pinterest,Men 18-24,Brand Awareness,115.68,20007,160,2,201.79
+2026-05-18,C1018,Pinterest Holiday Preview 6,Pinterest,Men 18-24,Market Expansion,262.19,47439,417,20,1686.63
+2026-05-18,C1019,Twitter Summer Sale 1,Twitter,Women 35-44,Brand Awareness,140.14,16685,161,0,0.0
+2026-05-18,C1020,Twitter Back to School 2,Twitter,Women 35-44,Market Expansion,190.65,22899,162,8,428.26
+2026-05-18,C1024,Twitter Holiday Preview 6,Twitter,Women 25-34,Market Expansion,158.84,22853,202,3,162.41
+2026-05-19,C1001,Facebook Summer Sale 1,Facebook,Women 35-44,Brand Awareness,394.7,42770,628,20,1300.38
+2026-05-19,C1002,Facebook Back to School 2,Facebook,All Ages,Brand Awareness,98.43,10236,162,6,394.8
+2026-05-19,C1003,Facebook New Arrivals 3,Facebook,Women 25-34,Market Expansion,95.43,10878,80,1,63.19
+2026-05-19,C1005,Facebook Flash Deal 5,Facebook,Women 35-44,Brand Awareness,85.59,10154,137,8,461.19
+2026-05-19,C1006,Facebook Holiday Preview 6,Facebook,Women 25-34,Increase Sales,183.3,19101,207,4,261.56
+2026-05-19,C1007,Instagram Summer Sale 1,Instagram,Men 18-24,Market Expansion,428.49,47677,573,28,1850.3
+2026-05-19,C1009,Instagram New Arrivals 3,Instagram,All Ages,Increase Sales,161.59,14530,120,9,649.26
+2026-05-19,C1011,Instagram Flash Deal 5,Instagram,Men 25-34,Brand Awareness,399.81,40568,232,4,299.25
+2026-05-19,C1014,Pinterest Back to School 2,Pinterest,Women 25-34,Market Expansion,276.98,49287,502,18,1314.18
+2026-05-19,C1015,Pinterest New Arrivals 3,Pinterest,Men 25-34,Increase Sales,293.93,47537,291,10,850.28
+2026-05-19,C1016,Pinterest Loyalty Push 4,Pinterest,Women 35-44,Brand Awareness,216.75,32790,272,14,1239.9
+2026-05-19,C1017,Pinterest Flash Deal 5,Pinterest,Men 18-24,Brand Awareness,129.65,24521,232,3,241.86
+2026-05-19,C1018,Pinterest Holiday Preview 6,Pinterest,Men 18-24,Market Expansion,266.67,43074,487,16,1431.77
+2026-05-19,C1019,Twitter Summer Sale 1,Twitter,Women 35-44,Brand Awareness,141.13,21480,213,3,138.5
+2026-05-19,C1020,Twitter Back to School 2,Twitter,Women 35-44,Market Expansion,231.38,32108,305,9,540.1
+2026-05-19,C1024,Twitter Holiday Preview 6,Twitter,Women 25-34,Market Expansion,143.0,19529,192,2,111.83
+2026-05-20,C1001,Facebook Summer Sale 1,Facebook,Women 35-44,Brand Awareness,324.78,36122,548,14,861.08
+2026-05-20,C1002,Facebook Back to School 2,Facebook,All Ages,Brand Awareness,83.14,10369,171,5,356.03
+2026-05-20,C1003,Facebook New Arrivals 3,Facebook,Women 25-34,Market Expansion,168.9,15247,138,3,188.71
+2026-05-20,C1005,Facebook Flash Deal 5,Facebook,Women 35-44,Brand Awareness,95.54,9968,136,1,69.64
+2026-05-20,C1006,Facebook Holiday Preview 6,Facebook,Women 25-34,Increase Sales,226.4,26516,204,5,273.16
+2026-05-20,C1007,Instagram Summer Sale 1,Instagram,Men 18-24,Market Expansion,340.98,30556,417,23,1626.1
+2026-05-20,C1009,Instagram New Arrivals 3,Instagram,All Ages,Increase Sales,131.46,11725,99,6,399.85
+2026-05-20,C1011,Instagram Flash Deal 5,Instagram,Men 25-34,Brand Awareness,433.52,38577,237,7,495.52
+2026-05-20,C1014,Pinterest Back to School 2,Pinterest,Women 25-34,Market Expansion,243.82,32390,297,8,647.5
+2026-05-20,C1015,Pinterest New Arrivals 3,Pinterest,Men 25-34,Increase Sales,379.03,65214,440,15,1233.66
+2026-05-20,C1016,Pinterest Loyalty Push 4,Pinterest,Women 35-44,Brand Awareness,153.9,22989,169,7,713.1
+2026-05-20,C1017,Pinterest Flash Deal 5,Pinterest,Men 18-24,Brand Awareness,91.62,15916,142,1,89.29
+2026-05-20,C1018,Pinterest Holiday Preview 6,Pinterest,Men 18-24,Market Expansion,308.98,49074,485,14,902.78
+2026-05-20,C1019,Twitter Summer Sale 1,Twitter,Women 35-44,Brand Awareness,157.59,21077,185,1,54.84
+2026-05-20,C1020,Twitter Back to School 2,Twitter,Women 35-44,Market Expansion,192.13,26375,242,5,298.49
+2026-05-20,C1024,Twitter Holiday Preview 6,Twitter,Women 25-34,Market Expansion,166.92,21368,197,0,0.0
+2026-05-21,C1001,Facebook Summer Sale 1,Facebook,Women 35-44,Brand Awareness,247.01,24267,311,6,420.33
+2026-05-21,C1002,Facebook Back to School 2,Facebook,All Ages,Brand Awareness,69.06,6861,101,2,115.17
+2026-05-21,C1003,Facebook New Arrivals 3,Facebook,Women 25-34,Market Expansion,139.88,15894,172,5,235.16
+2026-05-21,C1005,Facebook Flash Deal 5,Facebook,Women 35-44,Brand Awareness,92.33,10462,126,5,321.12
+2026-05-21,C1006,Facebook Holiday Preview 6,Facebook,Women 25-34,Increase Sales,245.27,28753,259,6,378.59
+2026-05-21,C1007,Instagram Summer Sale 1,Instagram,Men 18-24,Market Expansion,261.0,22884,306,17,1262.9
+2026-05-21,C1009,Instagram New Arrivals 3,Instagram,All Ages,Increase Sales,118.72,11357,96,3,234.23
+2026-05-21,C1011,Instagram Flash Deal 5,Instagram,Men 25-34,Brand Awareness,356.48,32039,199,4,243.21
+2026-05-21,C1014,Pinterest Back to School 2,Pinterest,Women 25-34,Market Expansion,268.93,45244,398,19,1344.5
+2026-05-21,C1015,Pinterest New Arrivals 3,Pinterest,Men 25-34,Increase Sales,369.02,73682,494,29,2512.78
+2026-05-21,C1016,Pinterest Loyalty Push 4,Pinterest,Women 35-44,Brand Awareness,153.89,25403,230,9,714.12
+2026-05-21,C1017,Pinterest Flash Deal 5,Pinterest,Men 18-24,Brand Awareness,130.65,19805,143,2,174.2
+2026-05-21,C1018,Pinterest Holiday Preview 6,Pinterest,Men 18-24,Market Expansion,351.99,54900,470,14,995.45
+2026-05-21,C1019,Twitter Summer Sale 1,Twitter,Women 35-44,Brand Awareness,102.28,13746,136,1,65.47
+2026-05-21,C1020,Twitter Back to School 2,Twitter,Women 35-44,Market Expansion,254.63,34419,302,1,63.75
+2026-05-21,C1024,Twitter Holiday Preview 6,Twitter,Women 25-34,Market Expansion,246.28,30367,245,2,100.5
+2026-05-22,C1001,Facebook Summer Sale 1,Facebook,Women 35-44,Brand Awareness,332.0,39065,488,13,666.78
+2026-05-22,C1002,Facebook Back to School 2,Facebook,All Ages,Brand Awareness,71.8,9434,127,7,318.92
+2026-05-22,C1003,Facebook New Arrivals 3,Facebook,Women 25-34,Market Expansion,156.69,15331,139,5,294.3
+2026-05-22,C1005,Facebook Flash Deal 5,Facebook,Women 35-44,Brand Awareness,97.65,10583,106,0,0.0
+2026-05-22,C1006,Facebook Holiday Preview 6,Facebook,Women 25-34,Increase Sales,229.08,26226,168,3,160.56
+2026-05-22,C1007,Instagram Summer Sale 1,Instagram,Men 18-24,Market Expansion,415.63,40588,523,32,2413.29
+2026-05-22,C1009,Instagram New Arrivals 3,Instagram,All Ages,Increase Sales,147.81,14913,117,9,528.33
+2026-05-22,C1011,Instagram Flash Deal 5,Instagram,Men 25-34,Brand Awareness,231.5,20815,139,2,148.96
+2026-05-22,C1014,Pinterest Back to School 2,Pinterest,Women 25-34,Market Expansion,286.56,41655,371,26,1848.09
+2026-05-22,C1015,Pinterest New Arrivals 3,Pinterest,Men 25-34,Increase Sales,379.31,60305,430,19,1768.08
+2026-05-22,C1016,Pinterest Loyalty Push 4,Pinterest,Women 35-44,Brand Awareness,206.68,36940,343,13,1041.31
+2026-05-22,C1017,Pinterest Flash Deal 5,Pinterest,Men 18-24,Brand Awareness,129.77,22855,224,7,602.84
+2026-05-22,C1018,Pinterest Holiday Preview 6,Pinterest,Men 18-24,Market Expansion,259.11,44438,412,11,950.09
+2026-05-22,C1020,Twitter Back to School 2,Twitter,Women 35-44,Market Expansion,237.7,31885,359,1,65.13
+2026-05-22,C1024,Twitter Holiday Preview 6,Twitter,Women 25-34,Market Expansion,209.82,28785,299,8,433.66
+2026-05-23,C1001,Facebook Summer Sale 1,Facebook,Women 35-44,Brand Awareness,439.87,49803,587,19,1149.8
+2026-05-23,C1002,Facebook Back to School 2,Facebook,All Ages,Brand Awareness,73.77,7009,68,4,258.19
+2026-05-23,C1003,Facebook New Arrivals 3,Facebook,Women 25-34,Market Expansion,198.33,22981,205,11,733.27
+2026-05-23,C1005,Facebook Flash Deal 5,Facebook,Women 35-44,Brand Awareness,86.37,9604,138,5,303.37
+2026-05-23,C1006,Facebook Holiday Preview 6,Facebook,Women 25-34,Increase Sales,194.91,20403,152,6,328.08
+2026-05-23,C1007,Instagram Summer Sale 1,Instagram,Men 18-24,Market Expansion,367.87,31017,388,20,1231.45
+2026-05-23,C1009,Instagram New Arrivals 3,Instagram,All Ages,Increase Sales,141.27,12510,99,9,436.38
+2026-05-23,C1011,Instagram Flash Deal 5,Instagram,Men 25-34,Brand Awareness,391.51,34126,250,5,299.88
+2026-05-23,C1014,Pinterest Back to School 2,Pinterest,Women 25-34,Market Expansion,408.74,64152,636,29,2654.43
+2026-05-23,C1015,Pinterest New Arrivals 3,Pinterest,Men 25-34,Increase Sales,543.17,84945,559,39,3213.73
+2026-05-23,C1016,Pinterest Loyalty Push 4,Pinterest,Women 35-44,Brand Awareness,188.18,28668,215,2,163.3
+2026-05-23,C1017,Pinterest Flash Deal 5,Pinterest,Men 18-24,Brand Awareness,125.23,19998,165,3,328.92
+2026-05-23,C1018,Pinterest Holiday Preview 6,Pinterest,Men 18-24,Market Expansion,416.31,69426,569,20,1485.81
+2026-05-23,C1020,Twitter Back to School 2,Twitter,Women 35-44,Market Expansion,313.31,39784,435,9,490.09
+2026-05-23,C1022,Twitter Loyalty Push 4,Twitter,Men 25-34,Product Launch,390.54,50267,511,13,638.18
+2026-05-23,C1024,Twitter Holiday Preview 6,Twitter,Women 25-34,Market Expansion,151.97,21063,181,3,179.72
+2026-05-24,C1001,Facebook Summer Sale 1,Facebook,Women 35-44,Brand Awareness,332.81,37508,544,13,710.19
+2026-05-24,C1002,Facebook Back to School 2,Facebook,All Ages,Brand Awareness,111.92,11539,175,9,527.33
+2026-05-24,C1003,Facebook New Arrivals 3,Facebook,Women 25-34,Market Expansion,165.09,21846,158,6,368.68
+2026-05-24,C1005,Facebook Flash Deal 5,Facebook,Women 35-44,Brand Awareness,65.27,8350,98,1,69.12
+2026-05-24,C1006,Facebook Holiday Preview 6,Facebook,Women 25-34,Increase Sales,231.78,27934,182,5,299.37
+2026-05-24,C1007,Instagram Summer Sale 1,Instagram,Men 18-24,Market Expansion,550.09,57308,624,39,3062.72
+2026-05-24,C1009,Instagram New Arrivals 3,Instagram,All Ages,Increase Sales,142.82,14104,71,5,295.66
+2026-05-24,C1011,Instagram Flash Deal 5,Instagram,Men 25-34,Brand Awareness,410.44,42577,329,9,629.54
+2026-05-24,C1014,Pinterest Back to School 2,Pinterest,Women 25-34,Market Expansion,346.17,60135,541,12,1024.3
+2026-05-24,C1015,Pinterest New Arrivals 3,Pinterest,Men 25-34,Increase Sales,501.17,92600,550,23,2152.37
+2026-05-24,C1016,Pinterest Loyalty Push 4,Pinterest,Women 35-44,Brand Awareness,216.61,34436,267,1,94.15
+2026-05-24,C1017,Pinterest Flash Deal 5,Pinterest,Men 18-24,Brand Awareness,161.77,25765,223,8,673.83
+2026-05-24,C1018,Pinterest Holiday Preview 6,Pinterest,Men 18-24,Market Expansion,216.74,36882,406,18,1405.38
+2026-05-24,C1020,Twitter Back to School 2,Twitter,Women 35-44,Market Expansion,277.26,34349,346,8,474.73
+2026-05-24,C1022,Twitter Loyalty Push 4,Twitter,Men 25-34,Product Launch,414.35,54279,587,21,1169.51
+2026-05-24,C1024,Twitter Holiday Preview 6,Twitter,Women 25-34,Market Expansion,241.42,35926,289,3,143.56
+2026-05-25,C1001,Facebook Summer Sale 1,Facebook,Women 35-44,Brand Awareness,313.9,32292,417,19,1058.36
+2026-05-25,C1002,Facebook Back to School 2,Facebook,All Ages,Brand Awareness,68.07,6846,107,3,197.5
+2026-05-25,C1003,Facebook New Arrivals 3,Facebook,Women 25-34,Market Expansion,99.95,11225,106,4,229.99
+2026-05-25,C1005,Facebook Flash Deal 5,Facebook,Women 35-44,Brand Awareness,92.16,10440,115,5,259.72
+2026-05-25,C1006,Facebook Holiday Preview 6,Facebook,Women 25-34,Increase Sales,223.61,25482,204,7,389.51
+2026-05-25,C1007,Instagram Summer Sale 1,Instagram,Men 18-24,Market Expansion,358.78,34500,383,20,1316.6
+2026-05-25,C1009,Instagram New Arrivals 3,Instagram,All Ages,Increase Sales,175.91,15885,135,7,499.56
+2026-05-25,C1011,Instagram Flash Deal 5,Instagram,Men 25-34,Brand Awareness,328.08,29998,178,3,202.64
+2026-05-25,C1014,Pinterest Back to School 2,Pinterest,Women 25-34,Market Expansion,283.18,52021,401,20,1416.6
+2026-05-25,C1015,Pinterest New Arrivals 3,Pinterest,Men 25-34,Increase Sales,446.59,71753,474,25,1919.54
+2026-05-25,C1016,Pinterest Loyalty Push 4,Pinterest,Women 35-44,Brand Awareness,120.33,19174,115,1,97.37
+2026-05-25,C1017,Pinterest Flash Deal 5,Pinterest,Men 18-24,Brand Awareness,115.05,20930,176,5,475.44
+2026-05-25,C1018,Pinterest Holiday Preview 6,Pinterest,Men 18-24,Market Expansion,276.5,50534,476,19,1606.71
+2026-05-25,C1020,Twitter Back to School 2,Twitter,Women 35-44,Market Expansion,204.47,29629,342,8,456.72
+2026-05-25,C1022,Twitter Loyalty Push 4,Twitter,Men 25-34,Product Launch,314.66,38130,470,12,595.32
+2026-05-25,C1024,Twitter Holiday Preview 6,Twitter,Women 25-34,Market Expansion,164.68,21372,168,1,61.5
+2026-05-26,C1001,Facebook Summer Sale 1,Facebook,Women 35-44,Brand Awareness,374.77,44433,740,18,1145.88
+2026-05-26,C1002,Facebook Back to School 2,Facebook,All Ages,Brand Awareness,109.13,13364,183,8,475.56
+2026-05-26,C1003,Facebook New Arrivals 3,Facebook,Women 25-34,Market Expansion,133.22,13025,94,0,0.0
+2026-05-26,C1005,Facebook Flash Deal 5,Facebook,Women 35-44,Brand Awareness,93.25,10884,136,5,294.9
+2026-05-26,C1006,Facebook Holiday Preview 6,Facebook,Women 25-34,Increase Sales,243.52,28067,187,14,875.41
+2026-05-26,C1007,Instagram Summer Sale 1,Instagram,Men 18-24,Market Expansion,332.88,29727,410,17,1144.57
+2026-05-26,C1009,Instagram New Arrivals 3,Instagram,All Ages,Increase Sales,120.77,9119,77,4,253.0
+2026-05-26,C1011,Instagram Flash Deal 5,Instagram,Men 25-34,Brand Awareness,509.48,51230,248,6,376.67
+2026-05-26,C1014,Pinterest Back to School 2,Pinterest,Women 25-34,Market Expansion,298.27,51043,529,13,1001.78
+2026-05-26,C1015,Pinterest New Arrivals 3,Pinterest,Men 25-34,Increase Sales,324.57,49485,380,8,557.41
+2026-05-26,C1016,Pinterest Loyalty Push 4,Pinterest,Women 35-44,Brand Awareness,191.99,30052,238,8,691.91
+2026-05-26,C1017,Pinterest Flash Deal 5,Pinterest,Men 18-24,Brand Awareness,126.5,22841,188,2,186.27
+2026-05-26,C1018,Pinterest Holiday Preview 6,Pinterest,Men 18-24,Market Expansion,323.27,43761,391,16,1311.44
+2026-05-26,C1020,Twitter Back to School 2,Twitter,Women 35-44,Market Expansion,214.53,31653,299,4,201.73
+2026-05-26,C1022,Twitter Loyalty Push 4,Twitter,Men 25-34,Product Launch,263.31,34402,480,14,730.63
+2026-05-26,C1024,Twitter Holiday Preview 6,Twitter,Women 25-34,Market Expansion,228.81,31621,230,2,118.85
+2026-05-27,C1001,Facebook Summer Sale 1,Facebook,Women 35-44,Brand Awareness,302.84,32530,381,8,444.63
+2026-05-27,C1002,Facebook Back to School 2,Facebook,All Ages,Brand Awareness,57.55,6306,83,3,172.51
+2026-05-27,C1003,Facebook New Arrivals 3,Facebook,Women 25-34,Market Expansion,136.74,16254,150,6,460.34
+2026-05-27,C1005,Facebook Flash Deal 5,Facebook,Women 35-44,Brand Awareness,79.25,10229,91,4,196.29
+2026-05-27,C1006,Facebook Holiday Preview 6,Facebook,Women 25-34,Increase Sales,144.28,13665,130,13,701.38
+2026-05-27,C1007,Instagram Summer Sale 1,Instagram,Men 18-24,Market Expansion,412.67,38318,444,25,1731.17
+2026-05-27,C1009,Instagram New Arrivals 3,Instagram,All Ages,Increase Sales,89.79,7444,52,3,184.49
+2026-05-27,C1011,Instagram Flash Deal 5,Instagram,Men 25-34,Brand Awareness,372.82,26822,161,1,74.87
+2026-05-27,C1014,Pinterest Back to School 2,Pinterest,Women 25-34,Market Expansion,295.91,51785,408,18,1630.78
+2026-05-27,C1015,Pinterest New Arrivals 3,Pinterest,Men 25-34,Increase Sales,374.71,70643,599,26,2184.92
+2026-05-27,C1016,Pinterest Loyalty Push 4,Pinterest,Women 35-44,Brand Awareness,173.62,30197,276,4,295.1
+2026-05-27,C1017,Pinterest Flash Deal 5,Pinterest,Men 18-24,Brand Awareness,113.29,21477,188,4,348.88
+2026-05-27,C1018,Pinterest Holiday Preview 6,Pinterest,Men 18-24,Market Expansion,356.0,64127,624,33,2412.27
+2026-05-27,C1020,Twitter Back to School 2,Twitter,Women 35-44,Market Expansion,302.47,46217,525,12,756.27
+2026-05-27,C1022,Twitter Loyalty Push 4,Twitter,Men 25-34,Product Launch,259.72,34169,392,10,539.08
+2026-05-27,C1024,Twitter Holiday Preview 6,Twitter,Women 25-34,Market Expansion,183.4,28024,240,7,358.06
+2026-05-28,C1001,Facebook Summer Sale 1,Facebook,Women 35-44,Brand Awareness,247.81,26463,332,3,172.51
+2026-05-28,C1002,Facebook Back to School 2,Facebook,All Ages,Brand Awareness,75.66,8926,135,5,334.67
+2026-05-28,C1003,Facebook New Arrivals 3,Facebook,Women 25-34,Market Expansion,96.42,10888,88,1,60.98
+2026-05-28,C1005,Facebook Flash Deal 5,Facebook,Women 35-44,Brand Awareness,89.85,9679,78,5,311.43
+2026-05-28,C1006,Facebook Holiday Preview 6,Facebook,Women 25-34,Increase Sales,228.65,22452,179,12,784.61
+2026-05-28,C1007,Instagram Summer Sale 1,Instagram,Men 18-24,Market Expansion,492.79,43722,611,32,2361.88
+2026-05-28,C1009,Instagram New Arrivals 3,Instagram,All Ages,Increase Sales,186.5,16698,176,7,472.2
+2026-05-28,C1011,Instagram Flash Deal 5,Instagram,Men 25-34,Brand Awareness,273.73,25340,182,7,412.87
+2026-05-28,C1014,Pinterest Back to School 2,Pinterest,Women 25-34,Market Expansion,392.91,64797,707,22,1909.98
+2026-05-28,C1015,Pinterest New Arrivals 3,Pinterest,Men 25-34,Increase Sales,454.96,79464,513,21,1798.98
+2026-05-28,C1016,Pinterest Loyalty Push 4,Pinterest,Women 35-44,Brand Awareness,75.36,12488,94,1,80.27
+2026-05-28,C1017,Pinterest Flash Deal 5,Pinterest,Men 18-24,Brand Awareness,121.9,19980,179,6,498.9
+2026-05-28,C1018,Pinterest Holiday Preview 6,Pinterest,Men 18-24,Market Expansion,294.37,48841,367,16,1277.28
+2026-05-28,C1020,Twitter Back to School 2,Twitter,Women 35-44,Market Expansion,229.72,29861,311,6,316.54
+2026-05-28,C1022,Twitter Loyalty Push 4,Twitter,Men 25-34,Product Launch,284.54,41050,384,5,275.76
+2026-05-28,C1024,Twitter Holiday Preview 6,Twitter,Women 25-34,Market Expansion,90.53,11096,119,4,226.21
+2026-05-29,C1001,Facebook Summer Sale 1,Facebook,Women 35-44,Brand Awareness,490.67,50935,739,25,1543.68
+2026-05-29,C1002,Facebook Back to School 2,Facebook,All Ages,Brand Awareness,78.44,8680,112,6,348.8
+2026-05-29,C1003,Facebook New Arrivals 3,Facebook,Women 25-34,Market Expansion,125.64,11418,92,5,293.62
+2026-05-29,C1005,Facebook Flash Deal 5,Facebook,Women 35-44,Brand Awareness,104.04,13115,187,4,259.64
+2026-05-29,C1006,Facebook Holiday Preview 6,Facebook,Women 25-34,Increase Sales,246.5,29012,230,6,381.61
+2026-05-29,C1007,Instagram Summer Sale 1,Instagram,Men 18-24,Market Expansion,400.73,37115,409,17,1321.44
+2026-05-29,C1009,Instagram New Arrivals 3,Instagram,All Ages,Increase Sales,134.58,15167,107,6,365.37
+2026-05-29,C1011,Instagram Flash Deal 5,Instagram,Men 25-34,Brand Awareness,355.81,31166,216,4,312.54
+2026-05-29,C1014,Pinterest Back to School 2,Pinterest,Women 25-34,Market Expansion,306.37,47576,448,16,1309.99
+2026-05-29,C1015,Pinterest New Arrivals 3,Pinterest,Men 25-34,Increase Sales,358.98,59153,401,19,1679.88
+2026-05-29,C1016,Pinterest Loyalty Push 4,Pinterest,Women 35-44,Brand Awareness,176.33,30786,287,9,686.87
+2026-05-29,C1017,Pinterest Flash Deal 5,Pinterest,Men 18-24,Brand Awareness,127.92,22751,132,3,275.66
+2026-05-29,C1018,Pinterest Holiday Preview 6,Pinterest,Men 18-24,Market Expansion,297.54,47614,412,16,1602.55
+2026-05-29,C1020,Twitter Back to School 2,Twitter,Women 35-44,Market Expansion,239.37,30358,360,6,348.82
+2026-05-29,C1022,Twitter Loyalty Push 4,Twitter,Men 25-34,Product Launch,391.65,45599,606,13,707.67
+2026-05-29,C1024,Twitter Holiday Preview 6,Twitter,Women 25-34,Market Expansion,206.57,27275,165,2,136.04
+2026-05-30,C1001,Facebook Summer Sale 1,Facebook,Women 35-44,Brand Awareness,359.88,41413,519,19,1196.85
+2026-05-30,C1002,Facebook Back to School 2,Facebook,All Ages,Brand Awareness,98.51,10420,211,12,594.15
+2026-05-30,C1003,Facebook New Arrivals 3,Facebook,Women 25-34,Market Expansion,178.97,17756,175,3,187.82
+2026-05-30,C1005,Facebook Flash Deal 5,Facebook,Women 35-44,Brand Awareness,136.07,15892,241,6,336.15
+2026-05-30,C1006,Facebook Holiday Preview 6,Facebook,Women 25-34,Increase Sales,257.39,29369,200,10,617.23
+2026-05-30,C1007,Instagram Summer Sale 1,Instagram,Men 18-24,Market Expansion,464.88,44216,563,21,1470.27
+2026-05-30,C1009,Instagram New Arrivals 3,Instagram,All Ages,Increase Sales,159.47,15090,134,9,540.29
+2026-05-30,C1011,Instagram Flash Deal 5,Instagram,Men 25-34,Brand Awareness,362.35,33323,199,5,374.89
+2026-05-30,C1014,Pinterest Back to School 2,Pinterest,Women 25-34,Market Expansion,360.71,57021,664,27,1992.03
+2026-05-30,C1015,Pinterest New Arrivals 3,Pinterest,Men 25-34,Increase Sales,492.19,78382,534,20,2071.95
+2026-05-30,C1016,Pinterest Loyalty Push 4,Pinterest,Women 35-44,Brand Awareness,197.44,31890,247,5,348.83
+2026-05-30,C1017,Pinterest Flash Deal 5,Pinterest,Men 18-24,Brand Awareness,119.01,17043,153,5,428.7
+2026-05-30,C1018,Pinterest Holiday Preview 6,Pinterest,Men 18-24,Market Expansion,266.33,34016,370,14,1344.37
+2026-05-30,C1020,Twitter Back to School 2,Twitter,Women 35-44,Market Expansion,283.68,38154,401,8,552.37
+2026-05-30,C1022,Twitter Loyalty Push 4,Twitter,Men 25-34,Product Launch,299.29,35818,390,10,529.61
+2026-05-30,C1024,Twitter Holiday Preview 6,Twitter,Women 25-34,Market Expansion,149.55,19552,140,2,105.75
+2026-05-31,C1001,Facebook Summer Sale 1,Facebook,Women 35-44,Brand Awareness,399.25,45375,741,26,1414.62
+2026-05-31,C1002,Facebook Back to School 2,Facebook,All Ages,Brand Awareness,112.15,12521,187,9,567.47
+2026-05-31,C1003,Facebook New Arrivals 3,Facebook,Women 25-34,Market Expansion,134.04,14262,112,2,135.34
+2026-05-31,C1005,Facebook Flash Deal 5,Facebook,Women 35-44,Brand Awareness,118.57,14621,153,7,495.2
+2026-05-31,C1006,Facebook Holiday Preview 6,Facebook,Women 25-34,Increase Sales,176.84,21167,147,6,359.45
+2026-05-31,C1007,Instagram Summer Sale 1,Instagram,Men 18-24,Market Expansion,589.81,53988,492,22,1584.43
+2026-05-31,C1009,Instagram New Arrivals 3,Instagram,All Ages,Increase Sales,139.57,12465,111,7,428.37
+2026-05-31,C1011,Instagram Flash Deal 5,Instagram,Men 25-34,Brand Awareness,378.46,32683,231,4,271.77
+2026-05-31,C1014,Pinterest Back to School 2,Pinterest,Women 25-34,Market Expansion,378.83,64393,621,24,2079.58
+2026-05-31,C1015,Pinterest New Arrivals 3,Pinterest,Men 25-34,Increase Sales,389.65,62339,420,21,1795.2
+2026-05-31,C1016,Pinterest Loyalty Push 4,Pinterest,Women 35-44,Brand Awareness,217.52,39395,338,8,686.51
+2026-05-31,C1017,Pinterest Flash Deal 5,Pinterest,Men 18-24,Brand Awareness,102.83,17195,146,3,279.71
+2026-05-31,C1018,Pinterest Holiday Preview 6,Pinterest,Men 18-24,Market Expansion,316.02,58078,543,21,1962.93
+2026-05-31,C1020,Twitter Back to School 2,Twitter,Women 35-44,Market Expansion,260.35,35278,370,7,401.89
+2026-05-31,C1022,Twitter Loyalty Push 4,Twitter,Men 25-34,Product Launch,432.47,60916,720,40,2236.26
+2026-05-31,C1024,Twitter Holiday Preview 6,Twitter,Women 25-34,Market Expansion,158.02,21876,203,0,0.0
+2026-06-01,C1001,Facebook Summer Sale 1,Facebook,Women 35-44,Brand Awareness,267.39,33633,557,28,1979.97
+2026-06-01,C1002,Facebook Back to School 2,Facebook,All Ages,Brand Awareness,78.56,8453,112,3,186.99
+2026-06-01,C1003,Facebook New Arrivals 3,Facebook,Women 25-34,Market Expansion,105.75,11572,95,5,269.33
+2026-06-01,C1005,Facebook Flash Deal 5,Facebook,Women 35-44,Brand Awareness,88.64,10341,107,3,205.31
+2026-06-01,C1006,Facebook Holiday Preview 6,Facebook,Women 25-34,Increase Sales,209.82,21276,159,3,185.28
+2026-06-01,C1007,Instagram Summer Sale 1,Instagram,Men 18-24,Market Expansion,333.35,27022,337,18,1174.04
+2026-06-01,C1009,Instagram New Arrivals 3,Instagram,All Ages,Increase Sales,126.41,10263,98,1,76.14
+2026-06-01,C1011,Instagram Flash Deal 5,Instagram,Men 25-34,Brand Awareness,326.41,31819,191,3,203.39
+2026-06-01,C1014,Pinterest Back to School 2,Pinterest,Women 25-34,Market Expansion,203.3,34151,274,10,862.6
+2026-06-01,C1015,Pinterest New Arrivals 3,Pinterest,Men 25-34,Increase Sales,373.78,67472,510,18,1442.41
+2026-06-01,C1016,Pinterest Loyalty Push 4,Pinterest,Women 35-44,Brand Awareness,171.62,26126,242,10,787.61
+2026-06-01,C1017,Pinterest Flash Deal 5,Pinterest,Men 18-24,Brand Awareness,151.97,27610,180,8,625.38
+2026-06-01,C1018,Pinterest Holiday Preview 6,Pinterest,Men 18-24,Market Expansion,254.54,43017,450,17,1540.69
+2026-06-01,C1020,Twitter Back to School 2,Twitter,Women 35-44,Market Expansion,167.76,25503,283,9,700.49
+2026-06-01,C1022,Twitter Loyalty Push 4,Twitter,Men 25-34,Product Launch,465.64,58706,603,32,1608.7
+2026-06-01,C1024,Twitter Holiday Preview 6,Twitter,Women 25-34,Market Expansion,162.46,23515,229,2,118.41
+2026-06-02,C1001,Facebook Summer Sale 1,Facebook,Women 35-44,Brand Awareness,297.62,34770,477,13,813.3
+2026-06-02,C1002,Facebook Back to School 2,Facebook,All Ages,Brand Awareness,53.3,6213,91,1,54.68
+2026-06-02,C1003,Facebook New Arrivals 3,Facebook,Women 25-34,Market Expansion,157.26,16390,134,5,290.81
+2026-06-02,C1005,Facebook Flash Deal 5,Facebook,Women 35-44,Brand Awareness,75.75,9366,117,4,243.13
+2026-06-02,C1006,Facebook Holiday Preview 6,Facebook,Women 25-34,Increase Sales,194.24,20169,169,4,195.67
+2026-06-02,C1007,Instagram Summer Sale 1,Instagram,Men 18-24,Market Expansion,412.07,33820,414,23,1629.28
+2026-06-02,C1009,Instagram New Arrivals 3,Instagram,All Ages,Increase Sales,157.71,15027,125,9,595.15
+2026-06-02,C1011,Instagram Flash Deal 5,Instagram,Men 25-34,Brand Awareness,430.15,37031,263,6,401.61
+2026-06-02,C1014,Pinterest Back to School 2,Pinterest,Women 25-34,Market Expansion,238.41,37034,384,13,1270.64
+2026-06-02,C1015,Pinterest New Arrivals 3,Pinterest,Men 25-34,Increase Sales,293.13,48130,398,17,1350.76
+2026-06-02,C1016,Pinterest Loyalty Push 4,Pinterest,Women 35-44,Brand Awareness,212.78,38962,313,6,567.77
+2026-06-02,C1017,Pinterest Flash Deal 5,Pinterest,Men 18-24,Brand Awareness,114.49,19761,192,10,994.45
+2026-06-02,C1018,Pinterest Holiday Preview 6,Pinterest,Men 18-24,Market Expansion,327.65,48683,417,11,802.98
+2026-06-02,C1020,Twitter Back to School 2,Twitter,Women 35-44,Market Expansion,289.89,41857,429,3,143.99
+2026-06-02,C1022,Twitter Loyalty Push 4,Twitter,Men 25-34,Product Launch,266.2,38730,502,9,529.1
+2026-06-02,C1024,Twitter Holiday Preview 6,Twitter,Women 25-34,Market Expansion,181.29,23358,212,2,120.56
+2026-06-03,C1001,Facebook Summer Sale 1,Facebook,Women 35-44,Brand Awareness,395.87,36771,518,16,1082.86
+2026-06-03,C1002,Facebook Back to School 2,Facebook,All Ages,Brand Awareness,97.66,10265,154,5,263.96
+2026-06-03,C1003,Facebook New Arrivals 3,Facebook,Women 25-34,Market Expansion,123.73,13126,135,6,374.62
+2026-06-03,C1005,Facebook Flash Deal 5,Facebook,Women 35-44,Brand Awareness,96.47,9577,81,2,115.58
+2026-06-03,C1006,Facebook Holiday Preview 6,Facebook,Women 25-34,Increase Sales,177.45,19085,176,8,549.23
+2026-06-03,C1007,Instagram Summer Sale 1,Instagram,Men 18-24,Market Expansion,499.98,46598,581,25,1482.62
+2026-06-03,C1009,Instagram New Arrivals 3,Instagram,All Ages,Increase Sales,145.05,12857,99,10,663.77
+2026-06-03,C1011,Instagram Flash Deal 5,Instagram,Men 25-34,Brand Awareness,354.69,31802,187,0,0.0
+2026-06-03,C1014,Pinterest Back to School 2,Pinterest,Women 25-34,Market Expansion,225.25,39782,317,19,1649.7
+2026-06-03,C1015,Pinterest New Arrivals 3,Pinterest,Men 25-34,Increase Sales,387.7,65736,480,27,2161.02
+2026-06-03,C1016,Pinterest Loyalty Push 4,Pinterest,Women 35-44,Brand Awareness,206.84,31555,260,9,737.06
+2026-06-03,C1017,Pinterest Flash Deal 5,Pinterest,Men 18-24,Brand Awareness,98.0,18603,202,1,94.37
+2026-06-03,C1018,Pinterest Holiday Preview 6,Pinterest,Men 18-24,Market Expansion,290.36,47767,414,16,1530.31
+2026-06-03,C1020,Twitter Back to School 2,Twitter,Women 35-44,Market Expansion,280.48,37225,363,3,141.81
+2026-06-03,C1022,Twitter Loyalty Push 4,Twitter,Men 25-34,Product Launch,321.3,49244,730,25,1170.63
+2026-06-03,C1024,Twitter Holiday Preview 6,Twitter,Women 25-34,Market Expansion,193.09,25520,177,2,102.58
+2026-06-04,C1001,Facebook Summer Sale 1,Facebook,Women 35-44,Brand Awareness,270.05,30079,385,19,1159.8
+2026-06-04,C1002,Facebook Back to School 2,Facebook,All Ages,Brand Awareness,103.58,10809,153,5,319.08
+2026-06-04,C1003,Facebook New Arrivals 3,Facebook,Women 25-34,Market Expansion,110.61,11524,86,0,0.0
+2026-06-04,C1005,Facebook Flash Deal 5,Facebook,Women 35-44,Brand Awareness,83.85,10010,101,4,284.36
+2026-06-04,C1006,Facebook Holiday Preview 6,Facebook,Women 25-34,Increase Sales,190.79,19454,136,2,131.69
+2026-06-04,C1007,Instagram Summer Sale 1,Instagram,Men 18-24,Market Expansion,412.55,34134,454,21,1320.09
+2026-06-04,C1009,Instagram New Arrivals 3,Instagram,All Ages,Increase Sales,114.44,10683,63,4,294.36
+2026-06-04,C1011,Instagram Flash Deal 5,Instagram,Men 25-34,Brand Awareness,338.21,33763,313,4,278.56
+2026-06-04,C1013,Pinterest Summer Sale 1,Pinterest,Men 25-34,Product Launch,160.46,26848,211,5,438.77
+2026-06-04,C1014,Pinterest Back to School 2,Pinterest,Women 25-34,Market Expansion,313.23,54405,446,16,1342.15
+2026-06-04,C1015,Pinterest New Arrivals 3,Pinterest,Men 25-34,Increase Sales,249.5,43245,275,8,673.19
+2026-06-04,C1016,Pinterest Loyalty Push 4,Pinterest,Women 35-44,Brand Awareness,209.54,30263,230,5,449.12
+2026-06-04,C1017,Pinterest Flash Deal 5,Pinterest,Men 18-24,Brand Awareness,133.62,20097,170,4,380.21
+2026-06-04,C1018,Pinterest Holiday Preview 6,Pinterest,Men 18-24,Market Expansion,270.76,47543,468,25,2355.39
+2026-06-04,C1020,Twitter Back to School 2,Twitter,Women 35-44,Market Expansion,216.93,26421,267,6,333.48
+2026-06-04,C1022,Twitter Loyalty Push 4,Twitter,Men 25-34,Product Launch,232.36,26712,379,15,794.88
+2026-06-04,C1024,Twitter Holiday Preview 6,Twitter,Women 25-34,Market Expansion,242.91,34364,247,4,197.14
+2026-06-05,C1001,Facebook Summer Sale 1,Facebook,Women 35-44,Brand Awareness,310.31,33861,512,15,1164.13
+2026-06-05,C1003,Facebook New Arrivals 3,Facebook,Women 25-34,Market Expansion,161.58,16635,180,6,323.81
+2026-06-05,C1005,Facebook Flash Deal 5,Facebook,Women 35-44,Brand Awareness,71.62,7930,116,7,486.4
+2026-06-05,C1006,Facebook Holiday Preview 6,Facebook,Women 25-34,Increase Sales,222.22,24571,151,13,884.66
+2026-06-05,C1007,Instagram Summer Sale 1,Instagram,Men 18-24,Market Expansion,388.62,32556,365,12,625.08
+2026-06-05,C1009,Instagram New Arrivals 3,Instagram,All Ages,Increase Sales,161.9,14883,175,6,466.19
+2026-06-05,C1011,Instagram Flash Deal 5,Instagram,Men 25-34,Brand Awareness,352.69,33905,274,4,272.34
+2026-06-05,C1013,Pinterest Summer Sale 1,Pinterest,Men 25-34,Product Launch,113.03,17737,136,5,373.35
+2026-06-05,C1014,Pinterest Back to School 2,Pinterest,Women 25-34,Market Expansion,229.75,39139,448,18,1450.12
+2026-06-05,C1015,Pinterest New Arrivals 3,Pinterest,Men 25-34,Increase Sales,471.15,78714,463,17,1536.83
+2026-06-05,C1016,Pinterest Loyalty Push 4,Pinterest,Women 35-44,Brand Awareness,157.48,25682,246,4,292.67
+2026-06-05,C1017,Pinterest Flash Deal 5,Pinterest,Men 18-24,Brand Awareness,104.78,18190,145,3,208.34
+2026-06-05,C1018,Pinterest Holiday Preview 6,Pinterest,Men 18-24,Market Expansion,210.12,38674,340,17,1408.1
+2026-06-05,C1020,Twitter Back to School 2,Twitter,Women 35-44,Market Expansion,285.51,38968,361,7,334.21
+2026-06-05,C1022,Twitter Loyalty Push 4,Twitter,Men 25-34,Product Launch,228.03,33526,462,8,444.74
+2026-06-05,C1024,Twitter Holiday Preview 6,Twitter,Women 25-34,Market Expansion,184.34,21128,135,2,93.82
+2026-06-06,C1001,Facebook Summer Sale 1,Facebook,Women 35-44,Brand Awareness,545.79,56503,740,18,1034.63
+2026-06-06,C1003,Facebook New Arrivals 3,Facebook,Women 25-34,Market Expansion,210.91,25533,234,6,402.1
+2026-06-06,C1005,Facebook Flash Deal 5,Facebook,Women 35-44,Brand Awareness,90.84,9920,120,5,280.34
+2026-06-06,C1006,Facebook Holiday Preview 6,Facebook,Women 25-34,Increase Sales,368.31,42612,322,16,1056.24
+2026-06-06,C1007,Instagram Summer Sale 1,Instagram,Men 18-24,Market Expansion,358.31,34209,372,16,1157.88
+2026-06-06,C1009,Instagram New Arrivals 3,Instagram,All Ages,Increase Sales,204.62,20801,186,6,444.86
+2026-06-06,C1011,Instagram Flash Deal 5,Instagram,Men 25-34,Brand Awareness,340.64,28530,181,2,151.39
+2026-06-06,C1013,Pinterest Summer Sale 1,Pinterest,Men 25-34,Product Launch,187.15,28852,229,12,1088.64
+2026-06-06,C1014,Pinterest Back to School 2,Pinterest,Women 25-34,Market Expansion,374.94,48007,318,8,694.63
+2026-06-06,C1015,Pinterest New Arrivals 3,Pinterest,Men 25-34,Increase Sales,481.26,77848,556,34,2862.7
+2026-06-06,C1016,Pinterest Loyalty Push 4,Pinterest,Women 35-44,Brand Awareness,264.19,51658,357,14,1134.46
+2026-06-06,C1017,Pinterest Flash Deal 5,Pinterest,Men 18-24,Brand Awareness,128.85,21112,180,4,365.02
+2026-06-06,C1018,Pinterest Holiday Preview 6,Pinterest,Men 18-24,Market Expansion,353.5,59575,483,18,1659.62
+2026-06-06,C1020,Twitter Back to School 2,Twitter,Women 35-44,Market Expansion,335.76,48587,425,7,359.18
+2026-06-06,C1022,Twitter Loyalty Push 4,Twitter,Men 25-34,Product Launch,342.09,38974,447,10,516.45
+2026-06-06,C1024,Twitter Holiday Preview 6,Twitter,Women 25-34,Market Expansion,209.99,26191,202,2,114.04
+2026-06-07,C1001,Facebook Summer Sale 1,Facebook,Women 35-44,Brand Awareness,359.93,33122,444,19,1074.71
+2026-06-07,C1003,Facebook New Arrivals 3,Facebook,Women 25-34,Market Expansion,164.13,14682,119,4,255.48
+2026-06-07,C1005,Facebook Flash Deal 5,Facebook,Women 35-44,Brand Awareness,121.71,13354,179,5,251.17
+2026-06-07,C1006,Facebook Holiday Preview 6,Facebook,Women 25-34,Increase Sales,229.29,25758,217,8,534.63
+2026-06-07,C1007,Instagram Summer Sale 1,Instagram,Men 18-24,Market Expansion,495.2,39535,455,12,731.09
+2026-06-07,C1009,Instagram New Arrivals 3,Instagram,All Ages,Increase Sales,170.47,16156,110,3,188.64
+2026-06-07,C1011,Instagram Flash Deal 5,Instagram,Men 25-34,Brand Awareness,420.04,37566,239,7,470.33
+2026-06-07,C1013,Pinterest Summer Sale 1,Pinterest,Men 25-34,Product Launch,177.31,27099,236,7,585.67
+2026-06-07,C1014,Pinterest Back to School 2,Pinterest,Women 25-34,Market Expansion,387.03,62876,597,17,1472.96
+2026-06-07,C1016,Pinterest Loyalty Push 4,Pinterest,Women 35-44,Brand Awareness,193.48,29814,276,6,554.04
+2026-06-07,C1017,Pinterest Flash Deal 5,Pinterest,Men 18-24,Brand Awareness,88.47,12637,87,2,173.87
+2026-06-07,C1018,Pinterest Holiday Preview 6,Pinterest,Men 18-24,Market Expansion,280.62,52727,380,15,1500.75
+2026-06-07,C1020,Twitter Back to School 2,Twitter,Women 35-44,Market Expansion,256.77,30288,286,9,516.01
+2026-06-07,C1022,Twitter Loyalty Push 4,Twitter,Men 25-34,Product Launch,457.8,55474,672,11,604.65
+2026-06-07,C1024,Twitter Holiday Preview 6,Twitter,Women 25-34,Market Expansion,195.89,25037,183,4,235.51
+2026-06-08,C1001,Facebook Summer Sale 1,Facebook,Women 35-44,Brand Awareness,348.73,33299,380,12,960.14
+2026-06-08,C1003,Facebook New Arrivals 3,Facebook,Women 25-34,Market Expansion,165.96,15993,136,0,0.0
+2026-06-08,C1005,Facebook Flash Deal 5,Facebook,Women 35-44,Brand Awareness,103.41,10730,135,3,172.98
+2026-06-08,C1006,Facebook Holiday Preview 6,Facebook,Women 25-34,Increase Sales,239.56,27222,232,5,297.68
+2026-06-08,C1007,Instagram Summer Sale 1,Instagram,Men 18-24,Market Expansion,281.09,28318,470,10,658.49
+2026-06-08,C1009,Instagram New Arrivals 3,Instagram,All Ages,Increase Sales,157.43,15580,104,3,194.39
+2026-06-08,C1011,Instagram Flash Deal 5,Instagram,Men 25-34,Brand Awareness,420.13,43221,317,12,721.78
+2026-06-08,C1013,Pinterest Summer Sale 1,Pinterest,Men 25-34,Product Launch,208.24,39417,269,10,833.29
+2026-06-08,C1014,Pinterest Back to School 2,Pinterest,Women 25-34,Market Expansion,253.43,46554,435,15,1482.96
+2026-06-08,C1016,Pinterest Loyalty Push 4,Pinterest,Women 35-44,Brand Awareness,215.75,31896,336,9,733.68
+2026-06-08,C1017,Pinterest Flash Deal 5,Pinterest,Men 18-24,Brand Awareness,80.62,12714,93,6,540.73
+2026-06-08,C1018,Pinterest Holiday Preview 6,Pinterest,Men 18-24,Market Expansion,274.01,42775,296,14,919.61
+2026-06-08,C1020,Twitter Back to School 2,Twitter,Women 35-44,Market Expansion,321.73,40066,251,3,144.44
+2026-06-08,C1022,Twitter Loyalty Push 4,Twitter,Men 25-34,Product Launch,287.79,39389,507,9,484.91
+2026-06-08,C1024,Twitter Holiday Preview 6,Twitter,Women 25-34,Market Expansion,164.71,23258,195,0,0.0
+2026-06-09,C1001,Facebook Summer Sale 1,Facebook,Women 35-44,Brand Awareness,279.94,30188,434,18,1164.52
+2026-06-09,C1003,Facebook New Arrivals 3,Facebook,Women 25-34,Market Expansion,132.05,14497,110,4,237.84
+2026-06-09,C1005,Facebook Flash Deal 5,Facebook,Women 35-44,Brand Awareness,78.72,7746,84,0,0.0
+2026-06-09,C1006,Facebook Holiday Preview 6,Facebook,Women 25-34,Increase Sales,207.92,22582,169,6,400.43
+2026-06-09,C1007,Instagram Summer Sale 1,Instagram,Men 18-24,Market Expansion,339.63,31422,438,18,1225.53
+2026-06-09,C1009,Instagram New Arrivals 3,Instagram,All Ages,Increase Sales,125.28,13189,88,4,282.32
+2026-06-09,C1011,Instagram Flash Deal 5,Instagram,Men 25-34,Brand Awareness,389.34,31767,249,5,320.99
+2026-06-09,C1013,Pinterest Summer Sale 1,Pinterest,Men 25-34,Product Launch,169.45,29498,171,6,579.91
+2026-06-09,C1014,Pinterest Back to School 2,Pinterest,Women 25-34,Market Expansion,344.98,51140,505,17,1534.18
+2026-06-09,C1016,Pinterest Loyalty Push 4,Pinterest,Women 35-44,Brand Awareness,176.3,29873,211,3,225.68
+2026-06-09,C1017,Pinterest Flash Deal 5,Pinterest,Men 18-24,Brand Awareness,114.31,18635,137,0,0.0
+2026-06-09,C1018,Pinterest Holiday Preview 6,Pinterest,Men 18-24,Market Expansion,262.7,47384,491,18,1343.37
+2026-06-09,C1020,Twitter Back to School 2,Twitter,Women 35-44,Market Expansion,260.94,33646,332,10,559.91
+2026-06-09,C1022,Twitter Loyalty Push 4,Twitter,Men 25-34,Product Launch,432.56,64460,735,21,1283.55
+2026-06-09,C1024,Twitter Holiday Preview 6,Twitter,Women 25-34,Market Expansion,203.92,27860,227,5,258.94
+2026-06-10,C1001,Facebook Summer Sale 1,Facebook,Women 35-44,Brand Awareness,330.73,36354,414,8,519.39
+2026-06-10,C1003,Facebook New Arrivals 3,Facebook,Women 25-34,Market Expansion,142.64,13413,124,11,547.38
+2026-06-10,C1005,Facebook Flash Deal 5,Facebook,Women 35-44,Brand Awareness,74.06,8683,120,3,215.12
+2026-06-10,C1006,Facebook Holiday Preview 6,Facebook,Women 25-34,Increase Sales,268.37,31684,176,7,394.2
+2026-06-10,C1007,Instagram Summer Sale 1,Instagram,Men 18-24,Market Expansion,446.25,43132,440,23,1618.94
+2026-06-10,C1009,Instagram New Arrivals 3,Instagram,All Ages,Increase Sales,112.92,9636,99,2,169.01
+2026-06-10,C1011,Instagram Flash Deal 5,Instagram,Men 25-34,Brand Awareness,294.16,22737,132,3,189.36
+2026-06-10,C1013,Pinterest Summer Sale 1,Pinterest,Men 25-34,Product Launch,164.7,22786,164,7,515.11
+2026-06-10,C1014,Pinterest Back to School 2,Pinterest,Women 25-34,Market Expansion,442.55,69434,541,19,1782.31
+2026-06-10,C1016,Pinterest Loyalty Push 4,Pinterest,Women 35-44,Brand Awareness,163.96,28271,231,4,367.73
+2026-06-10,C1017,Pinterest Flash Deal 5,Pinterest,Men 18-24,Brand Awareness,112.13,23270,188,2,184.36
+2026-06-10,C1018,Pinterest Holiday Preview 6,Pinterest,Men 18-24,Market Expansion,348.0,58201,536,24,1760.42
+2026-06-10,C1020,Twitter Back to School 2,Twitter,Women 35-44,Market Expansion,235.48,28802,273,2,111.08
+2026-06-10,C1022,Twitter Loyalty Push 4,Twitter,Men 25-34,Product Launch,368.72,49458,787,21,1092.34
+2026-06-10,C1024,Twitter Holiday Preview 6,Twitter,Women 25-34,Market Expansion,178.51,21997,194,3,173.83
+2026-06-11,C1001,Facebook Summer Sale 1,Facebook,Women 35-44,Brand Awareness,419.42,47181,664,11,675.37
+2026-06-11,C1003,Facebook New Arrivals 3,Facebook,Women 25-34,Market Expansion,147.23,16349,143,5,301.91
+2026-06-11,C1005,Facebook Flash Deal 5,Facebook,Women 35-44,Brand Awareness,91.66,8739,100,4,211.16
+2026-06-11,C1006,Facebook Holiday Preview 6,Facebook,Women 25-34,Increase Sales,208.25,23916,205,2,139.62
+2026-06-11,C1007,Instagram Summer Sale 1,Instagram,Men 18-24,Market Expansion,460.85,43224,529,26,1788.36
+2026-06-11,C1009,Instagram New Arrivals 3,Instagram,All Ages,Increase Sales,138.57,14070,87,9,562.46
+2026-06-11,C1011,Instagram Flash Deal 5,Instagram,Men 25-34,Brand Awareness,354.66,29457,211,9,590.81
+2026-06-11,C1013,Pinterest Summer Sale 1,Pinterest,Men 25-34,Product Launch,188.16,29945,219,12,975.06
+2026-06-11,C1014,Pinterest Back to School 2,Pinterest,Women 25-34,Market Expansion,339.79,58702,501,30,2726.28
+2026-06-11,C1016,Pinterest Loyalty Push 4,Pinterest,Women 35-44,Brand Awareness,200.25,32934,274,8,678.42
+2026-06-11,C1017,Pinterest Flash Deal 5,Pinterest,Men 18-24,Brand Awareness,105.29,17279,147,6,538.51
+2026-06-11,C1018,Pinterest Holiday Preview 6,Pinterest,Men 18-24,Market Expansion,237.77,46560,452,7,711.29
+2026-06-11,C1020,Twitter Back to School 2,Twitter,Women 35-44,Market Expansion,225.55,32657,303,5,271.24
+2026-06-11,C1022,Twitter Loyalty Push 4,Twitter,Men 25-34,Product Launch,291.68,36441,478,14,657.68
+2026-06-11,C1024,Twitter Holiday Preview 6,Twitter,Women 25-34,Market Expansion,196.87,26284,199,3,157.79
+2026-06-12,C1001,Facebook Summer Sale 1,Facebook,Women 35-44,Brand Awareness,488.41,61098,857,21,1457.09
+2026-06-12,C1003,Facebook New Arrivals 3,Facebook,Women 25-34,Market Expansion,87.08,10270,103,3,214.99
+2026-06-12,C1005,Facebook Flash Deal 5,Facebook,Women 35-44,Brand Awareness,86.1,8222,89,0,0.0
+2026-06-12,C1006,Facebook Holiday Preview 6,Facebook,Women 25-34,Increase Sales,186.41,19022,131,3,195.03
+2026-06-12,C1007,Instagram Summer Sale 1,Instagram,Men 18-24,Market Expansion,363.66,30843,419,27,1825.82
+2026-06-12,C1009,Instagram New Arrivals 3,Instagram,All Ages,Increase Sales,160.26,15958,154,9,655.64
+2026-06-12,C1011,Instagram Flash Deal 5,Instagram,Men 25-34,Brand Awareness,454.9,36567,265,5,399.87
+2026-06-12,C1013,Pinterest Summer Sale 1,Pinterest,Men 25-34,Product Launch,181.85,33580,309,12,999.09
+2026-06-12,C1014,Pinterest Back to School 2,Pinterest,Women 25-34,Market Expansion,311.45,46518,404,13,1242.81
+2026-06-12,C1016,Pinterest Loyalty Push 4,Pinterest,Women 35-44,Brand Awareness,161.82,26468,247,8,722.83
+2026-06-12,C1017,Pinterest Flash Deal 5,Pinterest,Men 18-24,Brand Awareness,109.72,17917,138,5,417.01
+2026-06-12,C1018,Pinterest Holiday Preview 6,Pinterest,Men 18-24,Market Expansion,358.36,57571,524,14,1298.37
+2026-06-12,C1020,Twitter Back to School 2,Twitter,Women 35-44,Market Expansion,236.45,31645,312,8,384.07
+2026-06-12,C1022,Twitter Loyalty Push 4,Twitter,Men 25-34,Product Launch,229.2,37959,516,14,668.97
+2026-06-12,C1024,Twitter Holiday Preview 6,Twitter,Women 25-34,Market Expansion,168.08,23240,153,3,146.79
+2026-06-13,C1001,Facebook Summer Sale 1,Facebook,Women 35-44,Brand Awareness,427.26,49296,581,20,1203.77
+2026-06-13,C1003,Facebook New Arrivals 3,Facebook,Women 25-34,Market Expansion,135.91,14827,142,4,250.18
+2026-06-13,C1005,Facebook Flash Deal 5,Facebook,Women 35-44,Brand Awareness,95.46,10296,146,1,55.11
+2026-06-13,C1006,Facebook Holiday Preview 6,Facebook,Women 25-34,Increase Sales,182.1,20281,140,4,247.79
+2026-06-13,C1007,Instagram Summer Sale 1,Instagram,Men 18-24,Market Expansion,439.25,37609,595,23,1400.65
+2026-06-13,C1009,Instagram New Arrivals 3,Instagram,All Ages,Increase Sales,128.8,10740,95,8,616.35
+2026-06-13,C1011,Instagram Flash Deal 5,Instagram,Men 25-34,Brand Awareness,575.57,52064,362,8,559.22
+2026-06-13,C1013,Pinterest Summer Sale 1,Pinterest,Men 25-34,Product Launch,167.82,25588,163,2,171.34
+2026-06-13,C1014,Pinterest Back to School 2,Pinterest,Women 25-34,Market Expansion,341.8,51459,499,23,1480.73
+2026-06-13,C1016,Pinterest Loyalty Push 4,Pinterest,Women 35-44,Brand Awareness,228.7,35295,238,8,718.94
+2026-06-13,C1017,Pinterest Flash Deal 5,Pinterest,Men 18-24,Brand Awareness,107.48,17888,155,2,173.64
+2026-06-13,C1018,Pinterest Holiday Preview 6,Pinterest,Men 18-24,Market Expansion,296.26,51573,449,15,1240.57
+2026-06-13,C1020,Twitter Back to School 2,Twitter,Women 35-44,Market Expansion,277.44,31389,286,10,629.66
+2026-06-13,C1022,Twitter Loyalty Push 4,Twitter,Men 25-34,Product Launch,326.49,48149,570,13,742.95
+2026-06-13,C1024,Twitter Holiday Preview 6,Twitter,Women 25-34,Market Expansion,206.72,25748,228,4,212.66
+2026-06-14,C1001,Facebook Summer Sale 1,Facebook,Women 35-44,Brand Awareness,400.36,43588,621,20,1276.7
+2026-06-14,C1003,Facebook New Arrivals 3,Facebook,Women 25-34,Market Expansion,167.74,18251,190,3,158.15
+2026-06-14,C1005,Facebook Flash Deal 5,Facebook,Women 35-44,Brand Awareness,111.08,13513,147,4,249.68
+2026-06-14,C1006,Facebook Holiday Preview 6,Facebook,Women 25-34,Increase Sales,210.8,24593,152,8,589.17
+2026-06-14,C1007,Instagram Summer Sale 1,Instagram,Men 18-24,Market Expansion,393.22,32788,321,28,1960.38
+2026-06-14,C1009,Instagram New Arrivals 3,Instagram,All Ages,Increase Sales,102.07,9467,85,0,0.0
+2026-06-14,C1011,Instagram Flash Deal 5,Instagram,Men 25-34,Brand Awareness,622.82,56069,368,3,198.93
+2026-06-14,C1013,Pinterest Summer Sale 1,Pinterest,Men 25-34,Product Launch,177.97,32249,260,11,865.33
+2026-06-14,C1014,Pinterest Back to School 2,Pinterest,Women 25-34,Market Expansion,299.63,49497,462,20,1792.15
+2026-06-14,C1016,Pinterest Loyalty Push 4,Pinterest,Women 35-44,Brand Awareness,205.51,38132,294,5,376.79
+2026-06-14,C1017,Pinterest Flash Deal 5,Pinterest,Men 18-24,Brand Awareness,135.33,19146,145,2,191.71
+2026-06-14,C1018,Pinterest Holiday Preview 6,Pinterest,Men 18-24,Market Expansion,227.38,36662,318,12,965.36
+2026-06-14,C1020,Twitter Back to School 2,Twitter,Women 35-44,Market Expansion,306.23,44505,550,10,562.12
+2026-06-14,C1022,Twitter Loyalty Push 4,Twitter,Men 25-34,Product Launch,381.89,48256,519,15,711.13
+2026-06-14,C1024,Twitter Holiday Preview 6,Twitter,Women 25-34,Market Expansion,175.02,26070,244,6,311.85
+2026-06-15,C1001,Facebook Summer Sale 1,Facebook,Women 35-44,Brand Awareness,331.0,31609,448,14,862.68
+2026-06-15,C1003,Facebook New Arrivals 3,Facebook,Women 25-34,Market Expansion,107.22,9971,73,1,63.43
+2026-06-15,C1005,Facebook Flash Deal 5,Facebook,Women 35-44,Brand Awareness,85.7,9646,118,2,126.23
+2026-06-15,C1006,Facebook Holiday Preview 6,Facebook,Women 25-34,Increase Sales,181.06,19999,137,8,456.53
+2026-06-15,C1007,Instagram Summer Sale 1,Instagram,Men 18-24,Market Expansion,406.39,36194,490,26,1526.18
+2026-06-15,C1009,Instagram New Arrivals 3,Instagram,All Ages,Increase Sales,175.93,18581,128,3,226.49
+2026-06-15,C1011,Instagram Flash Deal 5,Instagram,Men 25-34,Brand Awareness,251.57,19906,109,0,0.0
+2026-06-15,C1013,Pinterest Summer Sale 1,Pinterest,Men 25-34,Product Launch,179.41,26690,192,5,432.83
+2026-06-15,C1014,Pinterest Back to School 2,Pinterest,Women 25-34,Market Expansion,244.75,36378,330,16,1545.06
+2026-06-15,C1016,Pinterest Loyalty Push 4,Pinterest,Women 35-44,Brand Awareness,176.14,29182,220,5,353.27
+2026-06-15,C1017,Pinterest Flash Deal 5,Pinterest,Men 18-24,Brand Awareness,123.03,18531,131,6,418.57
+2026-06-15,C1018,Pinterest Holiday Preview 6,Pinterest,Men 18-24,Market Expansion,273.54,48250,473,14,911.79
+2026-06-15,C1020,Twitter Back to School 2,Twitter,Women 35-44,Market Expansion,227.9,28937,345,5,252.15
+2026-06-15,C1022,Twitter Loyalty Push 4,Twitter,Men 25-34,Product Launch,333.16,47209,462,10,586.21
+2026-06-15,C1024,Twitter Holiday Preview 6,Twitter,Women 25-34,Market Expansion,165.06,20980,153,1,57.47
+2026-06-16,C1001,Facebook Summer Sale 1,Facebook,Women 35-44,Brand Awareness,287.52,31091,528,20,1456.25
+2026-06-16,C1003,Facebook New Arrivals 3,Facebook,Women 25-34,Market Expansion,132.75,15543,162,3,160.02
+2026-06-16,C1005,Facebook Flash Deal 5,Facebook,Women 35-44,Brand Awareness,75.12,8099,83,2,107.86
+2026-06-16,C1006,Facebook Holiday Preview 6,Facebook,Women 25-34,Increase Sales,167.04,19427,166,6,386.84
+2026-06-16,C1007,Instagram Summer Sale 1,Instagram,Men 18-24,Market Expansion,328.92,28413,288,12,731.62
+2026-06-16,C1009,Instagram New Arrivals 3,Instagram,All Ages,Increase Sales,110.1,10645,83,2,137.65
+2026-06-16,C1011,Instagram Flash Deal 5,Instagram,Men 25-34,Brand Awareness,304.82,30345,212,2,124.89
+2026-06-16,C1013,Pinterest Summer Sale 1,Pinterest,Men 25-34,Product Launch,214.61,31530,208,7,430.25
+2026-06-16,C1014,Pinterest Back to School 2,Pinterest,Women 25-34,Market Expansion,222.09,40720,400,12,1085.76
+2026-06-16,C1017,Pinterest Flash Deal 5,Pinterest,Men 18-24,Brand Awareness,93.06,12948,94,2,166.23
+2026-06-16,C1018,Pinterest Holiday Preview 6,Pinterest,Men 18-24,Market Expansion,353.42,61716,519,19,1491.3
+2026-06-16,C1020,Twitter Back to School 2,Twitter,Women 35-44,Market Expansion,210.12,29281,261,5,288.72
+2026-06-16,C1022,Twitter Loyalty Push 4,Twitter,Men 25-34,Product Launch,274.81,38668,413,11,591.48
+2026-06-16,C1024,Twitter Holiday Preview 6,Twitter,Women 25-34,Market Expansion,156.92,19800,190,4,207.86
+2026-06-17,C1001,Facebook Summer Sale 1,Facebook,Women 35-44,Brand Awareness,382.78,45348,628,19,1270.16
+2026-06-17,C1003,Facebook New Arrivals 3,Facebook,Women 25-34,Market Expansion,156.87,15917,156,5,317.3
+2026-06-17,C1005,Facebook Flash Deal 5,Facebook,Women 35-44,Brand Awareness,110.08,11778,136,10,706.31
+2026-06-17,C1006,Facebook Holiday Preview 6,Facebook,Women 25-34,Increase Sales,236.4,24768,220,11,656.99
+2026-06-17,C1007,Instagram Summer Sale 1,Instagram,Men 18-24,Market Expansion,363.62,31230,414,25,1486.94
+2026-06-17,C1009,Instagram New Arrivals 3,Instagram,All Ages,Increase Sales,86.63,7824,78,2,128.32
+2026-06-17,C1011,Instagram Flash Deal 5,Instagram,Men 25-34,Brand Awareness,508.63,44094,331,3,186.85
+2026-06-17,C1013,Pinterest Summer Sale 1,Pinterest,Men 25-34,Product Launch,175.15,31082,214,11,913.67
+2026-06-17,C1014,Pinterest Back to School 2,Pinterest,Women 25-34,Market Expansion,341.72,52171,488,21,1870.16
+2026-06-17,C1017,Pinterest Flash Deal 5,Pinterest,Men 18-24,Brand Awareness,124.32,18128,143,1,87.41
+2026-06-17,C1018,Pinterest Holiday Preview 6,Pinterest,Men 18-24,Market Expansion,272.6,47689,488,21,1459.98
+2026-06-17,C1020,Twitter Back to School 2,Twitter,Women 35-44,Market Expansion,215.36,27215,344,2,102.98
+2026-06-17,C1021,Twitter New Arrivals 3,Twitter,Women 35-44,Product Launch,135.89,18274,234,3,166.05
+2026-06-17,C1022,Twitter Loyalty Push 4,Twitter,Men 25-34,Product Launch,250.36,34691,405,10,592.05
+2026-06-17,C1024,Twitter Holiday Preview 6,Twitter,Women 25-34,Market Expansion,214.06,29263,225,2,118.5
+2026-06-18,C1001,Facebook Summer Sale 1,Facebook,Women 35-44,Brand Awareness,342.58,41630,580,9,492.6
+2026-06-18,C1003,Facebook New Arrivals 3,Facebook,Women 25-34,Market Expansion,162.33,17226,149,5,259.59
+2026-06-18,C1005,Facebook Flash Deal 5,Facebook,Women 35-44,Brand Awareness,71.08,8306,90,1,59.09
+2026-06-18,C1006,Facebook Holiday Preview 6,Facebook,Women 25-34,Increase Sales,267.76,30925,244,12,661.73
+2026-06-18,C1007,Instagram Summer Sale 1,Instagram,Men 18-24,Market Expansion,402.27,39188,502,22,1566.27
+2026-06-18,C1009,Instagram New Arrivals 3,Instagram,All Ages,Increase Sales,143.31,14061,96,5,325.4
+2026-06-18,C1011,Instagram Flash Deal 5,Instagram,Men 25-34,Brand Awareness,442.28,46146,322,13,795.23
+2026-06-18,C1013,Pinterest Summer Sale 1,Pinterest,Men 25-34,Product Launch,145.13,23620,158,10,867.57
+2026-06-18,C1014,Pinterest Back to School 2,Pinterest,Women 25-34,Market Expansion,359.93,53811,497,13,1148.34
+2026-06-18,C1017,Pinterest Flash Deal 5,Pinterest,Men 18-24,Brand Awareness,101.67,17049,153,2,160.66
+2026-06-18,C1018,Pinterest Holiday Preview 6,Pinterest,Men 18-24,Market Expansion,234.84,36616,295,7,582.81
+2026-06-18,C1020,Twitter Back to School 2,Twitter,Women 35-44,Market Expansion,196.24,26239,203,6,310.38
+2026-06-18,C1021,Twitter New Arrivals 3,Twitter,Women 35-44,Product Launch,206.01,27067,216,6,328.15
+2026-06-18,C1022,Twitter Loyalty Push 4,Twitter,Men 25-34,Product Launch,336.32,49022,548,10,618.24
+2026-06-18,C1024,Twitter Holiday Preview 6,Twitter,Women 25-34,Market Expansion,179.66,19157,179,10,394.29
+2026-06-19,C1001,Facebook Summer Sale 1,Facebook,Women 35-44,Brand Awareness,321.66,40060,579,16,927.29
+2026-06-19,C1003,Facebook New Arrivals 3,Facebook,Women 25-34,Market Expansion,158.62,19629,149,5,316.19
+2026-06-19,C1005,Facebook Flash Deal 5,Facebook,Women 35-44,Brand Awareness,81.45,9592,108,3,163.72
+2026-06-19,C1006,Facebook Holiday Preview 6,Facebook,Women 25-34,Increase Sales,208.27,23354,196,8,548.79
+2026-06-19,C1007,Instagram Summer Sale 1,Instagram,Men 18-24,Market Expansion,326.7,32470,389,34,2285.87
+2026-06-19,C1009,Instagram New Arrivals 3,Instagram,All Ages,Increase Sales,132.78,11586,99,4,257.04
+2026-06-19,C1011,Instagram Flash Deal 5,Instagram,Men 25-34,Brand Awareness,307.7,31577,216,6,413.85
+2026-06-19,C1013,Pinterest Summer Sale 1,Pinterest,Men 25-34,Product Launch,124.17,21509,156,6,583.67
+2026-06-19,C1014,Pinterest Back to School 2,Pinterest,Women 25-34,Market Expansion,296.22,46463,459,12,1023.61
+2026-06-19,C1017,Pinterest Flash Deal 5,Pinterest,Men 18-24,Brand Awareness,87.25,14832,156,6,447.06
+2026-06-19,C1018,Pinterest Holiday Preview 6,Pinterest,Men 18-24,Market Expansion,232.3,40936,396,16,1485.8
+2026-06-19,C1020,Twitter Back to School 2,Twitter,Women 35-44,Market Expansion,228.38,29008,253,6,386.64
+2026-06-19,C1021,Twitter New Arrivals 3,Twitter,Women 35-44,Product Launch,146.72,21322,154,8,345.18
+2026-06-19,C1022,Twitter Loyalty Push 4,Twitter,Men 25-34,Product Launch,358.79,46143,537,12,557.75
+2026-06-19,C1024,Twitter Holiday Preview 6,Twitter,Women 25-34,Market Expansion,138.46,18878,78,2,119.23
+2026-06-20,C1001,Facebook Summer Sale 1,Facebook,Women 35-44,Brand Awareness,492.8,57422,569,19,934.95
+2026-06-20,C1003,Facebook New Arrivals 3,Facebook,Women 25-34,Market Expansion,116.01,13450,134,0,0.0
+2026-06-20,C1005,Facebook Flash Deal 5,Facebook,Women 35-44,Brand Awareness,107.66,12280,138,3,202.54
+2026-06-20,C1006,Facebook Holiday Preview 6,Facebook,Women 25-34,Increase Sales,195.03,26548,190,11,572.54
+2026-06-20,C1007,Instagram Summer Sale 1,Instagram,Men 18-24,Market Expansion,562.59,55103,642,38,2417.64
+2026-06-20,C1009,Instagram New Arrivals 3,Instagram,All Ages,Increase Sales,207.58,18878,197,7,479.61
+2026-06-20,C1011,Instagram Flash Deal 5,Instagram,Men 25-34,Brand Awareness,290.04,27812,182,3,180.11
+2026-06-20,C1013,Pinterest Summer Sale 1,Pinterest,Men 25-34,Product Launch,219.21,33668,192,3,233.03
+2026-06-20,C1014,Pinterest Back to School 2,Pinterest,Women 25-34,Market Expansion,339.29,53949,563,27,2034.73
+2026-06-20,C1017,Pinterest Flash Deal 5,Pinterest,Men 18-24,Brand Awareness,125.94,20338,159,5,355.05
+2026-06-20,C1018,Pinterest Holiday Preview 6,Pinterest,Men 18-24,Market Expansion,321.0,57932,616,27,2892.47
+2026-06-20,C1020,Twitter Back to School 2,Twitter,Women 35-44,Market Expansion,286.66,43022,438,9,418.58
+2026-06-20,C1021,Twitter New Arrivals 3,Twitter,Women 35-44,Product Launch,181.63,25099,251,9,575.39
+2026-06-20,C1022,Twitter Loyalty Push 4,Twitter,Men 25-34,Product Launch,495.7,62621,944,19,1242.73
+2026-06-20,C1024,Twitter Holiday Preview 6,Twitter,Women 25-34,Market Expansion,193.88,25406,272,5,300.22
+2026-06-21,C1001,Facebook Summer Sale 1,Facebook,Women 35-44,Brand Awareness,364.56,42421,447,19,1273.86
+2026-06-21,C1003,Facebook New Arrivals 3,Facebook,Women 25-34,Market Expansion,144.47,14060,116,1,65.74
+2026-06-21,C1005,Facebook Flash Deal 5,Facebook,Women 35-44,Brand Awareness,87.14,9144,84,4,262.3
+2026-06-21,C1006,Facebook Holiday Preview 6,Facebook,Women 25-34,Increase Sales,296.52,32047,265,10,602.39
+2026-06-21,C1007,Instagram Summer Sale 1,Instagram,Men 18-24,Market Expansion,492.99,44211,563,32,2654.47
+2026-06-21,C1009,Instagram New Arrivals 3,Instagram,All Ages,Increase Sales,181.74,16504,126,5,317.27
+2026-06-21,C1011,Instagram Flash Deal 5,Instagram,Men 25-34,Brand Awareness,465.38,49328,399,8,467.87
+2026-06-21,C1013,Pinterest Summer Sale 1,Pinterest,Men 25-34,Product Launch,178.31,30965,210,9,851.72
+2026-06-21,C1014,Pinterest Back to School 2,Pinterest,Women 25-34,Market Expansion,265.59,42807,341,13,968.22
+2026-06-21,C1017,Pinterest Flash Deal 5,Pinterest,Men 18-24,Brand Awareness,137.96,22063,238,7,646.82
+2026-06-21,C1018,Pinterest Holiday Preview 6,Pinterest,Men 18-24,Market Expansion,324.33,57071,529,22,2085.87
+2026-06-21,C1020,Twitter Back to School 2,Twitter,Women 35-44,Market Expansion,194.1,26279,231,4,239.77
+2026-06-21,C1021,Twitter New Arrivals 3,Twitter,Women 35-44,Product Launch,189.42,23925,213,3,158.6
+2026-06-21,C1022,Twitter Loyalty Push 4,Twitter,Men 25-34,Product Launch,467.58,63711,696,26,1458.01
+2026-06-21,C1024,Twitter Holiday Preview 6,Twitter,Women 25-34,Market Expansion,181.45,26575,202,4,205.69
+2026-06-22,C1001,Facebook Summer Sale 1,Facebook,Women 35-44,Brand Awareness,422.98,47873,674,16,1030.03
+2026-06-22,C1003,Facebook New Arrivals 3,Facebook,Women 25-34,Market Expansion,137.03,15979,104,5,285.81
+2026-06-22,C1005,Facebook Flash Deal 5,Facebook,Women 35-44,Brand Awareness,80.27,8802,109,2,111.47
+2026-06-22,C1006,Facebook Holiday Preview 6,Facebook,Women 25-34,Increase Sales,277.16,35679,279,9,534.49
+2026-06-22,C1007,Instagram Summer Sale 1,Instagram,Men 18-24,Market Expansion,383.51,32931,420,26,1597.81
+2026-06-22,C1009,Instagram New Arrivals 3,Instagram,All Ages,Increase Sales,145.35,14828,140,9,512.93
+2026-06-22,C1010,Instagram Loyalty Push 4,Instagram,Women 35-44,Market Expansion,360.61,34679,304,10,685.04
+2026-06-22,C1011,Instagram Flash Deal 5,Instagram,Men 25-34,Brand Awareness,396.24,35992,307,8,583.26
+2026-06-22,C1013,Pinterest Summer Sale 1,Pinterest,Men 25-34,Product Launch,168.1,22779,165,9,877.42
+2026-06-22,C1014,Pinterest Back to School 2,Pinterest,Women 25-34,Market Expansion,268.39,44160,384,8,717.11
+2026-06-22,C1017,Pinterest Flash Deal 5,Pinterest,Men 18-24,Brand Awareness,130.2,21084,210,7,579.51
+2026-06-22,C1018,Pinterest Holiday Preview 6,Pinterest,Men 18-24,Market Expansion,281.96,45253,430,16,1397.61
+2026-06-22,C1020,Twitter Back to School 2,Twitter,Women 35-44,Market Expansion,234.75,32404,300,11,571.99
+2026-06-22,C1021,Twitter New Arrivals 3,Twitter,Women 35-44,Product Launch,136.17,15826,141,4,250.59
+2026-06-22,C1022,Twitter Loyalty Push 4,Twitter,Men 25-34,Product Launch,300.23,44990,449,8,408.6
+2026-06-22,C1024,Twitter Holiday Preview 6,Twitter,Women 25-34,Market Expansion,168.96,21651,185,1,56.49
+2026-06-23,C1001,Facebook Summer Sale 1,Facebook,Women 35-44,Brand Awareness,418.6,42571,589,26,1747.7
+2026-06-23,C1003,Facebook New Arrivals 3,Facebook,Women 25-34,Market Expansion,153.19,17772,102,4,220.88
+2026-06-23,C1005,Facebook Flash Deal 5,Facebook,Women 35-44,Brand Awareness,106.71,11229,147,3,184.95
+2026-06-23,C1006,Facebook Holiday Preview 6,Facebook,Women 25-34,Increase Sales,242.1,25741,206,13,923.82
+2026-06-23,C1007,Instagram Summer Sale 1,Instagram,Men 18-24,Market Expansion,374.39,33585,368,19,1343.56
+2026-06-23,C1009,Instagram New Arrivals 3,Instagram,All Ages,Increase Sales,115.77,10766,99,8,448.09
+2026-06-23,C1010,Instagram Loyalty Push 4,Instagram,Women 35-44,Market Expansion,270.52,23582,179,6,345.12
+2026-06-23,C1011,Instagram Flash Deal 5,Instagram,Men 25-34,Brand Awareness,442.82,37173,251,6,397.84
+2026-06-23,C1013,Pinterest Summer Sale 1,Pinterest,Men 25-34,Product Launch,150.49,23790,175,10,860.21
+2026-06-23,C1014,Pinterest Back to School 2,Pinterest,Women 25-34,Market Expansion,299.07,45006,480,18,1791.15
+2026-06-23,C1017,Pinterest Flash Deal 5,Pinterest,Men 18-24,Brand Awareness,124.14,21079,198,3,269.51
+2026-06-23,C1018,Pinterest Holiday Preview 6,Pinterest,Men 18-24,Market Expansion,281.72,46511,375,17,1506.2
+2026-06-23,C1020,Twitter Back to School 2,Twitter,Women 35-44,Market Expansion,196.12,24776,205,3,161.36
+2026-06-23,C1021,Twitter New Arrivals 3,Twitter,Women 35-44,Product Launch,151.64,20362,213,4,223.71
+2026-06-23,C1022,Twitter Loyalty Push 4,Twitter,Men 25-34,Product Launch,398.53,61276,722,21,1143.79
+2026-06-23,C1024,Twitter Holiday Preview 6,Twitter,Women 25-34,Market Expansion,178.33,22493,215,5,265.87
+2026-06-24,C1001,Facebook Summer Sale 1,Facebook,Women 35-44,Brand Awareness,390.13,51420,664,10,701.19
+2026-06-24,C1003,Facebook New Arrivals 3,Facebook,Women 25-34,Market Expansion,166.25,15632,165,5,336.85
+2026-06-24,C1005,Facebook Flash Deal 5,Facebook,Women 35-44,Brand Awareness,75.25,8060,104,3,181.21
+2026-06-24,C1006,Facebook Holiday Preview 6,Facebook,Women 25-34,Increase Sales,174.49,19754,149,4,215.39
+2026-06-24,C1007,Instagram Summer Sale 1,Instagram,Men 18-24,Market Expansion,347.22,33010,413,25,1800.09
+2026-06-24,C1009,Instagram New Arrivals 3,Instagram,All Ages,Increase Sales,165.16,14639,126,0,0.0
+2026-06-24,C1010,Instagram Loyalty Push 4,Instagram,Women 35-44,Market Expansion,289.62,25470,241,10,726.13
+2026-06-24,C1011,Instagram Flash Deal 5,Instagram,Men 25-34,Brand Awareness,295.18,25443,234,5,335.16
+2026-06-24,C1013,Pinterest Summer Sale 1,Pinterest,Men 25-34,Product Launch,181.32,29252,246,8,763.26
+2026-06-24,C1014,Pinterest Back to School 2,Pinterest,Women 25-34,Market Expansion,336.89,53639,534,18,1537.86
+2026-06-24,C1017,Pinterest Flash Deal 5,Pinterest,Men 18-24,Brand Awareness,97.88,14584,107,2,189.88
+2026-06-24,C1018,Pinterest Holiday Preview 6,Pinterest,Men 18-24,Market Expansion,269.28,40724,330,12,1235.38
+2026-06-24,C1020,Twitter Back to School 2,Twitter,Women 35-44,Market Expansion,283.89,36000,348,7,387.11
+2026-06-24,C1021,Twitter New Arrivals 3,Twitter,Women 35-44,Product Launch,177.41,24705,204,7,339.68
+2026-06-24,C1022,Twitter Loyalty Push 4,Twitter,Men 25-34,Product Launch,341.18,44015,537,16,724.18
+2026-06-24,C1024,Twitter Holiday Preview 6,Twitter,Women 25-34,Market Expansion,205.93,29619,238,1,58.27
+2026-06-25,C1001,Facebook Summer Sale 1,Facebook,Women 35-44,Brand Awareness,252.44,25240,291,12,638.89
+2026-06-25,C1003,Facebook New Arrivals 3,Facebook,Women 25-34,Market Expansion,158.81,15218,146,5,308.97
+2026-06-25,C1005,Facebook Flash Deal 5,Facebook,Women 35-44,Brand Awareness,92.63,9762,107,5,313.37
+2026-06-25,C1006,Facebook Holiday Preview 6,Facebook,Women 25-34,Increase Sales,154.67,17860,150,7,366.93
+2026-06-25,C1007,Instagram Summer Sale 1,Instagram,Men 18-24,Market Expansion,377.92,35029,500,24,1497.51
+2026-06-25,C1009,Instagram New Arrivals 3,Instagram,All Ages,Increase Sales,109.48,10355,84,4,298.07
+2026-06-25,C1010,Instagram Loyalty Push 4,Instagram,Women 35-44,Market Expansion,363.57,30920,292,6,398.71
+2026-06-25,C1011,Instagram Flash Deal 5,Instagram,Men 25-34,Brand Awareness,496.64,44805,333,5,390.53
+2026-06-25,C1013,Pinterest Summer Sale 1,Pinterest,Men 25-34,Product Launch,187.07,28626,224,11,946.02
+2026-06-25,C1014,Pinterest Back to School 2,Pinterest,Women 25-34,Market Expansion,326.23,46967,419,18,1724.15
+2026-06-25,C1017,Pinterest Flash Deal 5,Pinterest,Men 18-24,Brand Awareness,105.25,17309,182,1,90.41
+2026-06-25,C1018,Pinterest Holiday Preview 6,Pinterest,Men 18-24,Market Expansion,178.93,31018,277,9,779.23
+2026-06-25,C1020,Twitter Back to School 2,Twitter,Women 35-44,Market Expansion,293.32,43277,360,2,115.66
+2026-06-25,C1021,Twitter New Arrivals 3,Twitter,Women 35-44,Product Launch,190.74,24448,201,3,169.75
+2026-06-25,C1022,Twitter Loyalty Push 4,Twitter,Men 25-34,Product Launch,407.54,54927,663,17,911.9
+2026-06-25,C1024,Twitter Holiday Preview 6,Twitter,Women 25-34,Market Expansion,182.69,22841,175,3,170.72
+2026-06-26,C1001,Facebook Summer Sale 1,Facebook,Women 35-44,Brand Awareness,207.24,23126,308,6,380.53
+2026-06-26,C1003,Facebook New Arrivals 3,Facebook,Women 25-34,Market Expansion,110.97,11661,93,1,56.6
+2026-06-26,C1005,Facebook Flash Deal 5,Facebook,Women 35-44,Brand Awareness,110.06,10354,132,2,118.79
+2026-06-26,C1006,Facebook Holiday Preview 6,Facebook,Women 25-34,Increase Sales,194.61,23517,184,4,276.22
+2026-06-26,C1007,Instagram Summer Sale 1,Instagram,Men 18-24,Market Expansion,379.55,34245,293,14,836.26
+2026-06-26,C1009,Instagram New Arrivals 3,Instagram,All Ages,Increase Sales,129.72,10650,89,3,191.22
+2026-06-26,C1010,Instagram Loyalty Push 4,Instagram,Women 35-44,Market Expansion,323.8,27742,254,14,866.86
+2026-06-26,C1011,Instagram Flash Deal 5,Instagram,Men 25-34,Brand Awareness,434.88,35948,286,2,156.92
+2026-06-26,C1013,Pinterest Summer Sale 1,Pinterest,Men 25-34,Product Launch,76.72,12386,104,3,221.03
+2026-06-26,C1014,Pinterest Back to School 2,Pinterest,Women 25-34,Market Expansion,305.99,50379,443,22,1664.3
+2026-06-26,C1017,Pinterest Flash Deal 5,Pinterest,Men 18-24,Brand Awareness,165.31,25828,152,5,421.29
+2026-06-26,C1018,Pinterest Holiday Preview 6,Pinterest,Men 18-24,Market Expansion,319.65,58683,558,18,1540.69
+2026-06-26,C1020,Twitter Back to School 2,Twitter,Women 35-44,Market Expansion,201.43,25598,188,2,124.04
+2026-06-26,C1021,Twitter New Arrivals 3,Twitter,Women 35-44,Product Launch,189.21,25664,247,0,0.0
+2026-06-26,C1022,Twitter Loyalty Push 4,Twitter,Men 25-34,Product Launch,357.52,45443,565,22,1109.67
+2026-06-26,C1024,Twitter Holiday Preview 6,Twitter,Women 25-34,Market Expansion,127.46,16667,137,3,139.69
+2026-06-27,C1001,Facebook Summer Sale 1,Facebook,Women 35-44,Brand Awareness,446.89,46855,606,19,1146.68
+2026-06-27,C1003,Facebook New Arrivals 3,Facebook,Women 25-34,Market Expansion,219.48,24496,208,8,541.04
+2026-06-27,C1005,Facebook Flash Deal 5,Facebook,Women 35-44,Brand Awareness,87.28,9703,100,3,157.34
+2026-06-27,C1006,Facebook Holiday Preview 6,Facebook,Women 25-34,Increase Sales,237.5,25335,238,10,665.44
+2026-06-27,C1007,Instagram Summer Sale 1,Instagram,Men 18-24,Market Expansion,376.77,27093,309,21,1574.54
+2026-06-27,C1009,Instagram New Arrivals 3,Instagram,All Ages,Increase Sales,137.19,12570,124,11,824.21
+2026-06-27,C1010,Instagram Loyalty Push 4,Instagram,Women 35-44,Market Expansion,225.76,21451,165,8,540.46
+2026-06-27,C1011,Instagram Flash Deal 5,Instagram,Men 25-34,Brand Awareness,452.25,41789,286,4,276.56
+2026-06-27,C1012,Instagram Holiday Preview 6,Instagram,All Ages,Increase Sales,319.13,25835,272,16,1086.32
+2026-06-27,C1013,Pinterest Summer Sale 1,Pinterest,Men 25-34,Product Launch,185.94,27862,153,2,161.27
+2026-06-27,C1014,Pinterest Back to School 2,Pinterest,Women 25-34,Market Expansion,404.85,70309,523,27,2198.42
+2026-06-27,C1017,Pinterest Flash Deal 5,Pinterest,Men 18-24,Brand Awareness,126.03,21883,188,6,501.42
+2026-06-27,C1018,Pinterest Holiday Preview 6,Pinterest,Men 18-24,Market Expansion,323.66,48843,483,21,1687.25
+2026-06-27,C1020,Twitter Back to School 2,Twitter,Women 35-44,Market Expansion,273.02,35512,390,10,563.65
+2026-06-27,C1021,Twitter New Arrivals 3,Twitter,Women 35-44,Product Launch,206.63,27070,235,3,166.78
+2026-06-27,C1022,Twitter Loyalty Push 4,Twitter,Men 25-34,Product Launch,322.01,32534,344,11,506.33
+2026-06-27,C1024,Twitter Holiday Preview 6,Twitter,Women 25-34,Market Expansion,185.05,24030,185,1,41.18
+2026-06-28,C1001,Facebook Summer Sale 1,Facebook,Women 35-44,Brand Awareness,399.33,47314,487,4,266.59
+2026-06-28,C1003,Facebook New Arrivals 3,Facebook,Women 25-34,Market Expansion,126.43,13725,127,1,57.45
+2026-06-28,C1005,Facebook Flash Deal 5,Facebook,Women 35-44,Brand Awareness,101.76,11917,124,5,258.4
+2026-06-28,C1006,Facebook Holiday Preview 6,Facebook,Women 25-34,Increase Sales,248.03,27756,202,6,425.6
+2026-06-28,C1007,Instagram Summer Sale 1,Instagram,Men 18-24,Market Expansion,440.87,37455,363,16,1148.05
+2026-06-28,C1009,Instagram New Arrivals 3,Instagram,All Ages,Increase Sales,130.03,11183,59,3,176.87
+2026-06-28,C1010,Instagram Loyalty Push 4,Instagram,Women 35-44,Market Expansion,487.6,50406,497,13,933.55
+2026-06-28,C1011,Instagram Flash Deal 5,Instagram,Men 25-34,Brand Awareness,521.17,47034,288,5,389.75
+2026-06-28,C1012,Instagram Holiday Preview 6,Instagram,All Ages,Increase Sales,363.62,34897,323,25,1622.84
+2026-06-28,C1013,Pinterest Summer Sale 1,Pinterest,Men 25-34,Product Launch,130.83,23437,145,4,315.3
+2026-06-28,C1014,Pinterest Back to School 2,Pinterest,Women 25-34,Market Expansion,388.35,57702,464,18,1541.99
+2026-06-28,C1017,Pinterest Flash Deal 5,Pinterest,Men 18-24,Brand Awareness,81.0,13339,97,3,222.34
+2026-06-28,C1018,Pinterest Holiday Preview 6,Pinterest,Men 18-24,Market Expansion,227.44,38211,289,16,1378.33
+2026-06-28,C1020,Twitter Back to School 2,Twitter,Women 35-44,Market Expansion,274.83,37260,314,8,454.23
+2026-06-28,C1021,Twitter New Arrivals 3,Twitter,Women 35-44,Product Launch,224.21,29387,217,2,94.62
+2026-06-28,C1022,Twitter Loyalty Push 4,Twitter,Men 25-34,Product Launch,443.41,62041,623,23,1244.86
+2026-06-28,C1024,Twitter Holiday Preview 6,Twitter,Women 25-34,Market Expansion,241.6,26948,324,5,265.11
+2026-06-29,C1001,Facebook Summer Sale 1,Facebook,Women 35-44,Brand Awareness,336.56,37987,594,11,675.31
+2026-06-29,C1003,Facebook New Arrivals 3,Facebook,Women 25-34,Market Expansion,152.56,17274,154,3,187.95
+2026-06-29,C1005,Facebook Flash Deal 5,Facebook,Women 35-44,Brand Awareness,121.66,12528,158,4,261.75
+2026-06-29,C1006,Facebook Holiday Preview 6,Facebook,Women 25-34,Increase Sales,204.29,24521,204,11,693.02
+2026-06-29,C1007,Instagram Summer Sale 1,Instagram,Men 18-24,Market Expansion,262.53,24917,329,24,1505.01
+2026-06-29,C1009,Instagram New Arrivals 3,Instagram,All Ages,Increase Sales,153.88,13930,135,7,426.99
+2026-06-29,C1010,Instagram Loyalty Push 4,Instagram,Women 35-44,Market Expansion,288.86,25896,262,12,948.58
+2026-06-29,C1011,Instagram Flash Deal 5,Instagram,Men 25-34,Brand Awareness,423.92,39511,267,1,69.8
+2026-06-29,C1012,Instagram Holiday Preview 6,Instagram,All Ages,Increase Sales,264.99,27433,302,19,1246.29
+2026-06-29,C1013,Pinterest Summer Sale 1,Pinterest,Men 25-34,Product Launch,112.33,17521,135,2,172.69
+2026-06-29,C1014,Pinterest Back to School 2,Pinterest,Women 25-34,Market Expansion,296.95,48319,346,12,918.11
+2026-06-29,C1017,Pinterest Flash Deal 5,Pinterest,Men 18-24,Brand Awareness,139.77,21487,170,6,546.92
+2026-06-29,C1018,Pinterest Holiday Preview 6,Pinterest,Men 18-24,Market Expansion,335.84,51986,452,22,1849.25
+2026-06-29,C1020,Twitter Back to School 2,Twitter,Women 35-44,Market Expansion,360.08,48756,448,4,209.58
+2026-06-29,C1021,Twitter New Arrivals 3,Twitter,Women 35-44,Product Launch,209.61,27819,173,5,271.5
+2026-06-29,C1022,Twitter Loyalty Push 4,Twitter,Men 25-34,Product Launch,350.29,48916,613,20,1076.7
+2026-06-29,C1024,Twitter Holiday Preview 6,Twitter,Women 25-34,Market Expansion,142.64,20216,167,1,55.59
+2026-06-30,C1001,Facebook Summer Sale 1,Facebook,Women 35-44,Brand Awareness,441.18,49381,583,12,803.79
+2026-06-30,C1003,Facebook New Arrivals 3,Facebook,Women 25-34,Market Expansion,183.16,18168,175,6,378.35
+2026-06-30,C1005,Facebook Flash Deal 5,Facebook,Women 35-44,Brand Awareness,87.45,10647,109,3,175.44
+2026-06-30,C1006,Facebook Holiday Preview 6,Facebook,Women 25-34,Increase Sales,266.9,29226,235,5,290.61
+2026-06-30,C1007,Instagram Summer Sale 1,Instagram,Men 18-24,Market Expansion,512.88,45313,580,45,3230.91
+2026-06-30,C1009,Instagram New Arrivals 3,Instagram,All Ages,Increase Sales,118.29,11244,66,4,267.62
+2026-06-30,C1010,Instagram Loyalty Push 4,Instagram,Women 35-44,Market Expansion,472.06,44450,314,10,671.55
+2026-06-30,C1011,Instagram Flash Deal 5,Instagram,Men 25-34,Brand Awareness,345.5,33680,236,5,344.97
+2026-06-30,C1012,Instagram Holiday Preview 6,Instagram,All Ages,Increase Sales,300.14,31372,263,18,1227.64
+2026-06-30,C1013,Pinterest Summer Sale 1,Pinterest,Men 25-34,Product Launch,196.89,32465,293,7,617.46
+2026-06-30,C1014,Pinterest Back to School 2,Pinterest,Women 25-34,Market Expansion,327.93,61089,543,11,952.45
+2026-06-30,C1017,Pinterest Flash Deal 5,Pinterest,Men 18-24,Brand Awareness,142.87,24621,162,3,253.39
+2026-06-30,C1018,Pinterest Holiday Preview 6,Pinterest,Men 18-24,Market Expansion,291.92,47816,377,15,1153.63
+2026-06-30,C1020,Twitter Back to School 2,Twitter,Women 35-44,Market Expansion,230.45,27226,321,7,397.88
+2026-06-30,C1021,Twitter New Arrivals 3,Twitter,Women 35-44,Product Launch,161.01,18278,183,5,239.29
+2026-06-30,C1022,Twitter Loyalty Push 4,Twitter,Men 25-34,Product Launch,279.8,28300,365,6,316.17
+2026-06-30,C1024,Twitter Holiday Preview 6,Twitter,Women 25-34,Market Expansion,148.53,19025,180,1,56.41
+2026-07-01,C1001,Facebook Summer Sale 1,Facebook,Women 35-44,Brand Awareness,464.63,45917,701,23,1558.38
+2026-07-01,C1003,Facebook New Arrivals 3,Facebook,Women 25-34,Market Expansion,126.16,14052,100,2,114.0
+2026-07-01,C1005,Facebook Flash Deal 5,Facebook,Women 35-44,Brand Awareness,74.58,8808,117,1,56.9
+2026-07-01,C1006,Facebook Holiday Preview 6,Facebook,Women 25-34,Increase Sales,245.7,28078,211,6,344.94
+2026-07-01,C1007,Instagram Summer Sale 1,Instagram,Men 18-24,Market Expansion,340.22,32282,358,23,1449.27
+2026-07-01,C1009,Instagram New Arrivals 3,Instagram,All Ages,Increase Sales,110.02,9889,74,5,371.44
+2026-07-01,C1010,Instagram Loyalty Push 4,Instagram,Women 35-44,Market Expansion,337.49,32803,297,17,1202.85
+2026-07-01,C1011,Instagram Flash Deal 5,Instagram,Men 25-34,Brand Awareness,543.52,55171,421,5,310.33
+2026-07-01,C1012,Instagram Holiday Preview 6,Instagram,All Ages,Increase Sales,322.61,26588,271,21,1263.19
+2026-07-01,C1013,Pinterest Summer Sale 1,Pinterest,Men 25-34,Product Launch,180.9,31296,229,10,996.09
+2026-07-01,C1014,Pinterest Back to School 2,Pinterest,Women 25-34,Market Expansion,269.09,44250,325,13,1023.15
+2026-07-01,C1017,Pinterest Flash Deal 5,Pinterest,Men 18-24,Brand Awareness,116.32,21130,181,2,144.97
+2026-07-01,C1018,Pinterest Holiday Preview 6,Pinterest,Men 18-24,Market Expansion,293.33,49966,496,30,2597.57
+2026-07-01,C1020,Twitter Back to School 2,Twitter,Women 35-44,Market Expansion,274.71,38017,264,4,184.58
+2026-07-01,C1021,Twitter New Arrivals 3,Twitter,Women 35-44,Product Launch,180.67,22964,186,3,173.79
+2026-07-01,C1022,Twitter Loyalty Push 4,Twitter,Men 25-34,Product Launch,273.63,38051,419,13,764.51
+2026-07-01,C1024,Twitter Holiday Preview 6,Twitter,Women 25-34,Market Expansion,113.88,17363,173,5,312.52
+2026-07-02,C1001,Facebook Summer Sale 1,Facebook,Women 35-44,Brand Awareness,316.12,33624,396,12,770.93
+2026-07-02,C1005,Facebook Flash Deal 5,Facebook,Women 35-44,Brand Awareness,107.78,11916,132,3,171.43
+2026-07-02,C1006,Facebook Holiday Preview 6,Facebook,Women 25-34,Increase Sales,207.33,22461,137,4,209.8
+2026-07-02,C1007,Instagram Summer Sale 1,Instagram,Men 18-24,Market Expansion,340.02,32722,316,14,923.03
+2026-07-02,C1009,Instagram New Arrivals 3,Instagram,All Ages,Increase Sales,128.78,11259,81,3,216.96
+2026-07-02,C1010,Instagram Loyalty Push 4,Instagram,Women 35-44,Market Expansion,298.15,25270,242,8,513.97
+2026-07-02,C1011,Instagram Flash Deal 5,Instagram,Men 25-34,Brand Awareness,367.36,27770,152,3,239.17
+2026-07-02,C1012,Instagram Holiday Preview 6,Instagram,All Ages,Increase Sales,432.34,38153,289,9,657.56
+2026-07-02,C1013,Pinterest Summer Sale 1,Pinterest,Men 25-34,Product Launch,158.29,25002,174,10,877.63
+2026-07-02,C1014,Pinterest Back to School 2,Pinterest,Women 25-34,Market Expansion,316.63,53930,402,15,1308.04
+2026-07-02,C1017,Pinterest Flash Deal 5,Pinterest,Men 18-24,Brand Awareness,108.67,19313,169,4,369.44
+2026-07-02,C1018,Pinterest Holiday Preview 6,Pinterest,Men 18-24,Market Expansion,192.59,30635,311,8,668.35
+2026-07-02,C1020,Twitter Back to School 2,Twitter,Women 35-44,Market Expansion,246.83,29318,261,15,944.76
+2026-07-02,C1021,Twitter New Arrivals 3,Twitter,Women 35-44,Product Launch,151.47,20048,215,6,338.61
+2026-07-02,C1022,Twitter Loyalty Push 4,Twitter,Men 25-34,Product Launch,279.4,35857,440,12,696.08
+2026-07-02,C1024,Twitter Holiday Preview 6,Twitter,Women 25-34,Market Expansion,153.79,23165,169,2,122.02
+2026-07-03,C1001,Facebook Summer Sale 1,Facebook,Women 35-44,Brand Awareness,439.08,47449,489,14,856.62
+2026-07-03,C1005,Facebook Flash Deal 5,Facebook,Women 35-44,Brand Awareness,130.21,13210,128,4,202.28
+2026-07-03,C1006,Facebook Holiday Preview 6,Facebook,Women 25-34,Increase Sales,201.68,25208,195,13,881.56
+2026-07-03,C1007,Instagram Summer Sale 1,Instagram,Men 18-24,Market Expansion,369.92,31000,411,30,1915.74
+2026-07-03,C1009,Instagram New Arrivals 3,Instagram,All Ages,Increase Sales,157.77,13212,107,7,513.88
+2026-07-03,C1010,Instagram Loyalty Push 4,Instagram,Women 35-44,Market Expansion,335.26,29102,310,19,1351.58
+2026-07-03,C1011,Instagram Flash Deal 5,Instagram,Men 25-34,Brand Awareness,414.7,36010,239,6,390.87
+2026-07-03,C1012,Instagram Holiday Preview 6,Instagram,All Ages,Increase Sales,315.82,29527,264,22,1553.51
+2026-07-03,C1013,Pinterest Summer Sale 1,Pinterest,Men 25-34,Product Launch,128.52,21083,134,4,394.15
+2026-07-03,C1014,Pinterest Back to School 2,Pinterest,Women 25-34,Market Expansion,379.61,57298,507,17,1533.74
+2026-07-03,C1017,Pinterest Flash Deal 5,Pinterest,Men 18-24,Brand Awareness,110.57,19019,202,3,248.77
+2026-07-03,C1018,Pinterest Holiday Preview 6,Pinterest,Men 18-24,Market Expansion,350.89,53012,507,19,1375.74
+2026-07-03,C1020,Twitter Back to School 2,Twitter,Women 35-44,Market Expansion,279.24,35953,327,5,256.31
+2026-07-03,C1021,Twitter New Arrivals 3,Twitter,Women 35-44,Product Launch,159.1,19148,194,2,106.87
+2026-07-03,C1022,Twitter Loyalty Push 4,Twitter,Men 25-34,Product Launch,341.25,39650,483,6,369.24
+2026-07-03,C1024,Twitter Holiday Preview 6,Twitter,Women 25-34,Market Expansion,151.14,18117,137,3,141.39
+2026-07-04,C1001,Facebook Summer Sale 1,Facebook,Women 35-44,Brand Awareness,433.58,55694,946,27,1326.98
+2026-07-04,C1005,Facebook Flash Deal 5,Facebook,Women 35-44,Brand Awareness,84.79,8611,64,2,113.69
+2026-07-04,C1006,Facebook Holiday Preview 6,Facebook,Women 25-34,Increase Sales,222.44,26422,162,7,422.44
+2026-07-04,C1007,Instagram Summer Sale 1,Instagram,Men 18-24,Market Expansion,552.57,51044,540,57,3912.56
+2026-07-04,C1009,Instagram New Arrivals 3,Instagram,All Ages,Increase Sales,210.23,18035,126,0,0.0
+2026-07-04,C1010,Instagram Loyalty Push 4,Instagram,Women 35-44,Market Expansion,396.51,35503,320,18,1301.46
+2026-07-04,C1011,Instagram Flash Deal 5,Instagram,Men 25-34,Brand Awareness,342.15,30997,224,7,582.14
+2026-07-04,C1012,Instagram Holiday Preview 6,Instagram,All Ages,Increase Sales,279.75,28524,269,14,908.93
+2026-07-04,C1013,Pinterest Summer Sale 1,Pinterest,Men 25-34,Product Launch,203.43,33293,299,13,1179.06
+2026-07-04,C1014,Pinterest Back to School 2,Pinterest,Women 25-34,Market Expansion,423.48,68846,525,22,1829.92
+2026-07-04,C1017,Pinterest Flash Deal 5,Pinterest,Men 18-24,Brand Awareness,141.65,23592,187,4,350.9
+2026-07-04,C1018,Pinterest Holiday Preview 6,Pinterest,Men 18-24,Market Expansion,282.02,51801,474,22,1765.95
+2026-07-04,C1020,Twitter Back to School 2,Twitter,Women 35-44,Market Expansion,229.89,31224,276,8,457.24
+2026-07-04,C1021,Twitter New Arrivals 3,Twitter,Women 35-44,Product Launch,257.67,36050,339,8,458.57
+2026-07-04,C1022,Twitter Loyalty Push 4,Twitter,Men 25-34,Product Launch,389.45,50456,524,15,796.65
+2026-07-04,C1023,Twitter Flash Deal 5,Twitter,Men 25-34,Brand Awareness,400.83,47005,489,10,448.9
+2026-07-04,C1024,Twitter Holiday Preview 6,Twitter,Women 25-34,Market Expansion,111.35,18252,157,1,50.8
+2026-07-05,C1001,Facebook Summer Sale 1,Facebook,Women 35-44,Brand Awareness,325.91,34883,480,12,713.71
+2026-07-05,C1005,Facebook Flash Deal 5,Facebook,Women 35-44,Brand Awareness,103.45,11775,171,3,178.61
+2026-07-05,C1006,Facebook Holiday Preview 6,Facebook,Women 25-34,Increase Sales,209.06,26212,234,3,205.23
+2026-07-05,C1007,Instagram Summer Sale 1,Instagram,Men 18-24,Market Expansion,601.28,54153,514,26,1646.85
+2026-07-05,C1010,Instagram Loyalty Push 4,Instagram,Women 35-44,Market Expansion,400.43,36146,285,13,965.45
+2026-07-05,C1011,Instagram Flash Deal 5,Instagram,Men 25-34,Brand Awareness,522.08,52963,471,13,893.52
+2026-07-05,C1012,Instagram Holiday Preview 6,Instagram,All Ages,Increase Sales,466.06,39796,382,22,1335.23
+2026-07-05,C1013,Pinterest Summer Sale 1,Pinterest,Men 25-34,Product Launch,219.22,37011,289,10,798.19
+2026-07-05,C1014,Pinterest Back to School 2,Pinterest,Women 25-34,Market Expansion,328.18,53909,485,25,2457.73
+2026-07-05,C1017,Pinterest Flash Deal 5,Pinterest,Men 18-24,Brand Awareness,145.96,25398,292,3,286.94
+2026-07-05,C1018,Pinterest Holiday Preview 6,Pinterest,Men 18-24,Market Expansion,392.04,72220,672,26,1819.16
+2026-07-05,C1020,Twitter Back to School 2,Twitter,Women 35-44,Market Expansion,282.27,40323,414,3,159.87
+2026-07-05,C1021,Twitter New Arrivals 3,Twitter,Women 35-44,Product Launch,172.75,24516,312,9,420.39
+2026-07-05,C1022,Twitter Loyalty Push 4,Twitter,Men 25-34,Product Launch,466.86,61327,753,24,1255.9
+2026-07-05,C1023,Twitter Flash Deal 5,Twitter,Men 25-34,Brand Awareness,501.04,59971,493,13,754.32
+2026-07-05,C1024,Twitter Holiday Preview 6,Twitter,Women 25-34,Market Expansion,150.49,19237,149,4,228.85
+2026-07-06,C1001,Facebook Summer Sale 1,Facebook,Women 35-44,Brand Awareness,336.59,37953,545,14,1093.48
+2026-07-06,C1005,Facebook Flash Deal 5,Facebook,Women 35-44,Brand Awareness,78.94,8197,97,3,173.68
+2026-07-06,C1006,Facebook Holiday Preview 6,Facebook,Women 25-34,Increase Sales,142.7,17031,132,3,199.35
+2026-07-06,C1007,Instagram Summer Sale 1,Instagram,Men 18-24,Market Expansion,345.97,32360,460,25,1790.65
+2026-07-06,C1010,Instagram Loyalty Push 4,Instagram,Women 35-44,Market Expansion,285.38,24525,322,15,1023.22
+2026-07-06,C1011,Instagram Flash Deal 5,Instagram,Men 25-34,Brand Awareness,327.34,30705,191,4,232.41
+2026-07-06,C1012,Instagram Holiday Preview 6,Instagram,All Ages,Increase Sales,353.8,32277,272,14,856.27
+2026-07-06,C1013,Pinterest Summer Sale 1,Pinterest,Men 25-34,Product Launch,143.46,23232,182,4,358.85
+2026-07-06,C1017,Pinterest Flash Deal 5,Pinterest,Men 18-24,Brand Awareness,146.31,25368,266,4,336.52
+2026-07-06,C1018,Pinterest Holiday Preview 6,Pinterest,Men 18-24,Market Expansion,290.9,53476,473,19,1686.55
+2026-07-06,C1020,Twitter Back to School 2,Twitter,Women 35-44,Market Expansion,258.41,33417,368,6,283.09
+2026-07-06,C1021,Twitter New Arrivals 3,Twitter,Women 35-44,Product Launch,176.4,23601,271,7,378.4
+2026-07-06,C1022,Twitter Loyalty Push 4,Twitter,Men 25-34,Product Launch,336.24,50265,639,18,969.51
+2026-07-06,C1023,Twitter Flash Deal 5,Twitter,Men 25-34,Brand Awareness,316.32,43168,327,1,50.98
+2026-07-06,C1024,Twitter Holiday Preview 6,Twitter,Women 25-34,Market Expansion,204.5,27568,200,4,200.27
+2026-07-07,C1001,Facebook Summer Sale 1,Facebook,Women 35-44,Brand Awareness,369.0,45700,673,24,1552.03
+2026-07-07,C1005,Facebook Flash Deal 5,Facebook,Women 35-44,Brand Awareness,65.67,7868,77,2,136.66
+2026-07-07,C1006,Facebook Holiday Preview 6,Facebook,Women 25-34,Increase Sales,210.04,20992,143,4,260.17
+2026-07-07,C1007,Instagram Summer Sale 1,Instagram,Men 18-24,Market Expansion,291.56,26026,340,25,1712.52
+2026-07-07,C1010,Instagram Loyalty Push 4,Instagram,Women 35-44,Market Expansion,353.73,38678,377,8,565.89
+2026-07-07,C1011,Instagram Flash Deal 5,Instagram,Men 25-34,Brand Awareness,294.02,24840,194,4,288.55
+2026-07-07,C1012,Instagram Holiday Preview 6,Instagram,All Ages,Increase Sales,481.72,47502,463,18,1055.26
+2026-07-07,C1013,Pinterest Summer Sale 1,Pinterest,Men 25-34,Product Launch,89.32,15650,140,6,508.86
+2026-07-07,C1017,Pinterest Flash Deal 5,Pinterest,Men 18-24,Brand Awareness,110.62,16695,138,2,156.24
+2026-07-07,C1018,Pinterest Holiday Preview 6,Pinterest,Men 18-24,Market Expansion,296.04,53650,443,18,1678.89
+2026-07-07,C1020,Twitter Back to School 2,Twitter,Women 35-44,Market Expansion,224.77,30068,272,8,487.76
+2026-07-07,C1021,Twitter New Arrivals 3,Twitter,Women 35-44,Product Launch,149.95,18502,130,3,157.09
+2026-07-07,C1022,Twitter Loyalty Push 4,Twitter,Men 25-34,Product Launch,305.96,42578,518,11,666.46
+2026-07-07,C1023,Twitter Flash Deal 5,Twitter,Men 25-34,Brand Awareness,369.7,47208,496,9,539.99
+2026-07-07,C1024,Twitter Holiday Preview 6,Twitter,Women 25-34,Market Expansion,226.59,32126,213,4,255.72
+2026-07-08,C1001,Facebook Summer Sale 1,Facebook,Women 35-44,Brand Awareness,300.38,35152,535,14,949.21
+2026-07-08,C1005,Facebook Flash Deal 5,Facebook,Women 35-44,Brand Awareness,75.85,8152,112,1,71.77
+2026-07-08,C1006,Facebook Holiday Preview 6,Facebook,Women 25-34,Increase Sales,237.37,27905,223,4,200.93
+2026-07-08,C1007,Instagram Summer Sale 1,Instagram,Men 18-24,Market Expansion,333.06,27683,304,7,533.33
+2026-07-08,C1010,Instagram Loyalty Push 4,Instagram,Women 35-44,Market Expansion,68.45,6557,67,2,135.88
+2026-07-08,C1011,Instagram Flash Deal 5,Instagram,Men 25-34,Brand Awareness,384.52,38031,285,4,263.68
+2026-07-08,C1012,Instagram Holiday Preview 6,Instagram,All Ages,Increase Sales,324.28,29964,307,18,1160.38
+2026-07-08,C1013,Pinterest Summer Sale 1,Pinterest,Men 25-34,Product Launch,208.49,34693,276,4,324.43
+2026-07-08,C1017,Pinterest Flash Deal 5,Pinterest,Men 18-24,Brand Awareness,122.65,21003,171,8,612.82
+2026-07-08,C1018,Pinterest Holiday Preview 6,Pinterest,Men 18-24,Market Expansion,334.35,57622,521,22,1964.6
+2026-07-08,C1020,Twitter Back to School 2,Twitter,Women 35-44,Market Expansion,248.29,30872,319,10,614.55
+2026-07-08,C1021,Twitter New Arrivals 3,Twitter,Women 35-44,Product Launch,162.05,21523,170,3,154.94
+2026-07-08,C1022,Twitter Loyalty Push 4,Twitter,Men 25-34,Product Launch,356.28,48013,631,29,1670.7
+2026-07-08,C1023,Twitter Flash Deal 5,Twitter,Men 25-34,Brand Awareness,293.21,36966,345,11,683.88
+2026-07-08,C1024,Twitter Holiday Preview 6,Twitter,Women 25-34,Market Expansion,168.26,22058,148,4,185.06
+2026-07-09,C1001,Facebook Summer Sale 1,Facebook,Women 35-44,Brand Awareness,237.81,25713,282,11,579.53
+2026-07-09,C1005,Facebook Flash Deal 5,Facebook,Women 35-44,Brand Awareness,111.64,11392,166,5,289.04
+2026-07-09,C1006,Facebook Holiday Preview 6,Facebook,Women 25-34,Increase Sales,218.42,24630,195,7,431.32
+2026-07-09,C1007,Instagram Summer Sale 1,Instagram,Men 18-24,Market Expansion,390.22,31452,460,32,2017.68
+2026-07-09,C1010,Instagram Loyalty Push 4,Instagram,Women 35-44,Market Expansion,188.1,17710,166,7,508.93
+2026-07-09,C1011,Instagram Flash Deal 5,Instagram,Men 25-34,Brand Awareness,447.42,45787,245,2,131.67
+2026-07-09,C1012,Instagram Holiday Preview 6,Instagram,All Ages,Increase Sales,423.03,38138,396,15,1084.5
+2026-07-09,C1013,Pinterest Summer Sale 1,Pinterest,Men 25-34,Product Launch,189.49,29125,211,12,977.15
+2026-07-09,C1017,Pinterest Flash Deal 5,Pinterest,Men 18-24,Brand Awareness,117.72,23319,224,4,254.63
+2026-07-09,C1018,Pinterest Holiday Preview 6,Pinterest,Men 18-24,Market Expansion,299.76,44982,378,10,942.33
+2026-07-09,C1020,Twitter Back to School 2,Twitter,Women 35-44,Market Expansion,202.17,26391,253,8,444.47
+2026-07-09,C1021,Twitter New Arrivals 3,Twitter,Women 35-44,Product Launch,172.5,19227,184,3,181.38
+2026-07-09,C1022,Twitter Loyalty Push 4,Twitter,Men 25-34,Product Launch,246.17,31699,362,10,581.24
+2026-07-09,C1023,Twitter Flash Deal 5,Twitter,Men 25-34,Brand Awareness,403.96,48983,419,10,473.32
+2026-07-09,C1024,Twitter Holiday Preview 6,Twitter,Women 25-34,Market Expansion,249.22,32236,308,3,153.23
+2026-07-10,C1001,Facebook Summer Sale 1,Facebook,Women 35-44,Brand Awareness,165.45,17584,304,12,721.88
+2026-07-10,C1005,Facebook Flash Deal 5,Facebook,Women 35-44,Brand Awareness,97.55,11532,143,7,485.13
+2026-07-10,C1006,Facebook Holiday Preview 6,Facebook,Women 25-34,Increase Sales,217.29,28068,186,9,633.18
+2026-07-10,C1007,Instagram Summer Sale 1,Instagram,Men 18-24,Market Expansion,531.66,52211,700,54,3070.02
+2026-07-10,C1010,Instagram Loyalty Push 4,Instagram,Women 35-44,Market Expansion,428.67,42491,312,12,848.1
+2026-07-10,C1011,Instagram Flash Deal 5,Instagram,Men 25-34,Brand Awareness,266.6,25496,199,4,317.91
+2026-07-10,C1012,Instagram Holiday Preview 6,Instagram,All Ages,Increase Sales,320.46,22929,134,9,532.89
+2026-07-10,C1013,Pinterest Summer Sale 1,Pinterest,Men 25-34,Product Launch,166.51,24863,219,10,724.02
+2026-07-10,C1017,Pinterest Flash Deal 5,Pinterest,Men 18-24,Brand Awareness,150.23,28097,248,8,688.94
+2026-07-10,C1018,Pinterest Holiday Preview 6,Pinterest,Men 18-24,Market Expansion,312.04,45906,480,18,1559.73
+2026-07-10,C1020,Twitter Back to School 2,Twitter,Women 35-44,Market Expansion,338.48,46281,456,7,375.13
+2026-07-10,C1021,Twitter New Arrivals 3,Twitter,Women 35-44,Product Launch,211.09,26055,210,6,347.7
+2026-07-10,C1022,Twitter Loyalty Push 4,Twitter,Men 25-34,Product Launch,273.88,43200,474,5,306.56
+2026-07-10,C1023,Twitter Flash Deal 5,Twitter,Men 25-34,Brand Awareness,405.26,55271,469,4,214.24
+2026-07-10,C1024,Twitter Holiday Preview 6,Twitter,Women 25-34,Market Expansion,146.75,19637,138,5,218.72
+2026-07-11,C1001,Facebook Summer Sale 1,Facebook,Women 35-44,Brand Awareness,415.27,45823,717,23,1658.29
+2026-07-11,C1005,Facebook Flash Deal 5,Facebook,Women 35-44,Brand Awareness,114.92,11997,98,3,216.55
+2026-07-11,C1006,Facebook Holiday Preview 6,Facebook,Women 25-34,Increase Sales,313.45,36076,246,8,565.25
+2026-07-11,C1007,Instagram Summer Sale 1,Instagram,Men 18-24,Market Expansion,279.91,26094,287,19,1258.75
+2026-07-11,C1010,Instagram Loyalty Push 4,Instagram,Women 35-44,Market Expansion,278.38,26880,240,7,476.35
+2026-07-11,C1011,Instagram Flash Deal 5,Instagram,Men 25-34,Brand Awareness,208.73,17522,125,2,136.88
+2026-07-11,C1012,Instagram Holiday Preview 6,Instagram,All Ages,Increase Sales,360.09,32765,268,19,1124.69
+2026-07-11,C1013,Pinterest Summer Sale 1,Pinterest,Men 25-34,Product Launch,222.63,37084,268,6,509.12
+2026-07-11,C1017,Pinterest Flash Deal 5,Pinterest,Men 18-24,Brand Awareness,118.35,16951,165,3,251.64
+2026-07-11,C1018,Pinterest Holiday Preview 6,Pinterest,Men 18-24,Market Expansion,365.46,63231,465,12,917.13
+2026-07-11,C1020,Twitter Back to School 2,Twitter,Women 35-44,Market Expansion,195.73,25944,194,4,218.12
+2026-07-11,C1021,Twitter New Arrivals 3,Twitter,Women 35-44,Product Launch,181.1,26780,258,6,361.34
+2026-07-11,C1022,Twitter Loyalty Push 4,Twitter,Men 25-34,Product Launch,338.29,40184,497,20,1363.55
+2026-07-11,C1023,Twitter Flash Deal 5,Twitter,Men 25-34,Brand Awareness,617.93,90132,763,7,364.06
+2026-07-11,C1024,Twitter Holiday Preview 6,Twitter,Women 25-34,Market Expansion,171.75,23427,252,3,162.69
+2026-07-12,C1001,Facebook Summer Sale 1,Facebook,Women 35-44,Brand Awareness,336.72,34756,541,10,628.15
+2026-07-12,C1004,Facebook Loyalty Push 4,Facebook,Men 18-24,Increase Sales,515.04,57628,729,39,2689.46
+2026-07-12,C1005,Facebook Flash Deal 5,Facebook,Women 35-44,Brand Awareness,118.55,13198,142,8,437.98
+2026-07-12,C1007,Instagram Summer Sale 1,Instagram,Men 18-24,Market Expansion,443.15,43146,644,43,2888.89
+2026-07-12,C1008,Instagram Back to School 2,Instagram,All Ages,Increase Sales,238.79,19408,224,10,654.13
+2026-07-12,C1010,Instagram Loyalty Push 4,Instagram,Women 35-44,Market Expansion,386.28,36180,344,19,1333.03
+2026-07-12,C1011,Instagram Flash Deal 5,Instagram,Men 25-34,Brand Awareness,474.3,42303,257,5,324.67
+2026-07-12,C1012,Instagram Holiday Preview 6,Instagram,All Ages,Increase Sales,497.93,45542,430,35,2638.73
+2026-07-12,C1013,Pinterest Summer Sale 1,Pinterest,Men 25-34,Product Launch,190.22,30675,273,7,644.51
+2026-07-12,C1017,Pinterest Flash Deal 5,Pinterest,Men 18-24,Brand Awareness,136.66,21859,201,5,401.01
+2026-07-12,C1018,Pinterest Holiday Preview 6,Pinterest,Men 18-24,Market Expansion,405.16,72107,757,27,2360.88
+2026-07-12,C1020,Twitter Back to School 2,Twitter,Women 35-44,Market Expansion,235.65,31446,340,7,478.21
+2026-07-12,C1021,Twitter New Arrivals 3,Twitter,Women 35-44,Product Launch,180.04,22534,245,5,273.04
+2026-07-12,C1022,Twitter Loyalty Push 4,Twitter,Men 25-34,Product Launch,251.81,31378,368,5,268.3
+2026-07-12,C1023,Twitter Flash Deal 5,Twitter,Men 25-34,Brand Awareness,314.83,38097,320,3,171.1
+2026-07-12,C1024,Twitter Holiday Preview 6,Twitter,Women 25-34,Market Expansion,207.34,26653,272,6,312.22
+2026-07-13,C1001,Facebook Summer Sale 1,Facebook,Women 35-44,Brand Awareness,371.24,46412,575,16,1055.24
+2026-07-13,C1004,Facebook Loyalty Push 4,Facebook,Men 18-24,Increase Sales,375.1,37973,537,37,2330.54
+2026-07-13,C1007,Instagram Summer Sale 1,Instagram,Men 18-24,Market Expansion,480.29,47887,630,42,2975.61
+2026-07-13,C1008,Instagram Back to School 2,Instagram,All Ages,Increase Sales,215.37,20535,159,12,740.67
+2026-07-13,C1010,Instagram Loyalty Push 4,Instagram,Women 35-44,Market Expansion,315.07,27160,271,10,657.69
+2026-07-13,C1011,Instagram Flash Deal 5,Instagram,Men 25-34,Brand Awareness,454.68,43288,333,9,541.73
+2026-07-13,C1012,Instagram Holiday Preview 6,Instagram,All Ages,Increase Sales,332.34,33013,275,17,1099.77
+2026-07-13,C1013,Pinterest Summer Sale 1,Pinterest,Men 25-34,Product Launch,160.16,29626,246,12,1020.46
+2026-07-13,C1017,Pinterest Flash Deal 5,Pinterest,Men 18-24,Brand Awareness,95.93,14675,149,3,270.42
+2026-07-13,C1018,Pinterest Holiday Preview 6,Pinterest,Men 18-24,Market Expansion,333.58,57015,478,5,409.07
+2026-07-13,C1020,Twitter Back to School 2,Twitter,Women 35-44,Market Expansion,232.54,30312,306,5,226.85
+2026-07-13,C1021,Twitter New Arrivals 3,Twitter,Women 35-44,Product Launch,158.99,21790,247,6,324.55
+2026-07-13,C1022,Twitter Loyalty Push 4,Twitter,Men 25-34,Product Launch,311.18,44061,431,10,514.91
+2026-07-13,C1023,Twitter Flash Deal 5,Twitter,Men 25-34,Brand Awareness,423.83,47063,374,13,703.26
+2026-07-13,C1024,Twitter Holiday Preview 6,Twitter,Women 25-34,Market Expansion,165.65,23521,192,4,236.71
+2026-07-14,C1001,Facebook Summer Sale 1,Facebook,Women 35-44,Brand Awareness,320.35,38862,375,11,669.78
+2026-07-14,C1004,Facebook Loyalty Push 4,Facebook,Men 18-24,Increase Sales,379.64,39954,572,26,1600.75
+2026-07-14,C1007,Instagram Summer Sale 1,Instagram,Men 18-24,Market Expansion,412.24,43323,522,28,2138.06
+2026-07-14,C1008,Instagram Back to School 2,Instagram,All Ages,Increase Sales,179.48,16643,167,5,324.17
+2026-07-14,C1010,Instagram Loyalty Push 4,Instagram,Women 35-44,Market Expansion,296.18,23380,224,7,457.92
+2026-07-14,C1011,Instagram Flash Deal 5,Instagram,Men 25-34,Brand Awareness,339.97,30718,207,4,259.85
+2026-07-14,C1012,Instagram Holiday Preview 6,Instagram,All Ages,Increase Sales,338.77,31095,215,9,621.94
+2026-07-14,C1013,Pinterest Summer Sale 1,Pinterest,Men 25-34,Product Launch,177.19,25545,194,5,423.15
+2026-07-14,C1017,Pinterest Flash Deal 5,Pinterest,Men 18-24,Brand Awareness,162.07,24681,215,4,323.41
+2026-07-14,C1018,Pinterest Holiday Preview 6,Pinterest,Men 18-24,Market Expansion,254.54,45244,488,28,2607.53
+2026-07-14,C1020,Twitter Back to School 2,Twitter,Women 35-44,Market Expansion,218.7,31197,311,6,329.62
+2026-07-14,C1021,Twitter New Arrivals 3,Twitter,Women 35-44,Product Launch,149.19,20424,178,3,187.11
+2026-07-14,C1022,Twitter Loyalty Push 4,Twitter,Men 25-34,Product Launch,330.45,44839,489,21,1099.14
+2026-07-14,C1023,Twitter Flash Deal 5,Twitter,Men 25-34,Brand Awareness,328.21,36917,341,4,225.11
+2026-07-14,C1024,Twitter Holiday Preview 6,Twitter,Women 25-34,Market Expansion,233.85,33961,234,5,267.13
+2026-07-15,C1001,Facebook Summer Sale 1,Facebook,Women 35-44,Brand Awareness,338.57,37140,519,22,1439.91
+2026-07-15,C1004,Facebook Loyalty Push 4,Facebook,Men 18-24,Increase Sales,289.98,28426,391,31,1827.16
+2026-07-15,C1007,Instagram Summer Sale 1,Instagram,Men 18-24,Market Expansion,426.25,39383,490,20,1207.52
+2026-07-15,C1008,Instagram Back to School 2,Instagram,All Ages,Increase Sales,198.94,20323,195,17,959.75
+2026-07-15,C1010,Instagram Loyalty Push 4,Instagram,Women 35-44,Market Expansion,274.64,22982,163,8,642.53
+2026-07-15,C1011,Instagram Flash Deal 5,Instagram,Men 25-34,Brand Awareness,381.35,35820,261,7,477.8
+2026-07-15,C1012,Instagram Holiday Preview 6,Instagram,All Ages,Increase Sales,331.02,27612,213,16,995.5
+2026-07-15,C1013,Pinterest Summer Sale 1,Pinterest,Men 25-34,Product Launch,222.14,38984,267,19,1481.97
+2026-07-15,C1017,Pinterest Flash Deal 5,Pinterest,Men 18-24,Brand Awareness,160.94,27715,228,3,220.81
+2026-07-15,C1018,Pinterest Holiday Preview 6,Pinterest,Men 18-24,Market Expansion,149.53,23753,219,10,791.7
+2026-07-15,C1020,Twitter Back to School 2,Twitter,Women 35-44,Market Expansion,304.88,40658,377,12,647.5
+2026-07-15,C1021,Twitter New Arrivals 3,Twitter,Women 35-44,Product Launch,118.11,17351,140,7,456.46
+2026-07-15,C1022,Twitter Loyalty Push 4,Twitter,Men 25-34,Product Launch,272.13,35582,513,10,565.61
+2026-07-15,C1023,Twitter Flash Deal 5,Twitter,Men 25-34,Brand Awareness,420.02,54993,464,4,218.31
+2026-07-15,C1024,Twitter Holiday Preview 6,Twitter,Women 25-34,Market Expansion,184.43,24460,173,4,230.16
+2026-07-16,C1001,Facebook Summer Sale 1,Facebook,Women 35-44,Brand Awareness,373.68,48279,665,16,1025.16
+2026-07-16,C1004,Facebook Loyalty Push 4,Facebook,Men 18-24,Increase Sales,426.86,45923,559,43,2911.98
+2026-07-16,C1007,Instagram Summer Sale 1,Instagram,Men 18-24,Market Expansion,325.97,27147,299,8,529.44
+2026-07-16,C1008,Instagram Back to School 2,Instagram,All Ages,Increase Sales,285.29,25655,263,9,631.06
+2026-07-16,C1010,Instagram Loyalty Push 4,Instagram,Women 35-44,Market Expansion,305.36,27162,293,12,766.08
+2026-07-16,C1011,Instagram Flash Deal 5,Instagram,Men 25-34,Brand Awareness,396.09,40958,299,4,268.09
+2026-07-16,C1012,Instagram Holiday Preview 6,Instagram,All Ages,Increase Sales,344.33,28288,207,22,1565.75
+2026-07-16,C1013,Pinterest Summer Sale 1,Pinterest,Men 25-34,Product Launch,181.64,33241,196,6,432.0
+2026-07-16,C1017,Pinterest Flash Deal 5,Pinterest,Men 18-24,Brand Awareness,102.36,17992,176,5,443.56
+2026-07-16,C1018,Pinterest Holiday Preview 6,Pinterest,Men 18-24,Market Expansion,244.54,36592,382,18,1677.36
+2026-07-16,C1020,Twitter Back to School 2,Twitter,Women 35-44,Market Expansion,262.88,30878,280,8,379.35
+2026-07-16,C1021,Twitter New Arrivals 3,Twitter,Women 35-44,Product Launch,169.39,23191,208,4,168.17
+2026-07-16,C1022,Twitter Loyalty Push 4,Twitter,Men 25-34,Product Launch,282.94,41590,446,16,894.8
+2026-07-16,C1023,Twitter Flash Deal 5,Twitter,Men 25-34,Brand Awareness,380.5,43118,369,2,131.23
+2026-07-16,C1024,Twitter Holiday Preview 6,Twitter,Women 25-34,Market Expansion,234.13,32767,180,4,203.72
+2026-07-17,C1001,Facebook Summer Sale 1,Facebook,Women 35-44,Brand Awareness,358.02,37343,578,15,947.48
+2026-07-17,C1004,Facebook Loyalty Push 4,Facebook,Men 18-24,Increase Sales,426.9,54705,600,37,2036.39
+2026-07-17,C1007,Instagram Summer Sale 1,Instagram,Men 18-24,Market Expansion,354.72,33491,317,22,1539.66
+2026-07-17,C1008,Instagram Back to School 2,Instagram,All Ages,Increase Sales,241.94,24384,276,12,875.37
+2026-07-17,C1010,Instagram Loyalty Push 4,Instagram,Women 35-44,Market Expansion,217.61,19342,198,5,374.44
+2026-07-17,C1011,Instagram Flash Deal 5,Instagram,Men 25-34,Brand Awareness,303.31,30365,231,4,235.43
+2026-07-17,C1012,Instagram Holiday Preview 6,Instagram,All Ages,Increase Sales,287.72,27745,228,17,1087.46
+2026-07-17,C1013,Pinterest Summer Sale 1,Pinterest,Men 25-34,Product Launch,167.27,27731,254,9,782.65
+2026-07-17,C1017,Pinterest Flash Deal 5,Pinterest,Men 18-24,Brand Awareness,93.82,15555,123,0,0.0
+2026-07-17,C1018,Pinterest Holiday Preview 6,Pinterest,Men 18-24,Market Expansion,263.59,42621,458,21,1525.17
+2026-07-17,C1020,Twitter Back to School 2,Twitter,Women 35-44,Market Expansion,294.64,38185,354,5,279.38
+2026-07-17,C1021,Twitter New Arrivals 3,Twitter,Women 35-44,Product Launch,164.96,25247,205,5,227.8
+2026-07-17,C1022,Twitter Loyalty Push 4,Twitter,Men 25-34,Product Launch,447.39,58367,747,16,951.58
+2026-07-17,C1023,Twitter Flash Deal 5,Twitter,Men 25-34,Brand Awareness,383.42,55360,470,4,196.83
+2026-07-17,C1024,Twitter Holiday Preview 6,Twitter,Women 25-34,Market Expansion,176.55,19639,159,2,106.28
+2026-07-18,C1001,Facebook Summer Sale 1,Facebook,Women 35-44,Brand Awareness,301.62,33331,518,23,1477.83
+2026-07-18,C1004,Facebook Loyalty Push 4,Facebook,Men 18-24,Increase Sales,499.38,50049,685,47,3024.64
+2026-07-18,C1007,Instagram Summer Sale 1,Instagram,Men 18-24,Market Expansion,531.56,46519,660,26,1972.73
+2026-07-18,C1008,Instagram Back to School 2,Instagram,All Ages,Increase Sales,269.0,21734,215,10,705.7
+2026-07-18,C1010,Instagram Loyalty Push 4,Instagram,Women 35-44,Market Expansion,403.96,37213,314,23,1328.09
+2026-07-18,C1011,Instagram Flash Deal 5,Instagram,Men 25-34,Brand Awareness,414.95,37547,285,4,273.74
+2026-07-18,C1012,Instagram Holiday Preview 6,Instagram,All Ages,Increase Sales,437.54,46580,306,12,699.92
+2026-07-18,C1013,Pinterest Summer Sale 1,Pinterest,Men 25-34,Product Launch,165.62,29594,223,8,632.77
+2026-07-18,C1017,Pinterest Flash Deal 5,Pinterest,Men 18-24,Brand Awareness,121.26,20384,164,7,640.24
+2026-07-18,C1018,Pinterest Holiday Preview 6,Pinterest,Men 18-24,Market Expansion,281.63,42401,370,20,1790.28
+2026-07-18,C1020,Twitter Back to School 2,Twitter,Women 35-44,Market Expansion,285.83,39135,372,8,473.17
+2026-07-18,C1021,Twitter New Arrivals 3,Twitter,Women 35-44,Product Launch,176.72,25272,232,12,672.19
+2026-07-18,C1022,Twitter Loyalty Push 4,Twitter,Men 25-34,Product Launch,259.37,36233,455,11,637.6
+2026-07-18,C1023,Twitter Flash Deal 5,Twitter,Men 25-34,Brand Awareness,429.69,62173,555,2,90.11
+2026-07-18,C1024,Twitter Holiday Preview 6,Twitter,Women 25-34,Market Expansion,172.45,20807,190,5,248.46
+2026-07-19,C1001,Facebook Summer Sale 1,Facebook,Women 35-44,Brand Awareness,230.99,23291,325,13,738.5
+2026-07-19,C1004,Facebook Loyalty Push 4,Facebook,Men 18-24,Increase Sales,414.4,45407,583,33,1641.35
+2026-07-19,C1007,Instagram Summer Sale 1,Instagram,Men 18-24,Market Expansion,427.78,34933,352,25,1830.25
+2026-07-19,C1008,Instagram Back to School 2,Instagram,All Ages,Increase Sales,350.61,34036,357,16,853.18
+2026-07-19,C1010,Instagram Loyalty Push 4,Instagram,Women 35-44,Market Expansion,358.6,32579,285,12,817.37
+2026-07-19,C1011,Instagram Flash Deal 5,Instagram,Men 25-34,Brand Awareness,555.27,52831,368,8,484.74
+2026-07-19,C1012,Instagram Holiday Preview 6,Instagram,All Ages,Increase Sales,375.47,36989,363,13,902.14
+2026-07-19,C1013,Pinterest Summer Sale 1,Pinterest,Men 25-34,Product Launch,225.23,43972,345,4,318.71
+2026-07-19,C1017,Pinterest Flash Deal 5,Pinterest,Men 18-24,Brand Awareness,149.94,25419,237,8,618.52
+2026-07-19,C1018,Pinterest Holiday Preview 6,Pinterest,Men 18-24,Market Expansion,313.62,55407,552,26,2459.59
+2026-07-19,C1020,Twitter Back to School 2,Twitter,Women 35-44,Market Expansion,186.14,21282,221,3,160.7
+2026-07-19,C1021,Twitter New Arrivals 3,Twitter,Women 35-44,Product Launch,188.5,25413,269,7,377.84
+2026-07-19,C1022,Twitter Loyalty Push 4,Twitter,Men 25-34,Product Launch,334.95,40570,471,8,441.26
+2026-07-19,C1023,Twitter Flash Deal 5,Twitter,Men 25-34,Brand Awareness,472.38,59491,483,8,440.06
+2026-07-19,C1024,Twitter Holiday Preview 6,Twitter,Women 25-34,Market Expansion,199.35,29702,218,6,345.69
+2026-07-20,C1001,Facebook Summer Sale 1,Facebook,Women 35-44,Brand Awareness,369.79,46383,526,6,356.24
+2026-07-20,C1004,Facebook Loyalty Push 4,Facebook,Men 18-24,Increase Sales,363.6,40583,433,13,838.83
+2026-07-20,C1007,Instagram Summer Sale 1,Instagram,Men 18-24,Market Expansion,368.15,32454,345,18,1173.77
+2026-07-20,C1008,Instagram Back to School 2,Instagram,All Ages,Increase Sales,225.42,18820,171,12,816.55
+2026-07-20,C1010,Instagram Loyalty Push 4,Instagram,Women 35-44,Market Expansion,512.58,47162,425,6,463.93
+2026-07-20,C1011,Instagram Flash Deal 5,Instagram,Men 25-34,Brand Awareness,465.18,43616,280,3,190.65
+2026-07-20,C1012,Instagram Holiday Preview 6,Instagram,All Ages,Increase Sales,253.26,24521,223,9,634.02
+2026-07-20,C1013,Pinterest Summer Sale 1,Pinterest,Men 25-34,Product Launch,155.69,24392,177,4,288.34
+2026-07-20,C1018,Pinterest Holiday Preview 6,Pinterest,Men 18-24,Market Expansion,241.29,33343,297,17,1591.54
+2026-07-20,C1020,Twitter Back to School 2,Twitter,Women 35-44,Market Expansion,251.7,30089,266,4,210.81
+2026-07-20,C1021,Twitter New Arrivals 3,Twitter,Women 35-44,Product Launch,145.97,21329,192,3,151.4
+2026-07-20,C1022,Twitter Loyalty Push 4,Twitter,Men 25-34,Product Launch,348.85,52567,652,21,1255.12
+2026-07-20,C1023,Twitter Flash Deal 5,Twitter,Men 25-34,Brand Awareness,448.39,59663,483,12,546.79
+2026-07-20,C1024,Twitter Holiday Preview 6,Twitter,Women 25-34,Market Expansion,188.84,25250,216,2,115.07
+2026-07-21,C1001,Facebook Summer Sale 1,Facebook,Women 35-44,Brand Awareness,321.51,38045,592,11,639.2
+2026-07-21,C1004,Facebook Loyalty Push 4,Facebook,Men 18-24,Increase Sales,408.15,41164,566,24,1609.83
+2026-07-21,C1007,Instagram Summer Sale 1,Instagram,Men 18-24,Market Expansion,501.93,43022,461,20,1242.27
+2026-07-21,C1008,Instagram Back to School 2,Instagram,All Ages,Increase Sales,195.54,17425,129,10,661.79
+2026-07-21,C1010,Instagram Loyalty Push 4,Instagram,Women 35-44,Market Expansion,328.48,29058,207,6,439.24
+2026-07-21,C1011,Instagram Flash Deal 5,Instagram,Men 25-34,Brand Awareness,393.15,34716,230,6,416.11
+2026-07-21,C1012,Instagram Holiday Preview 6,Instagram,All Ages,Increase Sales,347.01,34573,366,24,1934.06
+2026-07-21,C1013,Pinterest Summer Sale 1,Pinterest,Men 25-34,Product Launch,175.24,30382,234,6,558.39
+2026-07-21,C1018,Pinterest Holiday Preview 6,Pinterest,Men 18-24,Market Expansion,283.61,49486,487,13,1192.46
+2026-07-21,C1020,Twitter Back to School 2,Twitter,Women 35-44,Market Expansion,220.47,30060,263,3,165.99
+2026-07-21,C1021,Twitter New Arrivals 3,Twitter,Women 35-44,Product Launch,188.07,28944,308,9,522.09
+2026-07-21,C1022,Twitter Loyalty Push 4,Twitter,Men 25-34,Product Launch,397.43,46445,578,10,479.59
+2026-07-21,C1023,Twitter Flash Deal 5,Twitter,Men 25-34,Brand Awareness,273.27,33634,293,5,228.13
+2026-07-21,C1024,Twitter Holiday Preview 6,Twitter,Women 25-34,Market Expansion,137.55,19993,163,4,235.03
+2026-07-22,C1001,Facebook Summer Sale 1,Facebook,Women 35-44,Brand Awareness,314.1,36410,529,13,824.96
+2026-07-22,C1004,Facebook Loyalty Push 4,Facebook,Men 18-24,Increase Sales,388.07,45825,673,60,3454.46
+2026-07-22,C1007,Instagram Summer Sale 1,Instagram,Men 18-24,Market Expansion,473.47,43299,540,35,2640.88
+2026-07-22,C1008,Instagram Back to School 2,Instagram,All Ages,Increase Sales,203.42,18806,190,11,788.28
+2026-07-22,C1010,Instagram Loyalty Push 4,Instagram,Women 35-44,Market Expansion,392.44,37341,349,8,503.96
+2026-07-22,C1011,Instagram Flash Deal 5,Instagram,Men 25-34,Brand Awareness,420.43,40365,287,2,136.27
+2026-07-22,C1012,Instagram Holiday Preview 6,Instagram,All Ages,Increase Sales,396.69,38100,330,24,1600.81
+2026-07-22,C1018,Pinterest Holiday Preview 6,Pinterest,Men 18-24,Market Expansion,322.65,55565,450,13,980.83
+2026-07-22,C1020,Twitter Back to School 2,Twitter,Women 35-44,Market Expansion,185.3,21963,213,6,242.38
+2026-07-22,C1021,Twitter New Arrivals 3,Twitter,Women 35-44,Product Launch,200.65,23859,230,5,236.64
+2026-07-22,C1022,Twitter Loyalty Push 4,Twitter,Men 25-34,Product Launch,347.48,47862,374,14,800.01
+2026-07-22,C1023,Twitter Flash Deal 5,Twitter,Men 25-34,Brand Awareness,379.53,51308,408,6,258.14
+2026-07-22,C1024,Twitter Holiday Preview 6,Twitter,Women 25-34,Market Expansion,173.44,23046,155,1,56.59
+2026-07-23,C1001,Facebook Summer Sale 1,Facebook,Women 35-44,Brand Awareness,263.84,30362,369,19,1181.78
+2026-07-23,C1004,Facebook Loyalty Push 4,Facebook,Men 18-24,Increase Sales,434.58,47206,550,25,1610.52
+2026-07-23,C1007,Instagram Summer Sale 1,Instagram,Men 18-24,Market Expansion,334.71,28980,373,19,984.76
+2026-07-23,C1008,Instagram Back to School 2,Instagram,All Ages,Increase Sales,226.45,20067,266,9,666.27
+2026-07-23,C1010,Instagram Loyalty Push 4,Instagram,Women 35-44,Market Expansion,318.38,29841,255,8,497.88
+2026-07-23,C1011,Instagram Flash Deal 5,Instagram,Men 25-34,Brand Awareness,318.1,29140,153,5,302.81
+2026-07-23,C1012,Instagram Holiday Preview 6,Instagram,All Ages,Increase Sales,195.12,20183,177,7,416.89
+2026-07-23,C1018,Pinterest Holiday Preview 6,Pinterest,Men 18-24,Market Expansion,212.8,29511,187,10,862.74
+2026-07-23,C1020,Twitter Back to School 2,Twitter,Women 35-44,Market Expansion,189.76,25047,252,5,274.47
+2026-07-23,C1021,Twitter New Arrivals 3,Twitter,Women 35-44,Product Launch,201.68,23835,153,4,189.54
+2026-07-23,C1022,Twitter Loyalty Push 4,Twitter,Men 25-34,Product Launch,296.69,36207,452,16,976.35
+2026-07-23,C1023,Twitter Flash Deal 5,Twitter,Men 25-34,Brand Awareness,312.9,46642,453,1,60.85
+2026-07-23,C1024,Twitter Holiday Preview 6,Twitter,Women 25-34,Market Expansion,192.48,25400,254,7,389.08
+2026-07-24,C1001,Facebook Summer Sale 1,Facebook,Women 35-44,Brand Awareness,371.92,39276,553,18,846.73
+2026-07-24,C1004,Facebook Loyalty Push 4,Facebook,Men 18-24,Increase Sales,415.66,49551,636,37,2471.22
+2026-07-24,C1007,Instagram Summer Sale 1,Instagram,Men 18-24,Market Expansion,407.33,37142,456,21,1350.59
+2026-07-24,C1008,Instagram Back to School 2,Instagram,All Ages,Increase Sales,199.23,18854,187,17,1081.9
+2026-07-24,C1010,Instagram Loyalty Push 4,Instagram,Women 35-44,Market Expansion,314.95,29368,170,8,525.1
+2026-07-24,C1011,Instagram Flash Deal 5,Instagram,Men 25-34,Brand Awareness,398.75,40237,230,4,338.48
+2026-07-24,C1012,Instagram Holiday Preview 6,Instagram,All Ages,Increase Sales,484.86,47911,450,17,1217.52
+2026-07-24,C1018,Pinterest Holiday Preview 6,Pinterest,Men 18-24,Market Expansion,196.7,29341,202,8,578.07
+2026-07-24,C1020,Twitter Back to School 2,Twitter,Women 35-44,Market Expansion,270.51,39146,392,12,625.17
+2026-07-24,C1021,Twitter New Arrivals 3,Twitter,Women 35-44,Product Launch,138.76,18098,142,1,57.13
+2026-07-24,C1022,Twitter Loyalty Push 4,Twitter,Men 25-34,Product Launch,296.12,34922,412,9,530.17
+2026-07-24,C1023,Twitter Flash Deal 5,Twitter,Men 25-34,Brand Awareness,325.08,52461,450,5,290.07
+2026-07-24,C1024,Twitter Holiday Preview 6,Twitter,Women 25-34,Market Expansion,171.99,19895,160,4,203.55
+2026-07-25,C1001,Facebook Summer Sale 1,Facebook,Women 35-44,Brand Awareness,526.26,70398,943,34,1873.3
+2026-07-25,C1004,Facebook Loyalty Push 4,Facebook,Men 18-24,Increase Sales,482.65,53817,596,40,2584.73
+2026-07-25,C1007,Instagram Summer Sale 1,Instagram,Men 18-24,Market Expansion,366.97,41430,476,22,1429.81
+2026-07-25,C1008,Instagram Back to School 2,Instagram,All Ages,Increase Sales,340.55,28357,271,11,675.46
+2026-07-25,C1010,Instagram Loyalty Push 4,Instagram,Women 35-44,Market Expansion,383.84,33534,388,22,1875.76
+2026-07-25,C1011,Instagram Flash Deal 5,Instagram,Men 25-34,Brand Awareness,218.54,19712,131,4,247.22
+2026-07-25,C1012,Instagram Holiday Preview 6,Instagram,All Ages,Increase Sales,527.58,41887,460,20,1414.88
+2026-07-25,C1018,Pinterest Holiday Preview 6,Pinterest,Men 18-24,Market Expansion,343.08,55634,410,23,2088.23
+2026-07-25,C1020,Twitter Back to School 2,Twitter,Women 35-44,Market Expansion,318.88,45077,463,12,742.23
+2026-07-25,C1021,Twitter New Arrivals 3,Twitter,Women 35-44,Product Launch,221.11,28670,262,5,290.51
+2026-07-25,C1022,Twitter Loyalty Push 4,Twitter,Men 25-34,Product Launch,346.26,42712,551,11,593.84
+2026-07-25,C1023,Twitter Flash Deal 5,Twitter,Men 25-34,Brand Awareness,378.48,56530,616,6,318.96
+2026-07-25,C1024,Twitter Holiday Preview 6,Twitter,Women 25-34,Market Expansion,164.22,25216,273,0,0.0
+2026-07-26,C1001,Facebook Summer Sale 1,Facebook,Women 35-44,Brand Awareness,450.52,52158,587,18,922.86
+2026-07-26,C1004,Facebook Loyalty Push 4,Facebook,Men 18-24,Increase Sales,523.2,58588,934,53,3699.75
+2026-07-26,C1007,Instagram Summer Sale 1,Instagram,Men 18-24,Market Expansion,525.67,49592,642,30,2248.39
+2026-07-26,C1008,Instagram Back to School 2,Instagram,All Ages,Increase Sales,276.18,22349,236,12,904.59
+2026-07-26,C1010,Instagram Loyalty Push 4,Instagram,Women 35-44,Market Expansion,396.31,36364,340,16,959.2
+2026-07-26,C1011,Instagram Flash Deal 5,Instagram,Men 25-34,Brand Awareness,412.91,39083,212,1,84.56
+2026-07-26,C1012,Instagram Holiday Preview 6,Instagram,All Ages,Increase Sales,311.52,29997,235,8,545.86
+2026-07-26,C1018,Pinterest Holiday Preview 6,Pinterest,Men 18-24,Market Expansion,367.39,56554,533,21,1883.9
+2026-07-26,C1020,Twitter Back to School 2,Twitter,Women 35-44,Market Expansion,173.94,23667,239,5,273.43
+2026-07-26,C1021,Twitter New Arrivals 3,Twitter,Women 35-44,Product Launch,155.88,20259,148,3,154.62
+2026-07-26,C1022,Twitter Loyalty Push 4,Twitter,Men 25-34,Product Launch,469.1,58869,701,27,1497.59
+2026-07-26,C1023,Twitter Flash Deal 5,Twitter,Men 25-34,Brand Awareness,426.93,52071,357,5,230.65
+2026-07-26,C1024,Twitter Holiday Preview 6,Twitter,Women 25-34,Market Expansion,169.71,22486,230,4,203.26
+2026-07-27,C1001,Facebook Summer Sale 1,Facebook,Women 35-44,Brand Awareness,365.25,39315,648,12,767.76
+2026-07-27,C1004,Facebook Loyalty Push 4,Facebook,Men 18-24,Increase Sales,375.05,40564,671,32,1971.4
+2026-07-27,C1007,Instagram Summer Sale 1,Instagram,Men 18-24,Market Expansion,424.71,35969,428,16,1210.05
+2026-07-27,C1008,Instagram Back to School 2,Instagram,All Ages,Increase Sales,173.52,16780,166,8,576.94
+2026-07-27,C1010,Instagram Loyalty Push 4,Instagram,Women 35-44,Market Expansion,295.61,26753,292,12,907.93
+2026-07-27,C1011,Instagram Flash Deal 5,Instagram,Men 25-34,Brand Awareness,344.01,32644,246,4,294.29
+2026-07-27,C1012,Instagram Holiday Preview 6,Instagram,All Ages,Increase Sales,381.15,37650,349,32,1982.2
+2026-07-27,C1018,Pinterest Holiday Preview 6,Pinterest,Men 18-24,Market Expansion,243.74,41758,386,16,1563.39
+2026-07-27,C1021,Twitter New Arrivals 3,Twitter,Women 35-44,Product Launch,146.93,21012,199,3,154.31
+2026-07-27,C1022,Twitter Loyalty Push 4,Twitter,Men 25-34,Product Launch,388.91,48929,631,23,1232.02
+2026-07-27,C1023,Twitter Flash Deal 5,Twitter,Men 25-34,Brand Awareness,251.2,29076,243,2,114.14
+2026-07-27,C1024,Twitter Holiday Preview 6,Twitter,Women 25-34,Market Expansion,175.41,20357,200,3,167.83
+2026-07-28,C1001,Facebook Summer Sale 1,Facebook,Women 35-44,Brand Awareness,299.26,33722,512,16,958.04
+2026-07-28,C1004,Facebook Loyalty Push 4,Facebook,Men 18-24,Increase Sales,431.81,44728,511,28,1572.13
+2026-07-28,C1007,Instagram Summer Sale 1,Instagram,Men 18-24,Market Expansion,379.11,33128,346,11,786.83
+2026-07-28,C1008,Instagram Back to School 2,Instagram,All Ages,Increase Sales,216.22,19390,224,23,1539.04
+2026-07-28,C1010,Instagram Loyalty Push 4,Instagram,Women 35-44,Market Expansion,327.65,28731,298,17,1066.34
+2026-07-28,C1011,Instagram Flash Deal 5,Instagram,Men 25-34,Brand Awareness,298.08,30335,230,3,193.84
+2026-07-28,C1012,Instagram Holiday Preview 6,Instagram,All Ages,Increase Sales,294.86,26359,201,7,467.64
+2026-07-28,C1018,Pinterest Holiday Preview 6,Pinterest,Men 18-24,Market Expansion,265.48,44826,444,19,1419.98
+2026-07-28,C1021,Twitter New Arrivals 3,Twitter,Women 35-44,Product Launch,181.74,23208,207,3,153.36
+2026-07-28,C1022,Twitter Loyalty Push 4,Twitter,Men 25-34,Product Launch,325.84,43088,582,13,856.13
+2026-07-28,C1023,Twitter Flash Deal 5,Twitter,Men 25-34,Brand Awareness,365.35,51919,529,7,355.11
+2026-07-28,C1024,Twitter Holiday Preview 6,Twitter,Women 25-34,Market Expansion,226.76,31591,338,11,637.13
+2026-07-29,C1001,Facebook Summer Sale 1,Facebook,Women 35-44,Brand Awareness,349.54,33538,400,6,382.13
+2026-07-29,C1004,Facebook Loyalty Push 4,Facebook,Men 18-24,Increase Sales,470.94,54977,732,38,2210.83
+2026-07-29,C1007,Instagram Summer Sale 1,Instagram,Men 18-24,Market Expansion,370.91,30622,408,17,1114.08
+2026-07-29,C1008,Instagram Back to School 2,Instagram,All Ages,Increase Sales,215.14,16837,145,9,539.34
+2026-07-29,C1010,Instagram Loyalty Push 4,Instagram,Women 35-44,Market Expansion,350.07,30628,214,10,614.61
+2026-07-29,C1011,Instagram Flash Deal 5,Instagram,Men 25-34,Brand Awareness,298.02,26465,150,3,176.97
+2026-07-29,C1012,Instagram Holiday Preview 6,Instagram,All Ages,Increase Sales,250.02,21625,202,10,713.2
+2026-07-29,C1018,Pinterest Holiday Preview 6,Pinterest,Men 18-24,Market Expansion,291.18,54086,381,14,1150.93
+2026-07-29,C1021,Twitter New Arrivals 3,Twitter,Women 35-44,Product Launch,118.05,16639,141,4,210.45
+2026-07-29,C1022,Twitter Loyalty Push 4,Twitter,Men 25-34,Product Launch,259.83,34959,409,8,408.78
+2026-07-29,C1023,Twitter Flash Deal 5,Twitter,Men 25-34,Brand Awareness,298.8,40062,455,4,239.24
+2026-07-29,C1024,Twitter Holiday Preview 6,Twitter,Women 25-34,Market Expansion,158.04,20803,200,1,59.56
+2026-07-30,C1001,Facebook Summer Sale 1,Facebook,Women 35-44,Brand Awareness,309.17,30733,435,15,966.06
+2026-07-30,C1004,Facebook Loyalty Push 4,Facebook,Men 18-24,Increase Sales,323.13,32808,368,25,1628.7
+2026-07-30,C1007,Instagram Summer Sale 1,Instagram,Men 18-24,Market Expansion,353.72,37184,474,33,2461.39
+2026-07-30,C1008,Instagram Back to School 2,Instagram,All Ages,Increase Sales,217.29,20052,176,9,520.27
+2026-07-30,C1010,Instagram Loyalty Push 4,Instagram,Women 35-44,Market Expansion,317.2,27538,218,9,659.19
+2026-07-30,C1011,Instagram Flash Deal 5,Instagram,Men 25-34,Brand Awareness,478.28,39944,258,3,228.29
+2026-07-30,C1012,Instagram Holiday Preview 6,Instagram,All Ages,Increase Sales,289.5,26516,252,23,1765.9
+2026-07-30,C1018,Pinterest Holiday Preview 6,Pinterest,Men 18-24,Market Expansion,271.44,48000,351,23,1880.41
+2026-07-30,C1021,Twitter New Arrivals 3,Twitter,Women 35-44,Product Launch,163.88,22008,231,6,326.77
+2026-07-30,C1022,Twitter Loyalty Push 4,Twitter,Men 25-34,Product Launch,393.45,52421,553,18,864.16
+2026-07-30,C1023,Twitter Flash Deal 5,Twitter,Men 25-34,Brand Awareness,422.3,62431,552,11,632.52
+2026-07-31,C1001,Facebook Summer Sale 1,Facebook,Women 35-44,Brand Awareness,344.09,40730,652,15,1003.54
+2026-07-31,C1004,Facebook Loyalty Push 4,Facebook,Men 18-24,Increase Sales,422.99,45594,754,36,2680.84
+2026-07-31,C1007,Instagram Summer Sale 1,Instagram,Men 18-24,Market Expansion,415.78,37256,428,20,1600.93
+2026-07-31,C1008,Instagram Back to School 2,Instagram,All Ages,Increase Sales,226.63,21206,171,10,698.52
+2026-07-31,C1010,Instagram Loyalty Push 4,Instagram,Women 35-44,Market Expansion,301.75,28030,269,8,551.96
+2026-07-31,C1011,Instagram Flash Deal 5,Instagram,Men 25-34,Brand Awareness,343.54,31690,166,2,110.0
+2026-07-31,C1012,Instagram Holiday Preview 6,Instagram,All Ages,Increase Sales,350.71,31214,289,21,1362.37
+2026-07-31,C1018,Pinterest Holiday Preview 6,Pinterest,Men 18-24,Market Expansion,222.48,34011,327,10,809.73
+2026-07-31,C1021,Twitter New Arrivals 3,Twitter,Women 35-44,Product Launch,175.69,23808,204,5,273.3
+2026-07-31,C1022,Twitter Loyalty Push 4,Twitter,Men 25-34,Product Launch,384.51,51230,576,7,407.63
+2026-07-31,C1023,Twitter Flash Deal 5,Twitter,Men 25-34,Brand Awareness,330.19,47189,445,5,290.83
+2026-08-01,C1001,Facebook Summer Sale 1,Facebook,Women 35-44,Brand Awareness,517.99,55442,735,36,2047.48
+2026-08-01,C1004,Facebook Loyalty Push 4,Facebook,Men 18-24,Increase Sales,482.17,56686,638,42,2607.66
+2026-08-01,C1008,Instagram Back to School 2,Instagram,All Ages,Increase Sales,173.95,14590,154,13,896.08
+2026-08-01,C1010,Instagram Loyalty Push 4,Instagram,Women 35-44,Market Expansion,361.11,27863,245,7,423.19
+2026-08-01,C1011,Instagram Flash Deal 5,Instagram,Men 25-34,Brand Awareness,422.56,43073,323,4,302.2
+2026-08-01,C1012,Instagram Holiday Preview 6,Instagram,All Ages,Increase Sales,304.46,28910,244,6,390.65
+2026-08-01,C1018,Pinterest Holiday Preview 6,Pinterest,Men 18-24,Market Expansion,237.27,38725,319,12,1005.3
+2026-08-01,C1021,Twitter New Arrivals 3,Twitter,Women 35-44,Product Launch,161.59,18575,170,2,114.82
+2026-08-01,C1022,Twitter Loyalty Push 4,Twitter,Men 25-34,Product Launch,302.0,35278,393,7,433.1
+2026-08-01,C1023,Twitter Flash Deal 5,Twitter,Men 25-34,Brand Awareness,538.34,74155,665,9,516.41
+2026-08-02,C1001,Facebook Summer Sale 1,Facebook,Women 35-44,Brand Awareness,350.51,31716,390,9,500.48
+2026-08-02,C1004,Facebook Loyalty Push 4,Facebook,Men 18-24,Increase Sales,421.81,43818,491,43,2544.39
+2026-08-02,C1008,Instagram Back to School 2,Instagram,All Ages,Increase Sales,222.51,21837,213,14,1027.35
+2026-08-02,C1010,Instagram Loyalty Push 4,Instagram,Women 35-44,Market Expansion,388.97,35933,289,10,677.64
+2026-08-02,C1011,Instagram Flash Deal 5,Instagram,Men 25-34,Brand Awareness,409.74,42705,227,3,216.15
+2026-08-02,C1012,Instagram Holiday Preview 6,Instagram,All Ages,Increase Sales,399.4,37969,366,35,2504.31
+2026-08-02,C1018,Pinterest Holiday Preview 6,Pinterest,Men 18-24,Market Expansion,426.54,83148,627,22,1914.82
+2026-08-02,C1021,Twitter New Arrivals 3,Twitter,Women 35-44,Product Launch,206.28,26041,246,4,214.99
+2026-08-02,C1022,Twitter Loyalty Push 4,Twitter,Men 25-34,Product Launch,497.02,57654,597,26,1655.83
+2026-08-02,C1023,Twitter Flash Deal 5,Twitter,Men 25-34,Brand Awareness,443.68,59244,649,9,485.68
+2026-08-03,C1001,Facebook Summer Sale 1,Facebook,Women 35-44,Brand Awareness,351.11,42287,511,14,866.82
+2026-08-03,C1004,Facebook Loyalty Push 4,Facebook,Men 18-24,Increase Sales,411.63,47971,564,40,2483.45
+2026-08-03,C1008,Instagram Back to School 2,Instagram,All Ages,Increase Sales,175.6,16785,145,7,329.72
+2026-08-03,C1010,Instagram Loyalty Push 4,Instagram,Women 35-44,Market Expansion,242.28,20999,191,8,596.34
+2026-08-03,C1012,Instagram Holiday Preview 6,Instagram,All Ages,Increase Sales,458.48,44684,322,26,1955.6
+2026-08-03,C1018,Pinterest Holiday Preview 6,Pinterest,Men 18-24,Market Expansion,363.13,60470,627,26,2506.11
+2026-08-03,C1021,Twitter New Arrivals 3,Twitter,Women 35-44,Product Launch,148.86,19566,199,7,358.9
+2026-08-03,C1023,Twitter Flash Deal 5,Twitter,Men 25-34,Brand Awareness,332.51,46383,424,5,281.52
+2026-08-04,C1001,Facebook Summer Sale 1,Facebook,Women 35-44,Brand Awareness,399.56,40718,567,11,658.07
+2026-08-04,C1004,Facebook Loyalty Push 4,Facebook,Men 18-24,Increase Sales,382.34,42149,501,29,1655.23
+2026-08-04,C1008,Instagram Back to School 2,Instagram,All Ages,Increase Sales,234.25,22389,231,20,1237.87
+2026-08-04,C1010,Instagram Loyalty Push 4,Instagram,Women 35-44,Market Expansion,410.85,39052,310,15,934.17
+2026-08-04,C1012,Instagram Holiday Preview 6,Instagram,All Ages,Increase Sales,296.73,28325,242,11,764.73
+2026-08-04,C1018,Pinterest Holiday Preview 6,Pinterest,Men 18-24,Market Expansion,238.87,38289,310,7,564.78
+2026-08-04,C1021,Twitter New Arrivals 3,Twitter,Women 35-44,Product Launch,184.1,23438,188,11,646.47
+2026-08-04,C1023,Twitter Flash Deal 5,Twitter,Men 25-34,Brand Awareness,366.44,51608,415,4,210.3
+2026-08-05,C1001,Facebook Summer Sale 1,Facebook,Women 35-44,Brand Awareness,289.47,31916,490,10,637.52
+2026-08-05,C1004,Facebook Loyalty Push 4,Facebook,Men 18-24,Increase Sales,306.04,34642,414,25,1382.98
+2026-08-05,C1008,Instagram Back to School 2,Instagram,All Ages,Increase Sales,127.34,11134,120,8,527.94
+2026-08-05,C1010,Instagram Loyalty Push 4,Instagram,Women 35-44,Market Expansion,309.87,29926,273,16,975.18
+2026-08-05,C1012,Instagram Holiday Preview 6,Instagram,All Ages,Increase Sales,397.3,35061,335,15,926.94
+2026-08-05,C1018,Pinterest Holiday Preview 6,Pinterest,Men 18-24,Market Expansion,305.1,52570,424,15,1183.23
+2026-08-05,C1021,Twitter New Arrivals 3,Twitter,Women 35-44,Product Launch,134.14,16052,152,3,151.61
+2026-08-05,C1023,Twitter Flash Deal 5,Twitter,Men 25-34,Brand Awareness,352.71,48396,480,5,258.65
+2026-08-06,C1001,Facebook Summer Sale 1,Facebook,Women 35-44,Brand Awareness,403.75,40769,445,11,700.97
+2026-08-06,C1004,Facebook Loyalty Push 4,Facebook,Men 18-24,Increase Sales,293.18,36700,375,18,1081.96
+2026-08-06,C1008,Instagram Back to School 2,Instagram,All Ages,Increase Sales,246.04,23272,274,15,1177.68
+2026-08-06,C1010,Instagram Loyalty Push 4,Instagram,Women 35-44,Market Expansion,354.31,30644,206,2,129.17
+2026-08-06,C1012,Instagram Holiday Preview 6,Instagram,All Ages,Increase Sales,359.22,35863,396,13,958.07
+2026-08-06,C1018,Pinterest Holiday Preview 6,Pinterest,Men 18-24,Market Expansion,212.85,31269,300,11,813.43
+2026-08-06,C1021,Twitter New Arrivals 3,Twitter,Women 35-44,Product Launch,170.67,26369,223,3,150.21
+2026-08-06,C1023,Twitter Flash Deal 5,Twitter,Men 25-34,Brand Awareness,355.77,49659,453,8,493.86
+2026-08-07,C1001,Facebook Summer Sale 1,Facebook,Women 35-44,Brand Awareness,364.85,43061,623,24,1336.13
+2026-08-07,C1004,Facebook Loyalty Push 4,Facebook,Men 18-24,Increase Sales,466.01,48439,506,30,1721.5
+2026-08-07,C1008,Instagram Back to School 2,Instagram,All Ages,Increase Sales,236.75,21018,226,12,970.26
+2026-08-07,C1010,Instagram Loyalty Push 4,Instagram,Women 35-44,Market Expansion,288.03,28867,334,17,1246.46
+2026-08-07,C1012,Instagram Holiday Preview 6,Instagram,All Ages,Increase Sales,336.13,28000,198,11,735.23
+2026-08-07,C1018,Pinterest Holiday Preview 6,Pinterest,Men 18-24,Market Expansion,300.6,50575,493,25,1979.81
+2026-08-07,C1021,Twitter New Arrivals 3,Twitter,Women 35-44,Product Launch,164.89,20593,198,4,190.45
+2026-08-07,C1023,Twitter Flash Deal 5,Twitter,Men 25-34,Brand Awareness,390.51,51416,470,8,350.86
+2026-08-08,C1001,Facebook Summer Sale 1,Facebook,Women 35-44,Brand Awareness,271.39,30393,493,18,1117.28
+2026-08-08,C1004,Facebook Loyalty Push 4,Facebook,Men 18-24,Increase Sales,434.48,52777,547,17,929.37
+2026-08-08,C1008,Instagram Back to School 2,Instagram,All Ages,Increase Sales,295.87,26992,266,19,1459.58
+2026-08-08,C1010,Instagram Loyalty Push 4,Instagram,Women 35-44,Market Expansion,479.73,44896,544,24,1958.12
+2026-08-08,C1012,Instagram Holiday Preview 6,Instagram,All Ages,Increase Sales,416.13,41580,297,13,920.99
+2026-08-08,C1018,Pinterest Holiday Preview 6,Pinterest,Men 18-24,Market Expansion,372.94,72351,567,18,1449.68
+2026-08-08,C1021,Twitter New Arrivals 3,Twitter,Women 35-44,Product Launch,229.67,32286,298,6,324.15
+2026-08-08,C1023,Twitter Flash Deal 5,Twitter,Men 25-34,Brand Awareness,464.38,60066,556,10,559.0
+2026-08-09,C1001,Facebook Summer Sale 1,Facebook,Women 35-44,Brand Awareness,385.99,39404,737,16,1055.45
+2026-08-09,C1004,Facebook Loyalty Push 4,Facebook,Men 18-24,Increase Sales,465.03,52689,724,47,3091.3
+2026-08-09,C1008,Instagram Back to School 2,Instagram,All Ages,Increase Sales,207.42,18204,194,15,1189.21
+2026-08-09,C1010,Instagram Loyalty Push 4,Instagram,Women 35-44,Market Expansion,454.98,41447,374,15,1025.24
+2026-08-09,C1012,Instagram Holiday Preview 6,Instagram,All Ages,Increase Sales,413.69,39359,407,26,1503.83
+2026-08-09,C1018,Pinterest Holiday Preview 6,Pinterest,Men 18-24,Market Expansion,234.58,38422,421,19,1684.73
+2026-08-09,C1021,Twitter New Arrivals 3,Twitter,Women 35-44,Product Launch,168.0,22139,212,3,170.16
+2026-08-09,C1023,Twitter Flash Deal 5,Twitter,Men 25-34,Brand Awareness,413.59,62572,497,10,524.15
+2026-08-10,C1001,Facebook Summer Sale 1,Facebook,Women 35-44,Brand Awareness,383.01,46811,708,21,1312.89
+2026-08-10,C1004,Facebook Loyalty Push 4,Facebook,Men 18-24,Increase Sales,366.85,34740,406,21,1318.52
+2026-08-10,C1008,Instagram Back to School 2,Instagram,All Ages,Increase Sales,112.06,9369,115,8,590.03
+2026-08-10,C1010,Instagram Loyalty Push 4,Instagram,Women 35-44,Market Expansion,306.75,27524,250,9,655.86
+2026-08-10,C1012,Instagram Holiday Preview 6,Instagram,All Ages,Increase Sales,331.71,30624,219,16,908.94
+2026-08-10,C1018,Pinterest Holiday Preview 6,Pinterest,Men 18-24,Market Expansion,210.51,33762,350,9,723.84
+2026-08-10,C1021,Twitter New Arrivals 3,Twitter,Women 35-44,Product Launch,138.24,18101,179,4,205.2
+2026-08-10,C1023,Twitter Flash Deal 5,Twitter,Men 25-34,Brand Awareness,334.49,44822,343,4,254.29
+2026-08-11,C1001,Facebook Summer Sale 1,Facebook,Women 35-44,Brand Awareness,319.24,31838,525,9,561.37
+2026-08-11,C1004,Facebook Loyalty Push 4,Facebook,Men 18-24,Increase Sales,171.14,17071,271,19,1308.16
+2026-08-11,C1008,Instagram Back to School 2,Instagram,All Ages,Increase Sales,302.09,28315,261,14,803.0
+2026-08-11,C1010,Instagram Loyalty Push 4,Instagram,Women 35-44,Market Expansion,406.19,41725,385,20,1367.92
+2026-08-11,C1012,Instagram Holiday Preview 6,Instagram,All Ages,Increase Sales,360.13,32591,327,19,1294.43
+2026-08-11,C1018,Pinterest Holiday Preview 6,Pinterest,Men 18-24,Market Expansion,184.89,29143,278,8,680.6
+2026-08-11,C1021,Twitter New Arrivals 3,Twitter,Women 35-44,Product Launch,192.14,26151,216,4,219.46
+2026-08-11,C1023,Twitter Flash Deal 5,Twitter,Men 25-34,Brand Awareness,357.91,52682,459,2,128.79
+2026-08-12,C1004,Facebook Loyalty Push 4,Facebook,Men 18-24,Increase Sales,400.59,46143,616,44,3039.4
+2026-08-12,C1008,Instagram Back to School 2,Instagram,All Ages,Increase Sales,190.32,15671,162,8,511.06
+2026-08-12,C1010,Instagram Loyalty Push 4,Instagram,Women 35-44,Market Expansion,334.08,31468,285,17,1010.41
+2026-08-12,C1012,Instagram Holiday Preview 6,Instagram,All Ages,Increase Sales,347.72,31128,269,10,903.98
+2026-08-12,C1018,Pinterest Holiday Preview 6,Pinterest,Men 18-24,Market Expansion,319.71,50735,463,13,1016.56
+2026-08-12,C1021,Twitter New Arrivals 3,Twitter,Women 35-44,Product Launch,204.96,27453,292,7,328.39
+2026-08-12,C1023,Twitter Flash Deal 5,Twitter,Men 25-34,Brand Awareness,404.32,51687,474,9,544.62
+2026-08-13,C1004,Facebook Loyalty Push 4,Facebook,Men 18-24,Increase Sales,464.17,49814,664,36,2122.58
+2026-08-13,C1008,Instagram Back to School 2,Instagram,All Ages,Increase Sales,289.01,24984,278,15,941.96
+2026-08-13,C1010,Instagram Loyalty Push 4,Instagram,Women 35-44,Market Expansion,269.83,24327,247,13,862.42
+2026-08-13,C1012,Instagram Holiday Preview 6,Instagram,All Ages,Increase Sales,364.37,29467,296,23,1815.67
+2026-08-13,C1018,Pinterest Holiday Preview 6,Pinterest,Men 18-24,Market Expansion,267.12,47043,414,18,1472.84
+2026-08-13,C1021,Twitter New Arrivals 3,Twitter,Women 35-44,Product Launch,167.93,22652,220,2,118.93
+2026-08-13,C1023,Twitter Flash Deal 5,Twitter,Men 25-34,Brand Awareness,419.39,52788,426,4,227.44
+2026-08-14,C1004,Facebook Loyalty Push 4,Facebook,Men 18-24,Increase Sales,320.44,27735,321,27,1890.12
+2026-08-14,C1008,Instagram Back to School 2,Instagram,All Ages,Increase Sales,233.89,20860,172,9,606.87
+2026-08-14,C1010,Instagram Loyalty Push 4,Instagram,Women 35-44,Market Expansion,324.81,25786,216,9,499.41
+2026-08-14,C1012,Instagram Holiday Preview 6,Instagram,All Ages,Increase Sales,373.24,36571,349,32,2568.04
+2026-08-14,C1018,Pinterest Holiday Preview 6,Pinterest,Men 18-24,Market Expansion,284.98,54128,468,17,1316.72
+2026-08-14,C1021,Twitter New Arrivals 3,Twitter,Women 35-44,Product Launch,169.41,23567,211,9,534.29
+2026-08-14,C1023,Twitter Flash Deal 5,Twitter,Men 25-34,Brand Awareness,260.2,36514,360,2,107.34
+2026-08-15,C1004,Facebook Loyalty Push 4,Facebook,Men 18-24,Increase Sales,459.45,54425,686,48,3096.52
+2026-08-15,C1008,Instagram Back to School 2,Instagram,All Ages,Increase Sales,220.23,20133,197,13,822.59
+2026-08-15,C1010,Instagram Loyalty Push 4,Instagram,Women 35-44,Market Expansion,274.78,26305,160,4,300.53
+2026-08-15,C1012,Instagram Holiday Preview 6,Instagram,All Ages,Increase Sales,449.14,41523,406,30,1955.12
+2026-08-15,C1018,Pinterest Holiday Preview 6,Pinterest,Men 18-24,Market Expansion,360.55,63616,561,21,1845.8
+2026-08-15,C1021,Twitter New Arrivals 3,Twitter,Women 35-44,Product Launch,192.94,25486,199,8,454.6
+2026-08-15,C1023,Twitter Flash Deal 5,Twitter,Men 25-34,Brand Awareness,388.69,60866,588,7,419.55
+2026-08-16,C1004,Facebook Loyalty Push 4,Facebook,Men 18-24,Increase Sales,615.29,66886,881,61,2942.59
+2026-08-16,C1008,Instagram Back to School 2,Instagram,All Ages,Increase Sales,379.4,36934,460,28,1884.52
+2026-08-16,C1010,Instagram Loyalty Push 4,Instagram,Women 35-44,Market Expansion,591.38,43985,452,20,1377.65
+2026-08-16,C1012,Instagram Holiday Preview 6,Instagram,All Ages,Increase Sales,413.18,37626,371,16,1072.56
+2026-08-16,C1018,Pinterest Holiday Preview 6,Pinterest,Men 18-24,Market Expansion,284.35,47535,455,15,1285.75
+2026-08-16,C1021,Twitter New Arrivals 3,Twitter,Women 35-44,Product Launch,265.45,35657,397,7,383.76
+2026-08-16,C1023,Twitter Flash Deal 5,Twitter,Men 25-34,Brand Awareness,273.74,35805,272,6,365.15
+2026-08-17,C1004,Facebook Loyalty Push 4,Facebook,Men 18-24,Increase Sales,482.53,54341,764,48,3001.2
+2026-08-17,C1008,Instagram Back to School 2,Instagram,All Ages,Increase Sales,208.72,19821,183,9,554.5
+2026-08-17,C1010,Instagram Loyalty Push 4,Instagram,Women 35-44,Market Expansion,272.5,26319,208,11,742.96
+2026-08-17,C1012,Instagram Holiday Preview 6,Instagram,All Ages,Increase Sales,333.77,29511,264,13,867.18
+2026-08-17,C1021,Twitter New Arrivals 3,Twitter,Women 35-44,Product Launch,189.52,27019,238,2,103.81
+2026-08-17,C1023,Twitter Flash Deal 5,Twitter,Men 25-34,Brand Awareness,388.82,52015,474,4,188.45
+2026-08-18,C1004,Facebook Loyalty Push 4,Facebook,Men 18-24,Increase Sales,571.64,67756,916,62,4156.03
+2026-08-18,C1008,Instagram Back to School 2,Instagram,All Ages,Increase Sales,182.2,18702,198,11,652.02
+2026-08-18,C1010,Instagram Loyalty Push 4,Instagram,Women 35-44,Market Expansion,437.93,43701,370,18,1245.58
+2026-08-18,C1012,Instagram Holiday Preview 6,Instagram,All Ages,Increase Sales,359.32,31512,301,17,1094.86
+2026-08-18,C1021,Twitter New Arrivals 3,Twitter,Women 35-44,Product Launch,153.01,19287,195,3,166.73
+2026-08-18,C1023,Twitter Flash Deal 5,Twitter,Men 25-34,Brand Awareness,337.81,44650,323,3,187.6
+2026-08-19,C1004,Facebook Loyalty Push 4,Facebook,Men 18-24,Increase Sales,314.96,34501,378,30,1853.07
+2026-08-19,C1008,Instagram Back to School 2,Instagram,All Ages,Increase Sales,165.65,14824,137,10,671.77
+2026-08-19,C1010,Instagram Loyalty Push 4,Instagram,Women 35-44,Market Expansion,314.26,28453,297,12,701.59
+2026-08-19,C1012,Instagram Holiday Preview 6,Instagram,All Ages,Increase Sales,273.34,26868,217,8,488.95
+2026-08-19,C1021,Twitter New Arrivals 3,Twitter,Women 35-44,Product Launch,189.96,23991,218,3,160.12
+2026-08-19,C1023,Twitter Flash Deal 5,Twitter,Men 25-34,Brand Awareness,295.31,40142,247,1,61.24
+2026-08-20,C1004,Facebook Loyalty Push 4,Facebook,Men 18-24,Increase Sales,395.14,39741,384,37,2654.16
+2026-08-20,C1008,Instagram Back to School 2,Instagram,All Ages,Increase Sales,241.69,23230,221,17,946.46
+2026-08-20,C1010,Instagram Loyalty Push 4,Instagram,Women 35-44,Market Expansion,281.96,28705,275,13,841.44
+2026-08-20,C1012,Instagram Holiday Preview 6,Instagram,All Ages,Increase Sales,389.49,37806,379,14,1074.8
+2026-08-20,C1021,Twitter New Arrivals 3,Twitter,Women 35-44,Product Launch,130.64,17524,154,6,290.35
+2026-08-20,C1023,Twitter Flash Deal 5,Twitter,Men 25-34,Brand Awareness,317.11,39521,364,8,445.0
+2026-08-21,C1004,Facebook Loyalty Push 4,Facebook,Men 18-24,Increase Sales,313.02,33800,468,31,2073.63
+2026-08-21,C1008,Instagram Back to School 2,Instagram,All Ages,Increase Sales,237.91,22882,246,12,850.8
+2026-08-21,C1010,Instagram Loyalty Push 4,Instagram,Women 35-44,Market Expansion,336.61,29387,239,8,464.04
+2026-08-21,C1012,Instagram Holiday Preview 6,Instagram,All Ages,Increase Sales,385.33,33087,296,10,615.23
+2026-08-21,C1021,Twitter New Arrivals 3,Twitter,Women 35-44,Product Launch,168.37,23185,247,7,429.21
+2026-08-21,C1023,Twitter Flash Deal 5,Twitter,Men 25-34,Brand Awareness,342.14,47223,480,8,482.88
+2026-08-22,C1004,Facebook Loyalty Push 4,Facebook,Men 18-24,Increase Sales,351.87,38350,437,8,461.33
+2026-08-22,C1008,Instagram Back to School 2,Instagram,All Ages,Increase Sales,234.63,23223,195,6,295.98
+2026-08-22,C1010,Instagram Loyalty Push 4,Instagram,Women 35-44,Market Expansion,390.0,40030,382,13,937.64
+2026-08-22,C1012,Instagram Holiday Preview 6,Instagram,All Ages,Increase Sales,285.8,22731,205,11,791.15
+2026-08-22,C1021,Twitter New Arrivals 3,Twitter,Women 35-44,Product Launch,246.78,36536,367,14,835.02
+2026-08-22,C1023,Twitter Flash Deal 5,Twitter,Men 25-34,Brand Awareness,417.12,54783,529,9,373.24
+2026-08-23,C1004,Facebook Loyalty Push 4,Facebook,Men 18-24,Increase Sales,442.17,48789,573,30,1694.93
+2026-08-23,C1008,Instagram Back to School 2,Instagram,All Ages,Increase Sales,218.4,19773,185,9,631.88
+2026-08-23,C1010,Instagram Loyalty Push 4,Instagram,Women 35-44,Market Expansion,173.41,16451,138,3,218.37
+2026-08-23,C1012,Instagram Holiday Preview 6,Instagram,All Ages,Increase Sales,376.69,32087,319,20,1207.32
+2026-08-23,C1021,Twitter New Arrivals 3,Twitter,Women 35-44,Product Launch,254.98,31040,266,5,252.56
+2026-08-23,C1023,Twitter Flash Deal 5,Twitter,Men 25-34,Brand Awareness,301.12,38883,268,7,402.42
+2026-08-24,C1004,Facebook Loyalty Push 4,Facebook,Men 18-24,Increase Sales,301.91,32359,402,25,1593.58
+2026-08-24,C1008,Instagram Back to School 2,Instagram,All Ages,Increase Sales,213.6,19175,171,7,438.82
+2026-08-24,C1010,Instagram Loyalty Push 4,Instagram,Women 35-44,Market Expansion,370.79,33834,273,11,620.24
+2026-08-24,C1012,Instagram Holiday Preview 6,Instagram,All Ages,Increase Sales,297.38,27858,271,16,1207.55
+2026-08-24,C1021,Twitter New Arrivals 3,Twitter,Women 35-44,Product Launch,169.5,27885,285,7,357.72
+2026-08-24,C1023,Twitter Flash Deal 5,Twitter,Men 25-34,Brand Awareness,381.8,54585,564,9,509.16
+2026-08-25,C1004,Facebook Loyalty Push 4,Facebook,Men 18-24,Increase Sales,333.66,34505,339,12,676.96
+2026-08-25,C1008,Instagram Back to School 2,Instagram,All Ages,Increase Sales,263.7,25532,241,20,1334.43
+2026-08-25,C1010,Instagram Loyalty Push 4,Instagram,Women 35-44,Market Expansion,317.38,30269,239,7,371.17
+2026-08-25,C1012,Instagram Holiday Preview 6,Instagram,All Ages,Increase Sales,281.26,26428,170,5,370.82
+2026-08-25,C1021,Twitter New Arrivals 3,Twitter,Women 35-44,Product Launch,151.19,20013,202,4,212.21
+2026-08-25,C1023,Twitter Flash Deal 5,Twitter,Men 25-34,Brand Awareness,319.85,46538,408,7,425.37
+2026-08-26,C1004,Facebook Loyalty Push 4,Facebook,Men 18-24,Increase Sales,489.79,47007,504,31,1838.25
+2026-08-26,C1008,Instagram Back to School 2,Instagram,All Ages,Increase Sales,237.26,22868,197,16,1142.97
+2026-08-26,C1010,Instagram Loyalty Push 4,Instagram,Women 35-44,Market Expansion,346.34,35564,401,17,1218.86
+2026-08-26,C1012,Instagram Holiday Preview 6,Instagram,All Ages,Increase Sales,308.14,25841,209,12,952.63
+2026-08-26,C1021,Twitter New Arrivals 3,Twitter,Women 35-44,Product Launch,195.08,24384,305,9,458.86
+2026-08-26,C1023,Twitter Flash Deal 5,Twitter,Men 25-34,Brand Awareness,299.66,37753,321,2,101.27
+2026-08-27,C1004,Facebook Loyalty Push 4,Facebook,Men 18-24,Increase Sales,388.5,47082,669,54,3007.07
+2026-08-27,C1008,Instagram Back to School 2,Instagram,All Ages,Increase Sales,168.55,17510,166,10,692.18
+2026-08-27,C1010,Instagram Loyalty Push 4,Instagram,Women 35-44,Market Expansion,278.63,26864,299,11,743.53
+2026-08-27,C1012,Instagram Holiday Preview 6,Instagram,All Ages,Increase Sales,294.84,29787,222,16,1029.25
+2026-08-27,C1023,Twitter Flash Deal 5,Twitter,Men 25-34,Brand Awareness,356.87,51820,406,7,420.58
+2026-08-28,C1004,Facebook Loyalty Push 4,Facebook,Men 18-24,Increase Sales,388.61,42340,446,20,1363.45
+2026-08-28,C1008,Instagram Back to School 2,Instagram,All Ages,Increase Sales,343.67,31995,394,25,1445.32
+2026-08-28,C1010,Instagram Loyalty Push 4,Instagram,Women 35-44,Market Expansion,377.45,32848,322,11,896.8
+2026-08-28,C1012,Instagram Holiday Preview 6,Instagram,All Ages,Increase Sales,376.26,39301,378,16,977.38
+2026-08-28,C1023,Twitter Flash Deal 5,Twitter,Men 25-34,Brand Awareness,303.47,40389,299,4,260.79
+2026-08-29,C1004,Facebook Loyalty Push 4,Facebook,Men 18-24,Increase Sales,428.56,47884,664,39,2307.24
+2026-08-29,C1008,Instagram Back to School 2,Instagram,All Ages,Increase Sales,336.19,31051,207,14,871.08
+2026-08-29,C1010,Instagram Loyalty Push 4,Instagram,Women 35-44,Market Expansion,368.39,35216,269,7,434.56
+2026-08-29,C1012,Instagram Holiday Preview 6,Instagram,All Ages,Increase Sales,348.15,37124,332,21,1606.36
+2026-08-30,C1004,Facebook Loyalty Push 4,Facebook,Men 18-24,Increase Sales,499.54,59141,642,28,1416.16
+2026-08-30,C1008,Instagram Back to School 2,Instagram,All Ages,Increase Sales,199.63,18044,182,7,479.24
+2026-08-30,C1010,Instagram Loyalty Push 4,Instagram,Women 35-44,Market Expansion,385.38,36433,384,13,798.84
+2026-08-30,C1012,Instagram Holiday Preview 6,Instagram,All Ages,Increase Sales,392.51,31224,285,22,1467.1
+2026-08-31,C1004,Facebook Loyalty Push 4,Facebook,Men 18-24,Increase Sales,249.93,24972,261,11,651.96
+2026-08-31,C1008,Instagram Back to School 2,Instagram,All Ages,Increase Sales,163.35,13283,120,3,218.95
+2026-08-31,C1010,Instagram Loyalty Push 4,Instagram,Women 35-44,Market Expansion,262.39,21311,204,4,247.68
+2026-09-01,C1004,Facebook Loyalty Push 4,Facebook,Men 18-24,Increase Sales,472.4,55268,726,36,2035.31
+2026-09-01,C1008,Instagram Back to School 2,Instagram,All Ages,Increase Sales,223.01,22124,201,19,1236.95
+2026-09-02,C1008,Instagram Back to School 2,Instagram,All Ages,Increase Sales,227.97,21624,222,10,638.88
+2026-09-03,C1008,Instagram Back to School 2,Instagram,All Ages,Increase Sales,203.72,18422,186,8,415.75
+2026-09-04,C1008,Instagram Back to School 2,Instagram,All Ages,Increase Sales,303.78,27290,302,26,1664.43
+2026-09-05,C1008,Instagram Back to School 2,Instagram,All Ages,Increase Sales,296.6,25560,225,15,937.22
+2026-09-06,C1008,Instagram Back to School 2,Instagram,All Ages,Increase Sales,185.14,15842,115,5,305.91
+2026-09-07,C1008,Instagram Back to School 2,Instagram,All Ages,Increase Sales,164.19,13566,139,11,749.84
+2026-09-08,C1008,Instagram Back to School 2,Instagram,All Ages,Increase Sales,213.82,19124,247,16,1017.96
+2026-09-09,C1008,Instagram Back to School 2,Instagram,All Ages,Increase Sales,205.33,18333,153,9,617.29
+2026-09-10,C1008,Instagram Back to School 2,Instagram,All Ages,Increase Sales,190.2,16830,185,11,658.31
+2026-09-11,C1008,Instagram Back to School 2,Instagram,All Ages,Increase Sales,184.41,16168,175,10,698.5
+2026-09-12,C1008,Instagram Back to School 2,Instagram,All Ages,Increase Sales,231.47,20573,197,16,928.36
+2026-09-13,C1008,Instagram Back to School 2,Instagram,All Ages,Increase Sales,209.21,17750,164,12,779.63
+2026-09-14,C1008,Instagram Back to School 2,Instagram,All Ages,Increase Sales,141.88,12971,136,2,134.71
+2026-09-15,C1008,Instagram Back to School 2,Instagram,All Ages,Increase Sales,195.27,18462,208,10,676.51
+2026-09-16,C1008,Instagram Back to School 2,Instagram,All Ages,Increase Sales,238.43,23362,222,21,1588.3
+2026-09-17,C1008,Instagram Back to School 2,Instagram,All Ages,Increase Sales,275.8,25720,294,11,788.12
+2026-09-18,C1008,Instagram Back to School 2,Instagram,All Ages,Increase Sales,211.18,18171,206,7,451.17
+2026-09-19,C1008,Instagram Back to School 2,Instagram,All Ages,Increase Sales,248.56,21228,221,15,1106.11
+2026-09-20,C1008,Instagram Back to School 2,Instagram,All Ages,Increase Sales,314.07,26656,302,22,1178.1
+2026-09-21,C1008,Instagram Back to School 2,Instagram,All Ages,Increase Sales,251.82,21236,207,11,757.41
+2026-09-22,C1008,Instagram Back to School 2,Instagram,All Ages,Increase Sales,210.22,17414,161,6,296.26
+2026-09-23,C1008,Instagram Back to School 2,Instagram,All Ages,Increase Sales,208.71,18032,194,14,1132.93
+2026-09-24,C1008,Instagram Back to School 2,Instagram,All Ages,Increase Sales,168.17,15801,162,13,878.18
+2026-09-25,C1008,Instagram Back to School 2,Instagram,All Ages,Increase Sales,203.91,17532,185,14,867.01
+2026-09-26,C1008,Instagram Back to School 2,Instagram,All Ages,Increase Sales,248.87,22082,220,7,496.21
